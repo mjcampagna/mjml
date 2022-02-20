@@ -7,7 +7,7 @@
       <mj-section padding="0 0 48px" />
       <mj-table padding="0" />
       <mj-text
-        font-family="-apple-system, 'system-ui', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif"
+        font-family="Helvetica, sans-serif"
         font-size="14px"
         padding="0"
       />
@@ -18,9 +18,6 @@
       body {
         background-color: #ffffff;
         padding: 0 12px;
-      }
-      .text {
-        color: red;
       }
 
       .web-version-link {
@@ -221,10 +218,10 @@
 
     <mj-section>
       <mj-column>
-        <mj-image src="./20211211-165810-mc-0045.jpg" alt="Hero image; field lights at sunset." />
+        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202202/20211211-165810-mc-0045.jpg?raw=true" alt="Hero image; field lights at sunset." />
         <mj-text css-class="article">
           <p>Hi [Name,fallback=Friend],</p>
-          <p>New updates are available for Backlight!</p>
+          <p>We are slowly getting into the swing of 2022, making plans for things to come. For now, for Backlight, there are updates. And we have a couple of deals for you on presets and coffee, things photographers tend to enjoy.</p>
         </mj-text>        
       </mj-column>
     </mj-section>
@@ -232,7 +229,7 @@
     <mj-section>
       <mj-column>
         <mj-text css-class="article">
-          <h2>Updates</h2>
+          <h2>Backlight Updates</h2>
 
           <h3>Backlight 4.1.2</h3>
           <ul>
@@ -240,11 +237,11 @@
             <li>Updates Backlight Admin&#8217;s breakpoint from 992 to 1024</li>
             <li>Adds fixes for compatibility with PHP 8.1.0 and PHP 8.1.2</li>
           </ul>
-          <h3>Cart v7.0.3</h3>
+          <h3>Cart 7.0.3</h3>
           <ul>
             <li>Fixes error message when attempting to send No Products Available notification email</li>
           </ul>
-          <h3>Client Response v10.1.1</h3>
+          <h3>Client Response 10.1.1</h3>
           <ul>
             <li>Fixes issue of saving blank password when editing Client</li>
           </ul>
@@ -261,16 +258,16 @@
         <mj-text css-class="article">
           <h2>Save 20% at Seim Effects</h2>
           <figure>
-            <img src="./20211030-164338-mc-0015.jpg" alt="Hero image; field lights at sunset." />
-            <figcaption>Basic exposure adjustments + Natural HDR 4; <cite>Street Rich + Drop-tone: Mobile Balance + TRich: Classic Tonemap</cite>.</figcaption>
+            <img src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202202/20211030-164338-mc-0015.jpg?raw=true" alt="Golden Gate Bridge" />
+            <figcaption>Basic exposure adjustments + Natural HDR 4 (<cite>Street Rich + Drop-tone: Mobile Balance + TRich: Classic Tonemap</cite>).</figcaption>
           </figure>
           <p><a href="https://seimeffects.com/">Seim Effects</a> is my go-to place for presets, and should be yours as well.</p>
           <p>Gavin Seim is passionate about creating fantastic processing toolkits for Capture One Pro, Lightroom and Photoshop. His latest series include LUTs as well, so can be applied to video, or in software such as ON1 Photo Raw or Luminar.</p>
-          <p>Moreover, Gavin constantly tweaks and updates his presets as the underlying software, and his own understanding of color continues to evolve.</p>
+          <p>Moreover, Gavin constantly tweaks and updates his presets as the underlying software and his own understanding of color continues to evolve.</p>
 
-          <p>So, here&apos;s what I love about having Seim Effects in my arsenal:</p>
-          <p>My tools are agnostic to my software. Regardless how I move between applications, or change my preferred software, neither time, nor money invested goes to waste; I can continue to use my presets.</p>
-          <p>I know that my presets will not become obsolete with the next software version, because Gavin constantly updates and improves them, taking advantage of new software features. Seim Effects only get better with age.</p>
+          <p>Here are two reasons I love having Seim Effects in my arsenal:</p>
+          <p>My tools are agnostic to my software. Regardless how I move between applications, or change my preferred software, neither time, nor money invested goes to waste; I can to use the presets almost everywhere.</p>
+          <p>I have confidence that my presets will not become obsolete with the next software version, because Gavin constantly updates and improves them, leveraging new software features whenever he can. Seim Effects presets only get better with age.</p>
           
           <p><a href="https://seimeffects.com/filmist">Filmist</a> is my favorite; scroll down that page to get a sampler of nine presets for free, and try them out for yourself. Also, the new <a href="https://seimeffects.com/dynamic/">Natural HDR 4</a> is a great toolset for pulling dynamic range out of single images.
 
@@ -279,6 +276,20 @@
       </mj-column>
     </mj-section>
 
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="article">
+          <h2>Enjoy a free cup of coffee</h2>
+          <p>... if you&apos;re in the United States, at least.</p>
+          <p>Monday-to-Friday, I (Matt) work for <a href="https://joe.coffee/">Joe Coffee</a>. We are building a nationwide network of independent coffee shops, and the software to connect them and empower them to complete with larger coffee chains.</p>
+          <p>I have recently been leading the charge to rewrite our consumer app, and the new version has just launched at the beginning of February! The new app spanks its predecessor, and I am very proud of what we have built.</p>
+
+          <p>Our network is dense in some areas; not so much in others. Sadly, we have no shops in San Francisco, so I am unable to use it locally. But check the in-app map; you can <a href="https://shop.joe.coffee/">search the store list and explore the map</a> without creating an account. If you have a nearby shop, I&apos;ll tell you how to get your next cup for free:</p>
+
+          <p>Use <a href="https://shop.joe.coffee/sh/RW9OXS">my referral link</a> to sign up and your account will be credited a free drink. Download the app and use it to locate a nearby coffee shop; order your drink through the app, then skip the line when you pick it up.</p>
+        </mj-text>        
+      </mj-column>
+    </mj-section>
 
     <mj-section>
       <mj-column>
@@ -286,17 +297,20 @@
           <h2>Stuff &amp; Things</h2>
           <p>Our curated list of recent, suggested listening, reading and viewing.</p>
           <dl>
-            <dt><a href="">Title</a></dt>
-            <dd>...</dd>
+            <dt><a href="https://www.polarprofilters.com/products/sd-card-case">PolarPro's Slate Memory Card Case</a></dt>
+            <dd>My new favorite thing for storing memory cards.</dd>
+
+            <dt><a href="https://www.macstories.net/reviews/obscura-3-takes-the-apps-design-in-a-new-direction/">Obscura 3 Takes the App’s Design in a New Direction</a></dt>
+            <dd>A new, improved version of one of the best camera apps on iOS. TBD whether this will dethrone Halide as my go-to app on the rare occasions I shoot with my iPhone.</dd>
+
+            <dt><a href="https://petapixel.com/2022/02/19/man-ray-photo-of-nude-woman-may-soon-be-most-expensive-photo-ever/">Man Ray Photo of Nude Woman May Soon Be Most Expensive Photo Ever</a></dt>
+            <dd>I don&apos;t know. Better this than stupid ape JPEGs, I guess.</dd>
             
-            <dt><a href="">Title</a></dt>
-            <dd>...</dd>
+            <dt><a href="https://www.youtube.com/c/CleoAbram">HUGE *if true</a></dt>
+            <dd>Cleo Abram, formerly of Vox, has gone the way of independent YouTube journalist. Her new series, "HUGE *if true", covers controversial tech from an exploratory angle.</dd>
             
-            <dt><a href="">Title</a></dt>
-            <dd>...</dd>
-            
-            <dt><a href="">Music Pick: ...</a></dt>
-            <dd>...</dd>
+            <dt><a href="https://www.youtube.com/watch?v=ben9qDbrLYU">Music Pick: "Chaeri" by Magdalena Bay</a></dt>
+            <dd>A catchy tune from the band's <cite>Mercurial World</cite> album, which I have been really enjoying lately. Full of hooks, with a sticky, throbbing bass line, and some excellent textures. A lot of mornings lately, I wake up and this is the first thing I want to hear.</dd>
           </dl>
         </mj-text>        
       </mj-column>

@@ -1,2 +1,5 @@
 # mjml
-Newsletters and assets
+
+Newsletters and assets.
+
+Reference images using [Statically](https://statically.io/).
