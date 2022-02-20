@@ -1,0 +1,323 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-button padding="0" />
+      <mj-column padding="0" />
+      <mj-image padding="0" />
+      <mj-section padding="0 0 48px" />
+      <mj-table padding="0" />
+      <mj-text
+        font-family="-apple-system, 'system-ui', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif"
+        font-size="14px"
+        padding="0"
+      />
+      <mj-wrapper padding="0" />
+    </mj-attributes>
+
+    <mj-style>
+      body {
+        background-color: #ffffff;
+        padding: 0 12px;
+      }
+      .text {
+        color: red;
+      }
+
+      .web-version-link {
+        color: #0378D5;
+        margin: 12px 0;
+        text-align: right;
+      }
+      .logo {
+        border: 0 solid #9e9e9e;
+        border-width: 1px 0 0;
+        color: #737373;
+        font-size: 0;
+        padding: 24px 0 12px;
+        text-align: center;
+      }
+      .logo-title {
+        font-size: 24px;
+        margin: 0 auto 12px;
+      }
+      .logo-element {
+        background-color: #9e9e9e;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        display: inline-block;
+        height: 12px;
+        list-style: none;
+        margin: 0 2px;
+        padding: 0;
+        vertical-align: top;
+        width: 12px;
+      }
+      .tall {
+        height: 24px;
+        margin: 0 2px;
+      }
+      .wide {
+        width: 24px;
+      }
+      .blue {
+        background-color: #2196f3;
+      }
+      .blue-alt {
+        background-color: #90caf9;
+      }
+      .orange {
+        background-color: #ff9800;
+      }
+      .green {
+        background-color: #8bc34a;
+      }
+      .green-alt {
+        background-color: #b2ff59;
+      }
+      .dateline {
+        font-size: 12px;
+        margin: 12px auto;
+        text-align: center;
+      }
+
+      .article {
+        background-color: #f5f5f5;
+        border-bottom: 1px solid #e0e0e0;
+        border-radius: 4px 4px 0 0;
+        padding: 0 !important;
+      }
+
+      .social-links {
+        background-color: #f5f5f5;
+        border: 0 solid #e0e0e0;
+        border-width: 1px 0;
+        margin: 0 !important;
+        padding: 12px 0 !important;
+        text-align: center;
+      }
+      .social-links a {
+        margin: 0 12px;
+      }
+      .unsubscribe {
+        cursor: pointer;
+        font-size: 12px;
+        margin:  12px 0 !important;
+        text-align: right;
+        text-decoration: underline;
+      }
+    </mj-style>
+
+    <mj-style inline="inline">
+      h2 {
+        border-bottom: 1px solid #e0e0e0;
+        color: #616161;
+        line-height: 1.25em;
+        margin: 1.25rem 0 0;
+        padding: 0 12px 1.25rem;
+      }
+
+      h3 {
+        color: #616161;
+        font-size: 16px;
+        line-height: 1.25em;
+        margin: 1.25rem 0;
+        padding: 0 12px;
+      }
+
+      hr {
+        border-top: 1px solid #e0e0e0;
+        height: 0;
+        margin: 1.25rem 12px;
+      }
+
+      p {
+        color: #707070;
+        line-height: 1.5em;
+        margin: 1.125rem 0;
+        padding: 0 12px;
+      }
+
+      a {
+        color: #0071CE;
+        cursor: pointer;
+        text-decoration: underline;
+      }
+
+      dl {
+        color: #707070;
+        line-height: 1.5em;
+        margin: 1.125rem 0;
+        padding: 0 12px;
+      }
+      dt {
+        font-weight: bold;
+        margin: 1.125rem 0 0.625em;
+      }
+      dd {
+        margin: 0.625rem 0;
+      }
+
+      figure {
+        margin: 1.5rem 0;
+      }
+
+      h2 + figure {
+        margin-top: 0;
+      }
+
+      figcaption {
+        color: #707070;
+        font-size: 12px;
+        line-height: 1.5em;
+        margin: 6px 12px 0;
+      }
+
+      ol, ul {
+        color: #707070;
+        margin: 1.125rem 0;
+        padding: 0 32px;
+      }
+
+      li {
+        line-height: 1.125em;
+        list-style: square;
+        margin: 0.5rem 0;
+      }
+    </mj-style>
+
+    <mj-title>The Turning Gate</mj-title>
+  </mj-head>
+
+  <mj-body>
+
+    <mj-section padding-bottom="0">
+      <mj-column>
+        <mj-text>
+          <div class="web-version-link">
+            <webversion>view web version</webversion>
+          </div>
+
+          <div class="logo">
+            <h1 class="logo-title">The Turning Gate</h1>
+
+            <span class="logo-element"></span>
+            <span class="logo-element blue-alt"></span>
+            <span class="logo-element wide blue"></span>
+            <span class="logo-element tall wide orange"></span>
+            <span class="logo-element"></span>
+            <span class="logo-element"></span>
+            <span class="logo-element"></span>
+            <span class="logo-element tall green"></span>
+            <span class="logo-element"></span>
+            <span class="logo-element"></span>
+            <span class="logo-element green-alt"></span>
+
+            <div class="dateline">[currentmonth] [currentdaynumber], [currentyear]</div>
+          </div>
+
+        </mj-text>
+      </mj-column>
+    </mj-section>    
+
+    <mj-section>
+      <mj-column>
+        <mj-image src="./20211211-165810-mc-0045.jpg" alt="Hero image; field lights at sunset." />
+        <mj-text css-class="article">
+          <p>Hi [Name,fallback=Friend],</p>
+          <p>New updates are available for Backlight!</p>
+        </mj-text>        
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="article">
+          <h2>Updates</h2>
+
+          <h3>Backlight 4.1.2</h3>
+          <ul>
+            <li>Fixes issue with Essay slideshow in Chrome displaying for modals other than Image Groups</li>
+            <li>Updates Backlight Admin&#8217;s breakpoint from 992 to 1024</li>
+            <li>Adds fixes for compatibility with PHP 8.1.0 and PHP 8.1.2</li>
+          </ul>
+          <h3>Cart v7.0.3</h3>
+          <ul>
+            <li>Fixes error message when attempting to send No Products Available notification email</li>
+          </ul>
+          <h3>Client Response v10.1.1</h3>
+          <ul>
+            <li>Fixes issue of saving blank password when editing Client</li>
+          </ul>
+          <hr />
+          <p>
+            Naturally, <a href="https://blog.theturninggate.net/2018/09/12/installing-updates-in-backlight-2/">updates are easy</a>.
+          </p>
+        </mj-text>        
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="article">
+          <h2>Save 20% at Seim Effects</h2>
+          <figure>
+            <img src="./20211030-164338-mc-0015.jpg" alt="Hero image; field lights at sunset." />
+            <figcaption>Basic exposure adjustments + Natural HDR 4; <cite>Street Rich + Drop-tone: Mobile Balance + TRich: Classic Tonemap</cite>.</figcaption>
+          </figure>
+          <p><a href="https://seimeffects.com/">Seim Effects</a> is my go-to place for presets, and should be yours as well.</p>
+          <p>Gavin Seim is passionate about creating fantastic processing toolkits for Capture One Pro, Lightroom and Photoshop. His latest series include LUTs as well, so can be applied to video, or in software such as ON1 Photo Raw or Luminar.</p>
+          <p>Moreover, Gavin constantly tweaks and updates his presets as the underlying software, and his own understanding of color continues to evolve.</p>
+
+          <p>So, here&apos;s what I love about having Seim Effects in my arsenal:</p>
+          <p>My tools are agnostic to my software. Regardless how I move between applications, or change my preferred software, neither time, nor money invested goes to waste; I can continue to use my presets.</p>
+          <p>I know that my presets will not become obsolete with the next software version, because Gavin constantly updates and improves them, taking advantage of new software features. Seim Effects only get better with age.</p>
+          
+          <p><a href="https://seimeffects.com/filmist">Filmist</a> is my favorite; scroll down that page to get a sampler of nine presets for free, and try them out for yourself. Also, the new <a href="https://seimeffects.com/dynamic/">Natural HDR 4</a> is a great toolset for pulling dynamic range out of single images.
+
+          <p>Use code <strong>TTG20</strong> at checkout to save 20% on your order.</p>
+        </mj-text>        
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="article">
+          <h2>Stuff &amp; Things</h2>
+          <p>Our curated list of recent, suggested listening, reading and viewing.</p>
+          <dl>
+            <dt><a href="">Title</a></dt>
+            <dd>...</dd>
+            
+            <dt><a href="">Title</a></dt>
+            <dd>...</dd>
+            
+            <dt><a href="">Title</a></dt>
+            <dd>...</dd>
+            
+            <dt><a href="">Music Pick: ...</a></dt>
+            <dd>...</dd>
+          </dl>
+        </mj-text>        
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <p class="social-links">
+            <a href="https://blog.theturninggate.net" target="_blank">Blog</a>
+            <a href="https://discourse.theturninggate.net/" target="_blank">Forum</a>
+            <a href="https://www.facebook.com/groups/1029027300459809/" target="_blank">Facebook</a>
+            <a href="https://twitter.com/theturninggate" target="_blank">Twitter</a>
+            <a href="https://www.linkedin.com/company/theturninggate/" target="_blank">LinkedIn</a>
+          </p>
+
+          <p class="unsubscribe">
+            <unsubscribe>Unsubscribe from future mailings.</unsubscribe>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
