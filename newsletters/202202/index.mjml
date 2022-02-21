@@ -20,11 +20,6 @@
         padding: 0 12px;
       }
 
-      .web-version-link {
-        color: #0378D5;
-        margin: 12px 0;
-        text-align: right;
-      }
       .logo {
         border: 0 solid #9e9e9e;
         border-width: 1px 0 0;
@@ -105,6 +100,12 @@
     </mj-style>
 
     <mj-style inline="inline">
+      .web-version-link {
+        color: #0071CE;
+        margin: 12px 0;
+        text-align: right;
+      }
+
       h2 {
         border-bottom: 1px solid #e0e0e0;
         color: #616161;
@@ -160,6 +161,12 @@
 
       h2 + figure {
         margin-top: 0;
+      }
+
+      img {
+        display: block;
+        height: auto;
+        max-width: 100%;
       }
 
       figcaption {
@@ -221,7 +228,9 @@
         <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202202/20211211-165810-mc-0045.jpg?raw=true" alt="Hero image; field lights at sunset." />
         <mj-text css-class="article">
           <p>Hi [Name,fallback=Friend],</p>
-          <p>We are slowly getting into the swing of 2022, making plans for things to come. For now, for Backlight, there are updates. And we have a couple of deals for you on presets and coffee, things photographers tend to enjoy.</p>
+          <p>Matt here, for The Turning Gate. We&apos;ve turned over another year, and I&apos;m switching the lights back on, metaphorically speaking. Or trying to, at the very least. At some point in my youth, I had thought the new year was a new beginning. I now know better than that; but it is a chance to partially reset, to clear one&apos;s table, to make space for new things.</p>
+          <p>I&apos;m clearing the table now. As relates to Backlight, new updates serve to tie off loose ends, detailed below. And now I just need to file taxes to put 2021 firmly into my rearview.</p>
+          <p>Looking ahead, we are piecing together plans for Backlight in 2022; more on that in a future missive. I&apos;ve overhauled how these newsletters get put together, which is long overdue. And will this be the year I finally add a guitar track to the intro music for our videos ...?!</p>
         </mj-text>        
       </mj-column>
     </mj-section>
@@ -230,6 +239,7 @@
       <mj-column>
         <mj-text css-class="article">
           <h2>Backlight Updates</h2>
+          <p>The following updates are now available for Backlight 4.</p>
 
           <h3>Backlight 4.1.2</h3>
           <ul>
@@ -261,13 +271,18 @@
             <img src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202202/20211030-164338-mc-0015.jpg?raw=true" alt="Golden Gate Bridge" />
             <figcaption>Basic exposure adjustments + Natural HDR 4 (<cite>Street Rich + Drop-tone: Mobile Balance + TRich: Classic Tonemap</cite>).</figcaption>
           </figure>
-          <p><a href="https://seimeffects.com/">Seim Effects</a> is my go-to place for presets, and should be yours as well.</p>
-          <p>Gavin Seim is passionate about creating fantastic processing toolkits for Capture One Pro, Lightroom and Photoshop. His latest series include LUTs as well, so can be applied to video, or in software such as ON1 Photo Raw or Luminar.</p>
-          <p>Moreover, Gavin constantly tweaks and updates his presets as the underlying software and his own understanding of color continues to evolve.</p>
+
+          <p>Some time back, I did <a href="https://blog.theturninggate.net/2019/10/21/impressions-the-filmist-preset-collection-by-seim-effects/">an impressions piece on the Filmist preset collection</a> from <a href="https://seimeffects.com/">Seim Effects</a>. I liked Filmist then, and I like it better now, recently updated to version 1.5. New versions are also available for several other Seim Effects packs, so lemme rap a bit.</p>
+
+          <p>I regularly use presets in my processing, as they are a great way to move rapidly through processing a set of images. I often use presets of my own design, but I also rely on presets from Seim Effects, and I&apos;ll tell you why that is.</p>
+
+          <p>Gavin Seim is passionate about creating fantastic processing toolkits for Capture One Pro, Lightroom and Photoshop. His latest sets include LUTs as well, so can be applied to video, or used in LUT-enabled photo software, including ON1 Photo Raw, and Luminar.</p>
+
+          <p>Further, Gavin constantly tweaks and updates his presets, releasing new versions as the underlying software evolves, and his own understanding of color, and processing technique expands.</p>
 
           <p>Here are two reasons I love having Seim Effects in my arsenal:</p>
-          <p>My tools are agnostic to my software. Regardless how I move between applications, or change my preferred software, neither time, nor money invested goes to waste; I can to use the presets almost everywhere.</p>
-          <p>I have confidence that my presets will not become obsolete with the next software version, because Gavin constantly updates and improves them, leveraging new software features whenever he can. Seim Effects presets only get better with age.</p>
+          <p>1. My tools are agnostic to my software. Regardless how I move between applications, or change my preferred software, neither time, nor money invested goes to waste; I can to use the presets almost everywhere.</p>
+          <p>2. I have confidence that my presets will not become obsolete with the next software version, because Gavin constantly updates and improves them, leveraging new software features whenever he can. Seim Effects presets only get better with age.</p>
           
           <p><a href="https://seimeffects.com/filmist">Filmist</a> is my favorite; scroll down that page to get a sampler of nine presets for free, and try them out for yourself. Also, the new <a href="https://seimeffects.com/dynamic/">Natural HDR 4</a> is a great toolset for pulling dynamic range out of single images.
 
