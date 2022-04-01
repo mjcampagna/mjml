@@ -19,15 +19,7 @@
         background-color: #ffffff;
         padding: 0 12px;
       }
-      .text {
-        color: red;
-      }
 
-      .web-version-link {
-        color: #0378D5;
-        margin: 12px 0;
-        text-align: right;
-      }
       .logo {
         border: 0 solid #9e9e9e;
         border-width: 1px 0 0;
@@ -108,11 +100,17 @@
     </mj-style>
 
     <mj-style inline="inline">
+      .web-version-link {
+        color: #0071CE;
+        margin: 12px 0;
+        text-align: right;
+      }
+
       h2 {
         border-bottom: 1px solid #e0e0e0;
         color: #616161;
         line-height: 1.25em;
-        margin: 1.25rem 0;
+        margin: 1.25rem 0 0;
         padding: 0 12px 1.25rem;
       }
 
@@ -122,6 +120,12 @@
         line-height: 1.25em;
         margin: 1.25rem 0;
         padding: 0 12px;
+      }
+
+      hr {
+        border-top: 1px solid #e0e0e0;
+        height: 0;
+        margin: 1.25rem 12px;
       }
 
       p {
@@ -149,6 +153,27 @@
       }
       dd {
         margin: 0.625rem 0;
+      }
+
+      figure {
+        margin: 1.5rem 0;
+      }
+
+      h2 + figure {
+        margin-top: 0;
+      }
+
+      img {
+        display: block;
+        height: auto;
+        max-width: 100%;
+      }
+
+      figcaption {
+        color: #707070;
+        font-size: 12px;
+        line-height: 1.5em;
+        margin: 6px 12px 0;
       }
 
       ol, ul {
@@ -200,6 +225,7 @@
 
     <mj-section>
       <mj-column>
+        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202202/20220115-170324-mc-0096.jpg?raw=true" alt="Hero image; field lights at sunset." />
         <mj-text css-class="article">
           <p>Hi [Name,fallback=Friend],</p>
         </mj-text>        
@@ -220,10 +246,17 @@
           <h2>Save 20% at Seim Effects</h2>
           <figure>
             <img src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202204/20220319-155742-mc-0767.jpg?raw=true" alt="Lake Tahoe" />
-            <figcaption></figcaption>
             <figcaption>Basic exposure adjustments + Filmist (<cite>Agfaflex 45</cite>).</figcaption>
           </figure>
-
+          <p>Use <a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg">our affiliate link</a> to access the shop. The page is overwhelming, but you&apos;ll want to look for the latest versions of:</p>
+          <ul>
+          <li>Belladonna 2</li>
+          <li>Filmist</li>
+          <li>Muse</li>
+          <li>Natural HDR 4</li>
+          <li>Silver 4</li>
+          </ul>
+          <p>Use code <strong>TTG20</strong> at checkout to save 20% on your order.</p>
         </mj-text>        
       </mj-column>
     </mj-section>
