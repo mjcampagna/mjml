@@ -225,7 +225,7 @@
 
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202202/20220115-170324-mc-0096.jpg?raw=true" alt="Hero image; field lights at sunset." />
+        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202204/20220115-170324-mc-0096.jpg?raw=true" alt="Hero image; big sky over the Presidio, San Francisco." />
         <mj-text css-class="article">
           <p>Hi [Name,fallback=Friend],</p>
         </mj-text>        
@@ -245,16 +245,18 @@
         <mj-text css-class="article">
           <h2>Save 20% at Seim Effects</h2>
           <figure>
-            <img src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202204/20220319-155742-mc-0767.jpg?raw=true" alt="Lake Tahoe" />
-            <figcaption>Basic exposure adjustments + Filmist (<cite>Agfaflex 45</cite>).</figcaption>
+            <img src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202204/mc-20131126-075901-Coron-0002.jpg?raw=true" alt="Lake Tahoe" />
+            <figcaption>Basic exposure adjustments + Filmist (<cite>Natura 1600, Tonal Range Bath A</cite>).</figcaption>
           </figure>
-          <p>Use <a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg">our affiliate link</a> to access the shop. The page is overwhelming, but you&apos;ll want to look for the latest versions of:</p>
+
+          <p><strong>Filmist 1.6</strong> is now available, with the new Natura 1600 film simulation being a highlight item. Gavin has done a <a href="https://youtu.be/6Y90GkmFaDg">Natura 1600 deep dive on YouTube</a>.          
+
+          <p>Use our affiliate links to access the shop. These are my favorite items, available for Capture One Pro, Lightroom and Photoshop.</p>
           <ul>
-          <li>Belladonna 2</li>
-          <li>Filmist</li>
-          <li>Muse</li>
-          <li>Natural HDR 4</li>
-          <li>Silver 4</li>
+            <li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=204172">Belladonna 2</a></li>
+            <li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=183378">Filmist</a></li>
+            <li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=218548">Natural HDR 4</a></li>
+            <li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=204790">Silver 4</a></li>
           </ul>
           <p>Use code <strong>TTG20</strong> at checkout to save 20% on your order.</p>
         </mj-text>        
