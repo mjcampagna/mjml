@@ -235,7 +235,26 @@
     <mj-section>
       <mj-column>
         <mj-text css-class="article">
-          <h2>Updates</h2>
+          <h2>Backlight Updates</h2>
+          <p><strong>Backlight 4.1.3</strong> is now available, featuring the following changes:</p>
+          <ul>
+          <li>Fixes issue with Client Response feedback being shown when not enabled in Album settings</li>
+          <li>Adds suppression of warning when system temporary directory is used when PHP setting points to invalid location</li>
+          <li>Adds further fixes for compatibility with PHP 8.1</li>
+          </ul>
+          <p>We expect this will be the final update for Backlight 4, as Backlight 5 is now on the horizon. We'll likely talk about that in the next newsletter.</p>
+          <p>In the meantime, new purchases of Backlight 4 are also pre-orders for Backlight 5, and will be upgraded upon its release. No need to wait if planning a purchase.</p>
+        </mj-text>        
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="article">
+          <h2>Selecting Thumbnails in Backlight</h2>
+          <p>As often as we answer questions, we often find new folks asking those same questions later on. One recurring topic is that of Thumbnails, and how to select them.</p>
+          <p>This one is a throwback to Backlight 3.2, but worth revisiting, or -- for some -- visiting for the first time. Selecting thumbnails for albums and album sets in Backlight is super easy! This video tells you all their is to know.</p>
+          <p><a href="https://www.youtube.com/watch?v=URqVHVKUunM">Upload Custom Images in Backlight</a></p>
         </mj-text>        
       </mj-column>
     </mj-section>
@@ -245,11 +264,13 @@
         <mj-text css-class="article">
           <h2>Save 20% at Seim Effects</h2>
           <figure>
-            <img src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202204/mc-20131126-075901-Coron-0002.jpg?raw=true" alt="Lake Tahoe" />
+            <img src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202204/mc-20131126-075901-Coron-0002.jpg?raw=true" alt="Coron, Philippines" />
             <figcaption>Basic exposure adjustments + Filmist (<cite>Natura 1600, Tonal Range Bath A</cite>).</figcaption>
           </figure>
 
-          <p><strong>Filmist 1.6</strong> is now available, with the new Natura 1600 film simulation being a highlight item. Gavin has done a <a href="https://youtu.be/6Y90GkmFaDg">Natura 1600 deep dive on YouTube</a>.          
+          <p><strong>Filmist 1.6</strong> is now available, with the new Natura 1600 film simulation being a highlight item. Gavin has done a <a href="https://youtu.be/6Y90GkmFaDg">Natura 1600 deep dive on YouTube</a>.
+
+          <p>The image above is one from Coron, Philippines in 2013. You may recognize it from a long ago blog post, but here I&apos;ve re-processed the image using the new Natura 1600 preset. I very much prefer this new version.</p>
 
           <p>Use our affiliate links to access the shop. These are my favorite items, available for Capture One Pro, Lightroom and Photoshop.</p>
           <ul>
@@ -272,17 +293,20 @@
             <dt><a href="https://www.theverge.com/2022/3/15/22979126/vimeo-patreon-creators-price-increase">Vimeo is telling creators to suddenly pay thousands of dollars ...</a></dt>
             <dd>... or leave the platform. We&apos;ve long suggested that users host video content on Vimeo rather than YouTube, but I think that&apos;s going to have to change in light of this recent reporting from The Verge.</dd>
             
-            <dt><a href="">Title</a></dt>
-            <dd>...</dd>
+            <dt><a href="https://www.newyorker.com/culture/culture-desk/your-camera-roll-contains-a-masterpiece">Your Camera Roll Contains a Masterpiece</a></dt>
+            <dd>From the Culture Desk of The New Yorker, a really lovely read about finding the masterpieces buried in your photo pile.</dd>
             
-            <dt><a href="">Title</a></dt>
-            <dd>...</dd>
+            <dt><a href="https://i-d.vice.com/en_uk/article/akvbwb/yakuza-women-photographs-chloe-jafe">Photographing the hidden lives of Yakuza women</a></dt>
+            <dd>Chloé Jafé&apos;s series, <cite>I give you my life</cite>, lifts the veil on the secret lives of women in the Japanese mob. Follow <a href="https://www.instagram.com/chloe.jafe/">@chloe.jafe</a> on Instagram. <small>(content warning: nudity)</small></dd>
             
-            <dt><a href="">Title</a></dt>
-            <dd>...</dd>
+            <dt><a href="https://www.theverge.com/2022/5/12/23042995/black-hole-image-event-horizon-telescope-sagittarius-a-milky-way">... picture of the supermassive black hole at the heart of the Milky Way</a></dt>
+            <dd>If you haven't seen this by now, it&apos;s very cool and worth seeing.</dd>
             
-            <dt><a href="">Music Pick: ...</a></dt>
-            <dd>...</dd>
+            <dt><a href="https://petapixel.com/2022/05/11/huge-grey-owl-lands-on-wildlife-photographers-camera/">Great Grey Owl Lands on Wildlife Photographer’s Camera</a></dt>
+            <dd>This is a fun one, and there are some great images in here. And I may or may not be setting up a bird theme for later.</dd>
+
+            <dt><a href="https://www.youtube.com/watch?v=l94kK-S8wvc">Music Pick: "Patterns" by Stars</a></dt>
+            <dd>A really lovely song and video from one of my favorite bands, Stars. So far, I'm lovely everything they've released from their upcoming album, and I am extremely excited A) to be seeing them in concert in June, and B) to be seeing a concert again after so long without them.</dd>
           </dl>
         </mj-text>        
       </mj-column>
@@ -294,8 +318,6 @@
           <p class="social-links">
             <a href="https://blog.theturninggate.net" target="_blank">Blog</a>
             <a href="https://discourse.theturninggate.net/" target="_blank">Forum</a>
-            <a href="https://www.facebook.com/groups/1029027300459809/" target="_blank">Facebook</a>
-            <a href="https://twitter.com/theturninggate" target="_blank">Twitter</a>
             <a href="https://www.linkedin.com/company/theturninggate/" target="_blank">LinkedIn</a>
           </p>
 
