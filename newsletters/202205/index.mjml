@@ -225,7 +225,7 @@
 
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202204/20220115-170324-mc-0096.jpg?raw=true" alt="Hero image; big sky over the Presidio, San Francisco." />
+        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202205/20220115-170324-mc-0096.jpg?raw=true" alt="Hero image; big sky over the Presidio, San Francisco." />
         <mj-text css-class="article">
           <p>Hi [Name,fallback=Friend],</p>
         </mj-text>        
@@ -264,7 +264,7 @@
         <mj-text css-class="article">
           <h2>Save 20% at Seim Effects</h2>
           <figure>
-            <img src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202204/mc-20131126-075901-Coron-0002.jpg?raw=true" alt="Coron, Philippines" />
+            <img src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202205/mc-20131126-075901-Coron-0002.jpg?raw=true" alt="Coron, Philippines" />
             <figcaption>Basic exposure adjustments + Filmist (<cite>Natura 1600, Tonal Range Bath A</cite>).</figcaption>
           </figure>
 
