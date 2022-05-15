@@ -228,6 +228,7 @@
         <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202205/20220115-170324-mc-0096.jpg?raw=true" alt="Hero image; big sky over the Presidio, San Francisco." />
         <mj-text css-class="article">
           <p>Hi [Name,fallback=Friend],</p>
+          <p>While we&apos;re working to get Backlight 5 ready, we&apos;ve got a final update for Backlight 4.</p>
         </mj-text>        
       </mj-column>
     </mj-section>
@@ -244,6 +245,9 @@
           </ul>
           <p>We expect this will be the final update for Backlight 4, as Backlight 5 is now on the horizon. We'll likely talk about that in the next newsletter.</p>
           <p>In the meantime, new purchases of Backlight 4 are also pre-orders for Backlight 5, and will be upgraded upon its release. No need to wait if planning a purchase.</p>
+          <p>
+            And once again, <a href="https://blog.theturninggate.net/2018/09/12/installing-updates-in-backlight-2/">updates are easy</a>.
+          </p>
         </mj-text>        
       </mj-column>
     </mj-section>
