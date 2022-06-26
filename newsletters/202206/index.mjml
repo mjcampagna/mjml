@@ -225,44 +225,25 @@
 
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202202/20211211-165810-mc-0045.jpg?raw=true" alt="Hero image; ." />
+        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202206/20220528-163511-mc-1531.jpg?raw=true" alt="Hero image; ." />
         <mj-text css-class="article">
           <p>Hi [Name,fallback=Friend],</p>
-        </mj-text>        
+          <p>We are writing today to notify you of important updates now available for Backlight 2, Backlight 3, and Backlight 4.</p>
+          <p>Lightroom Classic 11.4 was recently released, and included a breaking change that impacted Backlight's Publish Services plugin.</p>
+          <p>The result of this change was that images would be published as full-size, and NOT resized to the dimensions specified in Backlight's templates.</p>
+          <p>We felt this issue was critical to such degree that we should update not only the latest version of Backlight -- Backlight 4 -- but also prior versions, Backlights 2 and 3, which were also impacted by this latest version of Lightroom Classic.</p>
+          <p>To update, you should follow the standard procedure, as in the video below. After performing the update to Backlight, also remember to download and install the latest version of the Publish Services plugin.</p>
+          <p><a href="https://blog.theturninggate.net/2018/09/12/installing-updates-in-backlight-2/">Video: How to update Backlight 2, 3, and 4</a></p>
+        </mj-text>
       </mj-column>
     </mj-section>
 
     <mj-section>
       <mj-column>
         <mj-text css-class="article">
-          <h2>Updates</h2>
-        </mj-text>        
-      </mj-column>
-    </mj-section>
-
-
-
-    <mj-section>
-      <mj-column>
-        <mj-text css-class="article">
-          <h2>Stuff &amp; Things</h2>
-          <p>Our curated list of recent, suggested listening, reading and viewing.</p>
-          <dl>
-            <dt><a href="">Title</a></dt>
-            <dd>...</dd>
-            
-            <dt><a href="">Title</a></dt>
-            <dd>...</dd>
-            
-            <dt><a href="">Title</a></dt>
-            <dd>...</dd>
-            
-            <dt><a href="">Title</a></dt>
-            <dd>...</dd>
-            
-            <dt><a href="">Music Pick: ...</a></dt>
-            <dd>...</dd>
-          </dl>
+          <h2>Upgrade to Backlight 4 + 5</h2>
+          <p>Speaking of updates, if you're still using an older version of Backlight, now is a great time to upgrade to the latest. New purchases of Backlight 4 are now pre-orders for the upcoming Backlight 5! Upgrade today to start using Backlight 4, and you will receive access to Backlight 5 immediately upon its release.</p>
+          <p><a href="https://backlight.me/get-backlight" target="_blank">Get Backlight 4 + 5</a></p>
         </mj-text>        
       </mj-column>
     </mj-section>
@@ -273,8 +254,6 @@
           <p class="social-links">
             <a href="https://blog.theturninggate.net" target="_blank">Blog</a>
             <a href="https://discourse.theturninggate.net/" target="_blank">Forum</a>
-            <!-- <a href="https://www.facebook.com/groups/1029027300459809/" target="_blank">Facebook</a> -->
-            <!-- <a href="https://twitter.com/theturninggate" target="_blank">Twitter</a> -->
             <a href="https://www.linkedin.com/company/theturninggate/" target="_blank">LinkedIn</a>
           </p>
 
