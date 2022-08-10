@@ -201,10 +201,6 @@
     <mj-section padding-bottom="0">
       <mj-column>
         <mj-text>
-          <div class="web-version-link">
-            <webversion>view web version</webversion>
-          </div>
-
           <div class="logo">
             <h1 class="logo-title">The Turning Gate</h1>
 
@@ -232,9 +228,6 @@
         <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202208/Backlight-5-Hero-1200px.jpg?raw=true" alt="Hero image; Backlight 5." />
         <mj-text css-class="article">
           <p>Hi [Name,fallback=Friend],</p>
-          <p><strong>Backlight 5</strong> has arrived!</p>
-          <p>Herein, everything you'll need to know about what's new, and how to upgrade.</p>
-          <p>Most importantly, <strong><a href="https://backlight.me/get-backlight">get Backlight 5 here</a></strong>.</p>
         </mj-text>
       </mj-column>
     </mj-section>
