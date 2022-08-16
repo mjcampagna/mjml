@@ -1,0 +1,289 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-button padding="0" />
+      <mj-column padding="0" />
+      <mj-image padding="0" />
+      <mj-section padding="0 0 48px" />
+      <mj-table padding="0" />
+      <mj-text
+        font-family="-apple-system, 'system-ui', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif"
+        font-size="14px"
+        padding="0"
+      />
+      <mj-wrapper padding="0" />
+    </mj-attributes>
+
+    <mj-style>
+      body {
+        background-color: #ffffff;
+        padding: 0 12px;
+      }
+
+      .logo {
+        border: 0 solid #9e9e9e;
+        border-width: 1px 0 0;
+        color: #737373;
+        font-size: 0;
+        padding: 24px 0 12px;
+        text-align: center;
+      }
+      .logo-title {
+        font-size: 24px;
+        margin: 0 auto 12px;
+      }
+      .logo-element {
+        background-color: #9e9e9e;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        display: inline-block;
+        height: 12px;
+        list-style: none;
+        margin: 0 2px;
+        padding: 0;
+        vertical-align: top;
+        width: 12px;
+      }
+      .tall {
+        height: 24px;
+        margin: 0 2px;
+      }
+      .wide {
+        width: 24px;
+      }
+      .blue {
+        background-color: #2196f3;
+      }
+      .blue-alt {
+        background-color: #90caf9;
+      }
+      .orange {
+        background-color: #ff9800;
+      }
+      .green {
+        background-color: #8bc34a;
+      }
+      .green-alt {
+        background-color: #b2ff59;
+      }
+      .dateline {
+        font-size: 12px;
+        margin: 12px auto;
+        text-align: center;
+      }
+
+      .article {
+        background-color: #f5f5f5;
+        border-bottom: 1px solid #e0e0e0;
+        border-radius: 4px 4px 0 0;
+        padding: 0 !important;
+      }
+
+      .article-image {
+        border-bottom: 1px solid #e0e0e0;
+      }
+
+      .social-links {
+        background-color: #f5f5f5;
+        border: 0 solid #e0e0e0;
+        border-width: 1px 0;
+        margin: 0 !important;
+        padding: 12px 0 !important;
+        text-align: center;
+      }
+      .social-links a {
+        margin: 0 12px;
+      }
+      .unsubscribe {
+        cursor: pointer;
+        font-size: 12px;
+        margin:  12px 0 !important;
+        text-align: right;
+        text-decoration: underline;
+      }
+    </mj-style>
+
+    <mj-style inline="inline">
+      .web-version-link {
+        color: #0071CE;
+        margin: 12px 0;
+        text-align: right;
+      }
+
+      h2 {
+        border-bottom: 1px solid #e0e0e0;
+        color: #616161;
+        line-height: 1.25em;
+        margin: 1.25rem 0 0;
+        padding: 0 12px 1.25rem;
+      }
+
+      h3 {
+        color: #616161;
+        font-size: 16px;
+        line-height: 1.25em;
+        margin: 1.25rem 0;
+        padding: 0 12px;
+      }
+
+      hr {
+        border-top: 1px solid #e0e0e0;
+        height: 0;
+        margin: 1.25rem 12px;
+      }
+
+      p {
+        color: #707070;
+        line-height: 1.5em;
+        margin: 1.125rem 0;
+        padding: 0 12px;
+      }
+
+      a {
+        color: #0071CE;
+        cursor: pointer;
+        text-decoration: underline;
+      }
+
+      dl {
+        color: #707070;
+        line-height: 1.5em;
+        margin: 1.125rem 0;
+        padding: 0 12px;
+      }
+      dt {
+        font-weight: bold;
+        margin: 1.125rem 0 0.625em;
+      }
+      dd {
+        margin: 0.625rem 0;
+      }
+
+      figure {
+        margin: 1.5rem 0;
+      }
+
+      h2 + figure {
+        margin-top: 0;
+      }
+
+      img {
+        display: block;
+        height: auto;
+        max-width: 100%;
+      }
+
+      figcaption {
+        color: #707070;
+        font-size: 12px;
+        line-height: 1.5em;
+        margin: 6px 12px 0;
+      }
+
+      ol, ul {
+        color: #707070;
+        margin: 1.125rem 0;
+        padding: 0 32px;
+      }
+
+      li {
+        line-height: 1.125em;
+        list-style: square;
+        margin: 0.5rem 0;
+      }
+    </mj-style>
+
+    <mj-title>The Turning Gate</mj-title>
+  </mj-head>
+
+  <mj-body>
+
+    <mj-section padding-bottom="0">
+      <mj-column>
+        <mj-text>
+          <div class="logo">
+            <h1 class="logo-title">The Turning Gate</h1>
+
+            <span class="logo-element"></span>
+            <span class="logo-element blue-alt"></span>
+            <span class="logo-element wide blue"></span>
+            <span class="logo-element tall wide orange"></span>
+            <span class="logo-element"></span>
+            <span class="logo-element"></span>
+            <span class="logo-element"></span>
+            <span class="logo-element tall green"></span>
+            <span class="logo-element"></span>
+            <span class="logo-element"></span>
+            <span class="logo-element green-alt"></span>
+
+            <div class="dateline">[currentmonth] [currentdaynumber], [currentyear]</div>
+          </div>
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202208-vol-01/Backlight-5-Hero-1200px.jpg?raw=true" alt="Hero image; Backlight 5." />
+        <mj-text css-class="article">
+          <p>Hi [Name,fallback=Friend],</p>
+          <p><strong>Backlight 5</strong> is available now! We're sending a separate email to everyone with details on what's new and exciting in this release. But as an owner of Backlight 4, this message is special for you.</p>
+          <p>Below, please find your complentary discount code for the upgrade to Backlight 5, and instructions how to use it.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="article">
+          <h2>Your Upgrade Code</h2>
+          <p>1. <a href="https://backlight.me/get-backlight">Visit our shop, add Backlight 5 to your cart</a>. Do not re-purchase add-ons your already own; those upgrades are included when you upgrade to Backlight 5.</p>
+          <p>2. Your discount code is:</p>
+          <p><strong>B5-[redacted]</strong></p>
+          <p>This code will save you $35 on the purchase of Backlight 5, and should remain valid until the end of February 2023.</p>
+          <p>Use it on this screen:</p>
+        </mj-text>
+
+        <mj-image css-class="article-image" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202208-vol-01/checkout.png?raw=true" alt="Hero image; Backlight 5." width="406px" />
+
+        <mj-text css-class="article">
+          <p>3. Click "Got a code?" and enter your discount code, found above.</p>
+          <p>4. Use the same email address you've used in the past, for previous Backlight purchases. We match email accounts to facilitate upgrades. If you need to checkout using a different email address, complete the purchase, then contact me -- you can reply to this email -- so that I can update your existing orders to use your new email. I will try to response within one business day so that you can perform your upgrade.</p>
+          <p>5. Complete the checkout process.</p>
+
+          <p>6. After completing checkout, log into your Backlight admin, visit the "Backlight Modules" page, and click the "Update All Modules" button to install Backlight 5.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="article">
+          <h2>Upgrade Demonstration</h2>
+          <p>We did a video last year on how to upgrade to Backlight 4; the process is essentially the same, so <a href="https://www.youtube.com/watch?v=IT_1kZ_cvzM">watch the video</a> if you need the demonstration.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <p class="social-links">
+            <a href="https://blog.theturninggate.net" target="_blank">Blog</a>
+            <a href="https://discourse.theturninggate.net/" target="_blank">Forum</a>
+            <!-- <a href="https://www.facebook.com/groups/1029027300459809/" target="_blank">Facebook</a> -->
+            <!-- <a href="https://twitter.com/theturninggate" target="_blank">Twitter</a> -->
+            <a href="https://www.linkedin.com/company/theturninggate/" target="_blank">LinkedIn</a>
+          </p>
+
+          <p class="unsubscribe">
+            <unsubscribe>Unsubscribe from future mailings.</unsubscribe>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

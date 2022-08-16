@@ -80,7 +80,7 @@
       }
 
       .article-image {
-        border-bottom: 2px solid #e0e0e0;
+        border-bottom: 1px solid #e0e0e0;
       }
 
       .social-links {
@@ -201,10 +201,6 @@
     <mj-section padding-bottom="0">
       <mj-column>
         <mj-text>
-          <div class="web-version-link">
-            <webversion>view web version</webversion>
-          </div>
-
           <div class="logo">
             <h1 class="logo-title">The Turning Gate</h1>
 
@@ -229,12 +225,11 @@
 
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202208/Backlight-5-Hero-1200px.jpg?raw=true" alt="Hero image; Backlight 5." />
+        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202208-vol-01/Backlight-5-Hero-1200px.jpg?raw=true" alt="Hero image; Backlight 5." />
         <mj-text css-class="article">
           <p>Hi [Name,fallback=Friend],</p>
-          <p><strong>Backlight 5</strong> has arrived!</p>
-          <p>Herein, everything you'll need to know about what's new, and how to upgrade.</p>
-          <p>Most importantly, <strong><a href="https://backlight.me/get-backlight">get Backlight 5 here</a></strong>.</p>
+          <p><strong>Backlight 5</strong> is available now! We're sending a separate email to everyone with details on what's new and exciting in this release. But as a recent owner of Backlight 4, this message is special for you.</p>
+          <p>Below, please find your discount code for a complimentary upgrade to Backlight 5, and instructions how to use it.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -242,72 +237,36 @@
     <mj-section>
       <mj-column>
         <mj-text css-class="article">
-          <h2>New in Backlight 5</h2>
+          <h2>Your Upgrade Code</h2>
+          <p>1. <a href="https://backlight.me/get-backlight">Visit our shop, add Backlight 5 to your cart</a>. Do not re-purchase add-ons your already own; those upgrades are included when you upgrade to Backlight 5.</p>
+          <p>2. Your discount code is:</p>
+          <p><strong>B5-[redacted]</strong></p>
+          <p>This code allows you to <strong>upgrade to Backlight 5 for FREE</strong>. However, this code has a short lifespan. Use it now; the code will expire at the end of August.</p>
+          <p>Use it on this screen:</p>
         </mj-text>
 
-        <mj-image css-class="article-image" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202208/Backlight-5-Hero-Spread-1200px.jpg?raw=true" alt="Hero image; Backlight 5." />
+        <mj-image css-class="article-image" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202208-vol-01/checkout.png?raw=true" alt="Hero image; Backlight 5." width="406px" />
 
         <mj-text css-class="article">
-          <p><strong>Backlight 5</strong> is packed with new features! Here are the highlights. For more information, click through to our full documentation.</p>
+          <p>3. Click "Got a code?" and enter your discount code, found above.</p>
+          <p>4. Use the same email address you've used in the past, for previous Backlight purchases. We match email accounts to facilitate upgrades. If you need to checkout using a different email address, complete the purchase, then contact me -- you can reply to this email -- so that I can update your existing orders to use your new email. I will try to response within one business day so that you can perform your upgrade.</p>
+          <p>5. Complete the checkout process.</p>
 
-          <h3><a href="https://backlight.me/docs/protected-photos">Protected Photos</a></h3>
-          <p>Photos can now be marked as protected, either via keyword from Lightroom, or via Backlight's album management. "Protected" means that you can choose to make most photos public, but hide selected photos from the public. There are a range of options for granting access to protected photos.</p>
-
-          <h3><a href="https://backlight.me/docs/smart-albums">Smart albums</a></h3>
-          <p>Smart albums take a set of keywords, then gather matching images from all of your uploaded images.</p>
-
-          <h3>Keyword Management in Backlight</h3>
-          <p>A "Keywords" field has been added to the Photo view in Backlight's Publisher. This lets you set the keywords for a photo within the Backlight admin. The keywords field is pre-populated with the existing keywords. Anything submitted will replace the keywords that were saved for that photo. Likewise, republishing a photo from Lightroom will set the keywords according to what Lightroom has.</p>
-
-          <h3><a href="https://backlight.me/docs/writing-copy#shortcodes">Shortcodes</a></h3>
-          <p>Shortcodes can be used to insert links to albums and photos anywhere that Markdown is available, such as in page and album copy areas, email templates, etc.</p>
-
-          <h3>Improved Contacts</h3>
-          <p>Managing communication is easier than ever in the reworked Contacts area! The start of the message, and additional fields are now visible in the listing page, making it easier to parse contacts at a glance. New bulk actions are also available for managing your contacts, including spam flagging, marking as read, and archiving.</p>
-          
-          <h3>Improved "Backlight Modules" page</h3>
-          <p>The Backlight Modules page now lists all available add-ons, and allows you to purchase add-ons directly on the page.</p>
-
-          <h3>Improved Pagination</h3>
-          <p>Pagination now includes links to the first and last page at all times. If there is a gap between the first and subsequent page link (or between the second-to-last and last page pink) then ellipses will be added.</p>
-
-          <h3>Improved URLs for Single-image Pages</h3>
-          <p>Single image URLs now no longer end in .php. For backward compatibility, links work whether they end in -single.php or just -single.</p>
-
-          <h3>Improved Two-factor Authentication</h3>
-          <p>Adds option to "Trust This Device for 30 days" for two-factor authentication.  This option is only available for sites running on https.</p>
-
-          <h3><a href="https://backlight.me/modules/kookaburra/">New "Kookaburra" design modules</a></h3>
-          <p>Our penchant for wildlife continues as we introduce the new Kookaburra family of design modules. While not yet a full replacement for our stalwart Pangolin modules, Kookaburra is off to a cackling good start.</p>
-          <p>We're launching with Kookaburra Page, Album, and Album Set modules, <span style="text-decoration: underline;">works-in-progress</span>, but with much to offer. See the docs for details on what sets Kookaburra apart from Pangolin.</p>
-          <p>I will be setting up a roadmap in the <a href="https://discourse.theturninggate.net/t/kookaburra/2313">community discourse</a>, and soliciting feedback on Kookaburra's features and ongoing priorities.
-          <p>And now, <a href="https://rangerrick.org/rr_videos/a-kookaburra-call-or-laugh/">a kookaburra</a> ...
-
+          <p>6. After completing checkout, log into your Backlight admin, visit the "Backlight Modules" page, and click the "Update All Modules" button to install Backlight 5.</p>
         </mj-text>
       </mj-column>
     </mj-section>
 
+
     <mj-section>
       <mj-column>
         <mj-text css-class="article">
-          <h2>Upgrading from an earlier Backlight</h2>
-
-          <h3><a href="https://backlight.me/get-backlight">Get Backlight 5</a></h3>
-          <p>^^^ Click that. ^^^</p>
-          <p>Be sure to purchase using the same email address as previous Backlight orders! If you need to update your address, or accidentally order using a different address, you will need to contact me to make changes; reply to this newsletter.</p>
-
-          <h3>Discounts</h3>
-          <p>We are sending discounts to owners of Backlight 4. These will arrive in a separate email, with instructions.</p>
-
-          <h3>Installing the upgrade</h3>
-          <p>If you're using Backlight 2 or newer, then the upgrade is super easy.</p>
-          <p>After purchasing the new version, visit the "Backlight Modules" page in Backlight's admin, and push the "Update All Modules" button.</p>
-
+          <h2>Upgrade Demonstration</h2>
           <p>We did a video last year on how to upgrade to Backlight 4; the process is essentially the same, so <a href="https://www.youtube.com/watch?v=IT_1kZ_cvzM">watch the video</a> if you need the demonstration.</p>
-
         </mj-text>
       </mj-column>
     </mj-section>
+
 
     <mj-section>
       <mj-column>

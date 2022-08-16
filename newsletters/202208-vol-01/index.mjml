@@ -1,0 +1,337 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-button padding="0" />
+      <mj-column padding="0" />
+      <mj-image padding="0" />
+      <mj-section padding="0 0 48px" />
+      <mj-table padding="0" />
+      <mj-text
+        font-family="-apple-system, 'system-ui', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif"
+        font-size="14px"
+        padding="0"
+      />
+      <mj-wrapper padding="0" />
+    </mj-attributes>
+
+    <mj-style>
+      body {
+        background-color: #ffffff;
+        padding: 0 12px;
+      }
+
+      .logo {
+        border: 0 solid #9e9e9e;
+        border-width: 1px 0 0;
+        color: #737373;
+        font-size: 0;
+        padding: 24px 0 12px;
+        text-align: center;
+      }
+      .logo-title {
+        font-size: 24px;
+        margin: 0 auto 12px;
+      }
+      .logo-element {
+        background-color: #9e9e9e;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        display: inline-block;
+        height: 12px;
+        list-style: none;
+        margin: 0 2px;
+        padding: 0;
+        vertical-align: top;
+        width: 12px;
+      }
+      .tall {
+        height: 24px;
+        margin: 0 2px;
+      }
+      .wide {
+        width: 24px;
+      }
+      .blue {
+        background-color: #2196f3;
+      }
+      .blue-alt {
+        background-color: #90caf9;
+      }
+      .orange {
+        background-color: #ff9800;
+      }
+      .green {
+        background-color: #8bc34a;
+      }
+      .green-alt {
+        background-color: #b2ff59;
+      }
+      .dateline {
+        font-size: 12px;
+        margin: 12px auto;
+        text-align: center;
+      }
+
+      .article {
+        background-color: #f5f5f5;
+        border-bottom: 1px solid #e0e0e0;
+        border-radius: 4px 4px 0 0;
+        padding: 0 !important;
+      }
+
+      .article-image {
+        border-bottom: 2px solid #e0e0e0;
+      }
+
+      .social-links {
+        background-color: #f5f5f5;
+        border: 0 solid #e0e0e0;
+        border-width: 1px 0;
+        margin: 0 !important;
+        padding: 12px 0 !important;
+        text-align: center;
+      }
+      .social-links a {
+        margin: 0 12px;
+      }
+      .unsubscribe {
+        cursor: pointer;
+        font-size: 12px;
+        margin:  12px 0 !important;
+        text-align: right;
+        text-decoration: underline;
+      }
+    </mj-style>
+
+    <mj-style inline="inline">
+      .web-version-link {
+        color: #0071CE;
+        margin: 12px 0;
+        text-align: right;
+      }
+
+      h2 {
+        border-bottom: 1px solid #e0e0e0;
+        color: #616161;
+        line-height: 1.25em;
+        margin: 1.25rem 0 0;
+        padding: 0 12px 1.25rem;
+      }
+
+      h3 {
+        color: #616161;
+        font-size: 16px;
+        line-height: 1.25em;
+        margin: 1.25rem 0;
+        padding: 0 12px;
+      }
+
+      hr {
+        border-top: 1px solid #e0e0e0;
+        height: 0;
+        margin: 1.25rem 12px;
+      }
+
+      p {
+        color: #707070;
+        line-height: 1.5em;
+        margin: 1.125rem 0;
+        padding: 0 12px;
+      }
+
+      a {
+        color: #0071CE;
+        cursor: pointer;
+        text-decoration: underline;
+      }
+
+      dl {
+        color: #707070;
+        line-height: 1.5em;
+        margin: 1.125rem 0;
+        padding: 0 12px;
+      }
+      dt {
+        font-weight: bold;
+        margin: 1.125rem 0 0.625em;
+      }
+      dd {
+        margin: 0.625rem 0;
+      }
+
+      figure {
+        margin: 1.5rem 0;
+      }
+
+      h2 + figure {
+        margin-top: 0;
+      }
+
+      img {
+        display: block;
+        height: auto;
+        max-width: 100%;
+      }
+
+      figcaption {
+        color: #707070;
+        font-size: 12px;
+        line-height: 1.5em;
+        margin: 6px 12px 0;
+      }
+
+      ol, ul {
+        color: #707070;
+        margin: 1.125rem 0;
+        padding: 0 32px;
+      }
+
+      li {
+        line-height: 1.125em;
+        list-style: square;
+        margin: 0.5rem 0;
+      }
+    </mj-style>
+
+    <mj-title>The Turning Gate</mj-title>
+  </mj-head>
+
+  <mj-body>
+
+    <mj-section padding-bottom="0">
+      <mj-column>
+        <mj-text>
+          <div class="web-version-link">
+            <webversion>view web version</webversion>
+          </div>
+
+          <div class="logo">
+            <h1 class="logo-title">The Turning Gate</h1>
+
+            <span class="logo-element"></span>
+            <span class="logo-element blue-alt"></span>
+            <span class="logo-element wide blue"></span>
+            <span class="logo-element tall wide orange"></span>
+            <span class="logo-element"></span>
+            <span class="logo-element"></span>
+            <span class="logo-element"></span>
+            <span class="logo-element tall green"></span>
+            <span class="logo-element"></span>
+            <span class="logo-element"></span>
+            <span class="logo-element green-alt"></span>
+
+            <div class="dateline">[currentmonth] [currentdaynumber], [currentyear]</div>
+          </div>
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202208-vol-01/Backlight-5-Hero-1200px.jpg?raw=true" alt="Hero image; Backlight 5." />
+        <mj-text css-class="article">
+          <p>Hi [Name,fallback=Friend],</p>
+          <p><strong>Backlight 5</strong> has arrived!</p>
+          <p>Herein, everything you'll need to know about what's new, and how to upgrade.</p>
+          <p>Most importantly, <strong><a href="https://backlight.me/get-backlight">get Backlight 5 here</a></strong>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="article">
+          <h2>New in Backlight 5</h2>
+        </mj-text>
+
+        <mj-image css-class="article-image" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202208-vol-01/Backlight-5-Hero-Spread-1200px.jpg?raw=true" alt="Hero image; Backlight 5." />
+
+        <mj-text css-class="article">
+          <p><strong>Backlight 5</strong> is packed with new features! Here are the highlights. For more information, click through to our full documentation.</p>
+
+          <h3>Protected Photos</h3>
+          <p>Photos can now be marked as protected, either via keyword from Lightroom, or via Backlight's album management. "Protected" means that you can choose to make most photos public, but hide selected photos from the public. There are a range of options for granting access to protected photos. <a href="https://backlight.me/docs/protected-photos">More ...</a></p>
+
+          <h3>Smart albums</h3>
+          <p>Smart albums take a set of keywords, then gather matching images from all of your uploaded images. <a href="https://backlight.me/docs/smart-albums">More ...</a></p>
+
+          <h3>Keyword Management in Backlight</h3>
+          <p>The perfect pair to smart albums, a "Keywords" field has been added to the Photo view in Backlight's Publisher. This lets you set the keywords for a photo within the Backlight admin. The keywords field is pre-populated with the existing keywords. Anything submitted will replace the keywords that were saved for that photo. Likewise, republishing a photo from Lightroom will set the keywords according to what Lightroom has.</p>
+
+          <h3>Shortcodes</h3>
+          <p>Shortcodes can be used to insert links to albums and photos anywhere that Markdown is available, such as in page and album copy areas, email templates, etc. <a href="https://backlight.me/docs/writing-copy#shortcodes">More ...</a></p>
+
+          <h3>New "Kookaburra" design modules</h3>
+          <p>Our penchant for wildlife continues as we introduce the new Kookaburra family of design modules. While not yet a full replacement for our stalwart Pangolin modules, Kookaburra is off to a cackling good start.</p>
+          <p>We're launching with Kookaburra Page, Album, and Album Set modules, <span style="text-decoration: underline;">works-in-progress</span>, but with much to offer. See the docs for details on what sets Kookaburra apart from Pangolin. <a href="https://backlight.me/modules/kookaburra/">More ...</a></p>
+          <p>I will be setting up a roadmap in the <a href="https://discourse.theturninggate.net/t/kookaburra/2313">community discourse</a>, and soliciting feedback on Kookaburra's features and ongoing priorities.
+
+          <h3>Improved Contacts</h3>
+          <p>Managing communication is easier than ever in the reworked Contacts area! The start of the message, and additional fields are now visible in the listing page, making it easier to parse contacts at a glance. New bulk actions are also available for managing your contacts, including spam flagging, marking as read, and archiving.</p>
+          
+          <h3>Improved "Backlight Modules" page</h3>
+          <p>The Backlight Modules page now lists all available add-ons, and allows you to purchase add-ons directly on the page.</p>
+
+          <h3>Improved Pagination</h3>
+          <p>Pagination now includes links to the first and last page at all times. If there is a gap between the first and subsequent page link (or between the second-to-last and last page pink) then ellipses will be added.</p>
+
+          <h3>Improved URLs for Single-image Pages</h3>
+          <p>Single image URLs now no longer end in .php. For backward compatibility, links work whether they end in -single.php or just -single.</p>
+
+          <h3>Improved Two-factor Authentication</h3>
+          <p>Adds option to "Trust This Device for 30 days" for two-factor authentication.  This option is only available for sites running on https.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="article">
+          <h2>Upgrading from an earlier Backlight</h2>
+
+          <h3><a href="https://backlight.me/get-backlight">Get Backlight 5</a></h3>
+          <p>^^^ Click that. ^^^</p>
+          <p>Be sure to purchase using the same email address as previous Backlight orders! If you need to update your address, or accidentally order using a different address, you will need to contact me to make changes; reply to this newsletter.</p>
+
+          <h3>Discounts</h3>
+          <p>We are sending discounts to owners of Backlight 4. These will arrive in a separate email, with instructions.</p>
+
+          <h3>Installing the upgrade</h3>
+          <p>If you're using Backlight 2 or newer, then the upgrade is super easy.</p>
+          <p>After purchasing the new version, visit the "Backlight Modules" page in Backlight's admin, and push the "Update All Modules" button.</p>
+
+          <p>We did a video last year on how to upgrade to Backlight 4; the process is essentially the same, so <a href="https://www.youtube.com/watch?v=IT_1kZ_cvzM">watch the video</a> if you need the demonstration.</p>
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="article">
+          <h2>And now ...</h2>
+          <p>... <a href="https://rangerrick.org/rr_videos/a-kookaburra-call-or-laugh/">a kookaburra</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <p class="social-links">
+            <a href="https://blog.theturninggate.net" target="_blank">Blog</a>
+            <a href="https://discourse.theturninggate.net/" target="_blank">Forum</a>
+            <!-- <a href="https://www.facebook.com/groups/1029027300459809/" target="_blank">Facebook</a> -->
+            <!-- <a href="https://twitter.com/theturninggate" target="_blank">Twitter</a> -->
+            <a href="https://www.linkedin.com/company/theturninggate/" target="_blank">LinkedIn</a>
+          </p>
+
+          <p class="unsubscribe">
+            <unsubscribe>Unsubscribe from future mailings.</unsubscribe>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
