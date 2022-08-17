@@ -281,6 +281,9 @@
           <h2>Stuff &amp; Things</h2>
           <p>Our curated list of recent, suggested listening, reading and viewing.</p>
           <dl>
+            <dt><a href="https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser">Maybe Don't Click Links in Instagram ...</a></dt>
+            <dd>"The iOS Instagram and Facebook app render all third party links and ads within their app using a custom in-app browser. This causes various risks for the user, with the host app being able to track every single interaction with external websites, from all form inputs like passwords and addresses, to every single tap."</dd>
+
             <dt><a href="https://www.youtube.com/c/pbsterra">PBS Terra</a></dt>
             <dd>PBS Terra is the home of science and nature shows from PBS Digital Studios, exploring the frontiers of science and tech, our minds and bodies, our planet and beyond!</dd>
             
@@ -290,8 +293,9 @@
             <dt><a href="https://fstoppers.com/printing/why-should-use-wired-connection-printing-photos-612898">You Should Use a Wired Connection for Printing Photos</a></dt>
             <dd>I don't do a lot of serious printing at home, but I was entirely unaware that Apple's AirPrint was this bad. This is great info, and something that is likely to change the way I approach printing.</dd>
             
-            <dt>Photography in Court</dt>
-            <dd>PetaPixel has recently run a few articles about ongoing photography-related court cases. Here are two that caught my eye; <a href="https://petapixel.com/2022/08/16/u-s-copyright-office-argues-warhols-use-of-prince-photo-was-not-fair-use/">U.S. Copyright Office Argues Warhol's Use of Prince Photo Was Not "Fair Use"</a>, and <a href="https://petapixel.com/2022/08/16/zillow-only-wants-to-be-fined-once-for-2700-photo-copyright-infringements/">Zillow Only Wants to Be Fined Once for 2,700 Photo Copyright Infringements</a>.</dd>
+            <dt><a href="https://petapixel.com/2022/08/16/u-s-copyright-office-argues-warhols-use-of-prince-photo-was-not-fair-use/">... Warhol's Use of Prince Photo Was Not "Fair Use"</a></dt>
+            <dd>The United States Copyright Office has submitted an opinion to the Supreme Court that argues Andy Warhol's use of Lynn Goldsmith's photo of Prince was not fair use, sharing sentiments with opinions sent by the NPPA and ASMP.</dd>
+            <dd>In another court case, <a href="https://petapixel.com/2022/08/16/zillow-only-wants-to-be-fined-once-for-2700-photo-copyright-infringements/">Zillow Only Wants to Be Fined Once for 2,700 Photo Copyright Infringements</a>. Because, of course they do.</dd>
             
             <dt><a href="https://www.youtube.com/watch?v=S03T47hapAc">Music Pick: "Cracker Island", by Gorillaz</a></dt>
             <dd>I can't get enough of the new Gorillaz track and its incredibly funky bass guitar riffs by Thundercat.</dd>
