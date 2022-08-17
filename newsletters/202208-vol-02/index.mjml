@@ -23,7 +23,7 @@
       .logo {
         border: 0 solid #9e9e9e;
         border-width: 1px 0 0;
-        color: #737373;
+        color: #666666;
         font-size: 0;
         padding: 24px 0 12px;
         text-align: center;
@@ -108,14 +108,14 @@
 
       h2 {
         border-bottom: 1px solid #e0e0e0;
-        color: #616161;
+        color: #666666;
         line-height: 1.25em;
         margin: 1.25rem 0 0;
         padding: 0 12px 1.25rem;
       }
 
       h3 {
-        color: #616161;
+        color: #666666;
         font-size: 16px;
         line-height: 1.25em;
         margin: 1.25rem 0;
@@ -129,7 +129,7 @@
       }
 
       p {
-        color: #707070;
+        color: #666666;
         line-height: 1.5em;
         margin: 1.125rem 0;
         padding: 0 12px;
@@ -142,7 +142,7 @@
       }
 
       dl {
-        color: #707070;
+        color: #666666;
         line-height: 1.5em;
         margin: 1.125rem 0;
         padding: 0 12px;
@@ -170,14 +170,14 @@
       }
 
       figcaption {
-        color: #707070;
+        color: #666666;
         font-size: 12px;
         line-height: 1.5em;
         margin: 6px 12px 0;
       }
 
       ol, ul {
-        color: #707070;
+        color: #666666;
         margin: 1.125rem 0;
         padding: 0 32px;
       }
@@ -228,6 +228,9 @@
         <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202208-vol-02/Backlight-5-Smart-Albums-Hero.jpg?raw=true" alt="Hero image; ." />
         <mj-text css-class="article">
           <p>Hi [Name,fallback=Friend],</p>
+          <p><strong>Backlight 5</strong> dropped last week, and it's been an exceptionally smooth release. If you were waiting to upgrade until we'd polished rough edges, you can go ahead with it now.</p>
+          <p>That said, a version 5.0.1 update is now available, detailed below.</p>
+          <p>More exciting, we're going to be deep-diving into some of the new features, beginning with the very awesome Smart Albums.</p>
         </mj-text>        
       </mj-column>
     </mj-section>
@@ -235,12 +238,42 @@
     <mj-section>
       <mj-column>
         <mj-text css-class="article">
-          <h2>Updates</h2>
+          <h2>Backlight 5.0.1 Update</h2>
+          <p>Version 5.0.1 is a small update with improvements for Smart Album support.</p>
+          <p><strong>Backlight 5.0.1</strong></p>
+          <ul>
+            <li>Adds support for using Smart Albums with Pangolin Essay</li>
+            <li>Fixes issue with assigned cover image being ignored for Smart Albums</li>
+          </ul>
+          <p><strong>Add-on: WP Theme 5.0.1</strong></p>
+          <ul>
+            <li>Fixes support for hosting on different domain or subdomain from Backlight site</li>
+          </ul>
+          <p>As usual, <a href="https://blog.theturninggate.net/2018/09/12/installing-updates-in-backlight-2/">updates are easy</a>.</p>
         </mj-text>        
       </mj-column>
     </mj-section>
 
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="article">
+          <h2>Smart Albums in Backlight 5</h2>
+          <p>Today, we kick off a new season of feature exposés, highlighting marquee features in the latest, greatest version of Backlight, the newly released <strong>Backlight 5</strong>.</p>
 
+          <p>In this first edition, we take a closer look at Smart Albums.</p>
+
+          <h3>What is a “Smart Album”?</h3>
+          <p>The tin text is simple:</p>
+
+          <p><em>A smart album matches keywords, gathering found images into a new photo album.</em></p>
+
+          <p>But that simple explanation belies myriad possibilities! Within, we will first run through some setup for using smart albums, and then some examples.</p>
+
+          <p><a href="https://blog.theturninggate.net/2022/08/15/smart-albums-in-backlight-5/">Continue reading ...</a></p>
+
+        </mj-text>        
+      </mj-column>
+    </mj-section>
 
     <mj-section>
       <mj-column>
@@ -248,20 +281,20 @@
           <h2>Stuff &amp; Things</h2>
           <p>Our curated list of recent, suggested listening, reading and viewing.</p>
           <dl>
-            <dt><a href="">Title</a></dt>
-            <dd>...</dd>
+            <dt><a href="https://www.youtube.com/c/pbsterra">PBS Terra</a></dt>
+            <dd>PBS Terra is the home of science and nature shows from PBS Digital Studios, exploring the frontiers of science and tech, our minds and bodies, our planet and beyond!</dd>
             
-            <dt><a href="">Title</a></dt>
-            <dd>...</dd>
+            <dt><a href="https://www.youtube.com/c/pbsstoried">PBS Storied</a></dt>
+            <dd>Storied is the home for arts and humanities shows from PBS Digital Studios, exploring art, culture, mythology and much more! Personally, I've become obsessed with Otherwords, though the entire family of shows here is fascinating.</dd>
             
-            <dt><a href="">Title</a></dt>
-            <dd>...</dd>
+            <dt><a href="https://fstoppers.com/printing/why-should-use-wired-connection-printing-photos-612898">You Should Use a Wired Connection for Printing Photos</a></dt>
+            <dd>I don't do a lot of serious printing at home, but I was entirely unaware that Apple's AirPrint was this bad. This is great info, and something that is likely to change the way I approach printing.</dd>
             
-            <dt><a href="">Title</a></dt>
-            <dd>...</dd>
+            <dt>Photography in Court</dt>
+            <dd>PetaPixel has recently run a few articles about ongoing photography-related court cases. Here are two that caught my eye; <a href="https://petapixel.com/2022/08/16/u-s-copyright-office-argues-warhols-use-of-prince-photo-was-not-fair-use/">U.S. Copyright Office Argues Warhol's Use of Prince Photo Was Not "Fair Use"</a>, and <a href="https://petapixel.com/2022/08/16/zillow-only-wants-to-be-fined-once-for-2700-photo-copyright-infringements/">Zillow Only Wants to Be Fined Once for 2,700 Photo Copyright Infringements</a>.</dd>
             
-            <dt><a href="">Music Pick: ...</a></dt>
-            <dd>...</dd>
+            <dt><a href="https://www.youtube.com/watch?v=S03T47hapAc">Music Pick: "Cracker Island", by Gorillaz</a></dt>
+            <dd>I can't get enough of the new Gorillaz track and its incredibly funky bass guitar riffs by Thundercat.</dd>
           </dl>
         </mj-text>        
       </mj-column>
@@ -273,7 +306,7 @@
           <p class="social-links">
             <a href="https://blog.theturninggate.net" target="_blank">Blog</a>
             <a href="https://discourse.theturninggate.net/" target="_blank">Forum</a>
-            <!-- <a href="https://www.facebook.com/groups/1029027300459809/" target="_blank">Facebook</a> -->
+            <a href="https://www.facebook.com/groups/1029027300459809/" target="_blank">Facebook</a>
             <!-- <a href="https://twitter.com/theturninggate" target="_blank">Twitter</a> -->
             <a href="https://www.linkedin.com/company/theturninggate/" target="_blank">LinkedIn</a>
           </p>
