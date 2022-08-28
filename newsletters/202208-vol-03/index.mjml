@@ -225,9 +225,10 @@
 
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202208-vol-03/Backlight-5-Protected-Photos-Hero-1200.jpg?raw=true" alt="Hero image; ." />
+        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202208-vol-03/20220702-190647-mc-2677-1200.jpg?raw=true" alt="Hero image; ." />
         <mj-text css-class="article">
           <p>Hi [Name,fallback=Friend],</p>
+          <p>I think this photo of driving over Golden Gate Bridge in the fog is perfect for our featured topic, Protected Photos -- much of the bridge can be seen, but parts of it are hidden from view! This is much like an album with protected photos.
         </mj-text>        
       </mj-column>
     </mj-section>
@@ -235,7 +236,14 @@
     <mj-section>
       <mj-column>
         <mj-text css-class="article">
-          <h2>Updates</h2>
+          <h2>Protected Photos in Backlight 5</h2>
+          <p>We have a new deep dive on the blog, this time about the new "Protected Photos" feature in Backlight 5.</p>
+
+          <p><em>Access is everything</em>, some would say, and this new feature gives you more granular control over photo access than has ever been possible.</p>
+
+          <p>In this article, we teach you everthing you need to know about how to use Protected Photos, and provide several possible scenarios in which you might like to do so.</p>
+
+          <p>Read more: <strong><a href="https://blog.theturninggate.net/2022/08/29/protected-photos-in-backlight-5/">Protected Photos in Backlight 5</a></strong>.</p>
         </mj-text>        
       </mj-column>
     </mj-section>
