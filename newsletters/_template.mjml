@@ -138,6 +138,7 @@
       a {
         color: #0071CE;
         cursor: pointer;
+        font-weight: bold;
         text-decoration: underline;
       }
 
@@ -273,7 +274,7 @@
           <p class="social-links">
             <a href="https://blog.theturninggate.net" target="_blank">Blog</a>
             <a href="https://discourse.theturninggate.net/" target="_blank">Forum</a>
-            <!-- <a href="https://www.facebook.com/groups/1029027300459809/" target="_blank">Facebook</a> -->
+            <a href="https://www.facebook.com/groups/1029027300459809/" target="_blank">Facebook</a>
             <!-- <a href="https://twitter.com/theturninggate" target="_blank">Twitter</a> -->
             <a href="https://www.linkedin.com/company/theturninggate/" target="_blank">LinkedIn</a>
           </p>
