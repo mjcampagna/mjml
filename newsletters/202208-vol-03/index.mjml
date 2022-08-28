@@ -23,7 +23,7 @@
       .logo {
         border: 0 solid #9e9e9e;
         border-width: 1px 0 0;
-        color: #666666;
+        color: #737373;
         font-size: 0;
         padding: 24px 0 12px;
         text-align: center;
@@ -108,14 +108,14 @@
 
       h2 {
         border-bottom: 1px solid #e0e0e0;
-        color: #666666;
+        color: #616161;
         line-height: 1.25em;
         margin: 1.25rem 0 0;
         padding: 0 12px 1.25rem;
       }
 
       h3 {
-        color: #666666;
+        color: #616161;
         font-size: 16px;
         line-height: 1.25em;
         margin: 1.25rem 0;
@@ -129,7 +129,7 @@
       }
 
       p {
-        color: #666666;
+        color: #707070;
         line-height: 1.5em;
         margin: 1.125rem 0;
         padding: 0 12px;
@@ -142,7 +142,7 @@
       }
 
       dl {
-        color: #666666;
+        color: #707070;
         line-height: 1.5em;
         margin: 1.125rem 0;
         padding: 0 12px;
@@ -170,14 +170,14 @@
       }
 
       figcaption {
-        color: #666666;
+        color: #707070;
         font-size: 12px;
         line-height: 1.5em;
         margin: 6px 12px 0;
       }
 
       ol, ul {
-        color: #666666;
+        color: #707070;
         margin: 1.125rem 0;
         padding: 0 32px;
       }
@@ -225,11 +225,9 @@
 
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202208-vol-02/Backlight-5-Smart-Albums-Hero.jpg?raw=true" alt="Hero image; Backlight 5; Smart Albums." />
+        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202208-vol-03/Backlight-5-Protected-Photos-Hero-1200.jpg?raw=true" alt="Hero image; ." />
         <mj-text css-class="article">
           <p>Hi [Name,fallback=Friend],</p>
-          <p>In this edition, we're diving deep on Smart Albums, one of the exciting new features in Backlight 5. We've also got a tiny 5.0.1 update for you.</p>
-          <p>The Backlight 5 release itself has been very easy. If you were holding off on the upgrade out of an abundance of caution, there's no reason to keep on waiting.</p>
         </mj-text>        
       </mj-column>
     </mj-section>
@@ -237,39 +235,7 @@
     <mj-section>
       <mj-column>
         <mj-text css-class="article">
-          <h2>Backlight 5.0.1 Update</h2>
-          <p>Version 5.0.1 is a small update with improvements for Smart Album support.</p>
-          <p><strong>Backlight 5.0.1</strong></p>
-          <ul>
-            <li>Adds support for using Smart Albums with Pangolin Essay</li>
-            <li>Fixes issue with assigned cover image being ignored for Smart Albums</li>
-          </ul>
-          <p><strong>Add-on: WP Theme 5.0.1</strong></p>
-          <ul>
-            <li>Fixes support for hosting on different domain or subdomain from Backlight site</li>
-          </ul>
-          <p>As usual, <a href="https://blog.theturninggate.net/2018/09/12/installing-updates-in-backlight-2/">updates are easy</a>.</p>
-        </mj-text>        
-      </mj-column>
-    </mj-section>
-
-    <mj-section>
-      <mj-column>
-        <mj-text css-class="article">
-          <h2>Smart Albums in Backlight 5</h2>
-          <p>Today, we kick off a new season of feature exposés, highlighting marquee features in the latest, greatest version of Backlight, the newly released <strong>Backlight 5</strong>.</p>
-
-          <p>In this first edition, we take a closer look at Smart Albums.</p>
-
-          <h3>What is a “Smart Album”?</h3>
-          <p>The tin text is simple:</p>
-
-          <p><em>A smart album matches keywords, gathering found images into a new photo album.</em></p>
-
-          <p>But that simple explanation belies myriad possibilities! Within, we will first run through some setup for using smart albums, and then some examples.</p>
-
-          <p><a href="https://blog.theturninggate.net/2022/08/15/smart-albums-in-backlight-5/">Continue reading ...</a></p>
-
+          <h2>Updates</h2>
         </mj-text>        
       </mj-column>
     </mj-section>
@@ -280,25 +246,23 @@
           <h2>Stuff &amp; Things</h2>
           <p>Our curated list of recent, suggested listening, reading and viewing.</p>
           <dl>
-            <dt><a href="https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser">Maybe Don't Click Links in Instagram ...</a></dt>
-            <dd>"The iOS Instagram and Facebook app render all third party links and ads within their app using a custom in-app browser. This causes various risks for the user, with the host app being able to track every single interaction with external websites, from all form inputs like passwords and addresses, to every single tap."</dd>
-
-            <dt><a href="https://www.youtube.com/c/pbsterra">PBS Terra</a></dt>
-            <dd>PBS is lately pumping out some of the best educational content on YouTube.</dd>
-            <dd>PBS Terra is the home of science and nature shows from PBS Digital Studios, exploring the frontiers of science and tech, our minds and bodies, our planet and beyond! "Weathered" is a standout show for me, discussing everything from extreme weather events and wildfires, to volcanic lightning.</dd>
+            <dt><a href="https://techcrunch.com/2022/08/23/nerf-in-the-dark/">Google research AI image noise reduction is out of this world</a></dt>
+            <dd>This demonstration of Google's "RawNeRF" neural radiance field A.I. is seriously impressive.</dd>
             
-            <dt><a href="https://www.youtube.com/c/pbsstoried">PBS Storied</a></dt>
-            <dd>Storied is the home for arts and humanities shows from PBS Digital Studios, exploring art, culture, mythology and much more! Personally, I've become obsessed with "Otherwords", a show that really tickles my inner English major, though the entire family of programs on offer is fascinating.</dd>
+            <dt><a href="">Title</a></dt>
+            <dd>...</dd>
             
-            <dt><a href="https://fstoppers.com/printing/why-should-use-wired-connection-printing-photos-612898">You Should Use a Wired Connection for Printing Photos</a></dt>
-            <dd>I don't do a lot of serious printing at home, but I was entirely unaware that Apple's AirPrint was this bad. This is great info, and something that is likely to change the way I approach printing in the future.</dd>
+            <dt><a href="https://youtu.be/Wnr4RJxDifw">The Story Behind Earth’s Most Famous Photo</a></dt>
+            <dd>New from PBS Digital Studios, <cite>The Bigger Picture with Vincent Brown</cite> delves deep into the history of a photograph, similarly to <a href="https://www.youtube.com/playlist?list=PLJ8cMiYb3G5ce8J4P5j5qOEtYR94Z3DQs">Vox Darkroom</a>, which I've shared before. In this first episode, host Vincent Brown learns just how extraordinary a technical feat it was for Apollo 17 astronauts to snap the photograph in 1972, and how early environmentalists hoped that an image of the whole Earth might spark a desire to protect our planet.</dd>
             
-            <dt><a href="https://petapixel.com/2022/08/16/u-s-copyright-office-argues-warhols-use-of-prince-photo-was-not-fair-use/">... Warhol's Use of Prince Photo Was Not "Fair Use"</a></dt>
-            <dd>The United States Copyright Office has submitted an opinion to the Supreme Court that argues Andy Warhol's use of Lynn Goldsmith's photo of Prince was not fair use, sharing sentiments with opinions sent by the NPPA and ASMP.</dd>
-            <dd>In another court case, <a href="https://petapixel.com/2022/08/16/zillow-only-wants-to-be-fined-once-for-2700-photo-copyright-infringements/">Zillow Only Wants to Be Fined Once for 2,700 Photo Copyright Infringements</a>. Because, of course they do.</dd>
+            <dt><a href="https://www.youtube.com/watch?v=N0bE6wYeqlo">How Cthulhu Transcended its Creator, H.P. Lovecraft</a></dt>
+            <dd>Last newsletter, I shouted out <a href="https://www.youtube.com/c/pbsstoried">PBS Storied</a>. They've since released this episode about Cthulhu, and so I have to shout them out again, as I've long been a fan of Lovecraftian lore and stories (though, not so much his politics).</dd>
+            <dd>As far back as I can recall, I got my start into the stuff as a child, playing Sierra's <cite>Quest for Glory</cite> series of point-and-click adventure games. The fourth in that series, <cite>Quest for Glory IV: Shadows of Darkness</cite>, weaved together Lovecraftian horror, Slavic folklore, and creators', Corey and Lori Ann Cole, signature humor into game that I remember very fondly to this day. It might also have been the first game I ever played with full (and hilarious) voice acting!</dd>
+            <dd>Eventually, I read the stories themselves, and I actually have the very same edition of <cite>Necronomicon: The Best Weird Tales of H.P. Lovecraft</cite> sitting on my shelf that can be seen in the video.</dd>
+            <dd>All these years later, the Internet and meme culture have transformed Cthulhu into a strange commodity, one that I cannot fully comprehend ... so very Lovecraftian ...</dd>
             
-            <dt><a href="https://www.youtube.com/watch?v=S03T47hapAc">Music Pick: "Cracker Island", by Gorillaz</a></dt>
-            <dd>"Cracker Island" is the latest from Gorillaz, a track about a cult, and Thundercat's funky bass work has got me fully indoctrinated. I can't get enough of this song.</dd>
+            <dt><a href="https://www.youtube.com/watch?v=t1RTgznup5c">Music Pick: "The Call of Ktulu" by Metallica</a></dt>
+            <dd>How could I not ... ? Had I never played the <cite>Quest for Glory</cite> games, I might never have recognized the reference in the song title when I eventually started listening to heavy metal. And <cite>Ride the Lightning</cite> remains my favorite Metallica album.</dd>
           </dl>
         </mj-text>        
       </mj-column>
