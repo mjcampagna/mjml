@@ -226,7 +226,7 @@
 
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202202/20211211-165810-mc-0045.jpg?raw=true" alt="Hero image; ." />
+        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202210/Backlight-503-Hero.jpg?raw=true" alt="Hero image; ." />
         <mj-text css-class="article">
           <p>Hi [Name,fallback=Friend],</p>
         </mj-text>        
@@ -254,9 +254,12 @@
         <mj-text css-class="article">
           <h2>Gold Chrome, by Seim Effects</h2>
         </mj-text>
-        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202210/20211113-160922-mc-0092.jpg?raw=true" alt="Gold Chrome Example" />
+        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202210/20211113-160922-mc-0092.jpeg?raw=true" alt="Gold Chrome Example" />
         <mj-text css-class="article">
-          <p>...</p>
+          <p>The latest presets from Seim Effects, Gold Chrome hearkens back to darkroom processes utilizing real gold to hue images. It's a cool preset pack, and we've got details, examples and a discount for TTG users.</p>
+          <p>The pack is also on a huge discount for launch! So if you're at all interested, do not delay in checking this out.</p>
+          <p><a href="https://blog.theturninggate.net/2022/09/27/check-out-gold-chrome-by-seim-effects/">Check out Gold Chrome, by Seim Effects
+</a></p>
         </mj-text>
       </mj-column>
     </mj-section>
