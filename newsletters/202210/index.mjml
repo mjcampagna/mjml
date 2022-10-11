@@ -229,6 +229,8 @@
         <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202210/Backlight-503-Hero.jpg?raw=true" alt="Hero image; ." />
         <mj-text css-class="article">
           <p>Hi [Name,fallback=Friend],</p>
+          <p>Backlight 5.0.3 is out now, and is an important update for Google Analytics users!</p>
+          <p>We've also got the goods on the latest presets from Seim Effects.</p>
         </mj-text>        
       </mj-column>
     </mj-section>
@@ -237,7 +239,18 @@
       <mj-column>
         <mj-text css-class="article">
           <h2>Update: Backlight 5.0.3</h2>
-        </mj-text>        
+          <p>Our latest update is an important one, as it brings support for Google Analytics 4 both for Pangolin and Kookaburra; see below for more on this.</p>
+          <p>Here's everything in the update:</p>
+          <ul>
+          <li>Adds "Backsplash Exposure" slider in Kookaburra Page</li>
+          <li>Adds login for protected pages in Essay</li>
+          <li>Adds support for Google Analytics 4 (Kookaburra, Pangolin)</li>
+          <li>Fixes issue with previous and next links not appearing on single pages</li>
+          <li>Improves single-image pages for Kookaburra albums</li>
+          <li>Updates cookies-acceptance/GDPR notice</li>
+          </ul>
+          <p>For additional details, <a href="https://blog.theturninggate.net/2022/10/09/update-backlight-5-0-3/">visit the Backlight 5.0.3 release announcement on our blog</a>.</p>
+        </mj-text>
       </mj-column>
     </mj-section>
 
@@ -245,6 +258,14 @@
       <mj-column>
         <mj-text css-class="article">
           <h2>Google Analytics 4 Support</h2>
+          <p><strong>Google Analytics 4</strong> is Google's latest measurement package, and is scheduled to replace <strong>Google Universal Analytics</strong>. For now, both are usable, and can be used simultaneously.</p>
+          <p>However, Google will end support for Universal Analytics on July 1, 2023.</p>
+          <p>If using Google Analytics on your Backlight site, you have been using Google Universal Analytics. To avoid a lapse in service, we advise updating to Backlight 5 and setting up to use Google Analytics 4 as soon as you are able to do so.</p>
+          <p><strong>Google Analytics 4 support is exclusive to Backlight 5</strong>.</p>
+          
+          <p>If you're keen to slap Google Analytics 4 into an older version of Backlight, and feeling ambitious, you can use PHPlugins to do so. We will not provide support for this, but there are instructions floating around in the forum.</p>
+
+          <p>For additional details, <a href="https://blog.theturninggate.net/2022/10/09/update-backlight-5-0-3/">visit the Backlight 5.0.3 release announcement on our blog</a>.</p>
         </mj-text>        
       </mj-column>
     </mj-section>
@@ -282,8 +303,8 @@
             <dt><a href="">Title</a></dt>
             <dd>...</dd>
             
-            <dt><a href="">Music Pick: ...</a></dt>
-            <dd>...</dd>
+            <dt><a href="https://www.youtube.com/watch?v=9FD2mUonh5s">Music Pick: "Atopos" by Björk</a></dt>
+            <dd>"Atopos" is the lead single from <cite>Fossora</cite>, the latest album from Icelandic treasure Björk. It's delightfully bizarre, as Björk should be. She describes <cite>Fossora</cite> as being <a href="https://www.youtube.com/watch?v=1p0SSch7pSo">her mushroom album</a>, as "something that lives underground". Björk continues to be a singularity in musical space, and I adore her for it.</dd>
           </dl>
         </mj-text>        
       </mj-column>
