@@ -1,0 +1,359 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-button padding="0" />
+      <mj-column padding="0" />
+      <mj-image padding="0" />
+      <mj-section padding="0 0 48px" />
+      <mj-table padding="0" />
+      <mj-text
+        font-family="-apple-system, 'system-ui', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif"
+        font-size="14px"
+        padding="0"
+      />
+      <mj-wrapper padding="0" />
+    </mj-attributes>
+
+    <mj-style>
+      body {
+        background-color: #ffffff;
+        padding: 0 12px;
+      }
+
+      .logo {
+        border: 0 solid #9e9e9e;
+        border-width: 1px 0 0;
+        color: #737373;
+        font-size: 0;
+        padding: 24px 0 12px;
+        text-align: center;
+      }
+      .logo-title {
+        font-size: 24px;
+        margin: 0 auto 12px;
+      }
+      .logo-element {
+        background-color: #9e9e9e;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        display: inline-block;
+        height: 12px;
+        list-style: none;
+        margin: 0 2px;
+        padding: 0;
+        vertical-align: top;
+        width: 12px;
+      }
+      .tall {
+        height: 24px;
+        margin: 0 2px;
+      }
+      .wide {
+        width: 24px;
+      }
+      .blue {
+        background-color: #2196f3;
+      }
+      .blue-alt {
+        background-color: #90caf9;
+      }
+      .orange {
+        background-color: #ff9800;
+      }
+      .green {
+        background-color: #8bc34a;
+      }
+      .green-alt {
+        background-color: #b2ff59;
+      }
+      .dateline {
+        font-size: 12px;
+        margin: 12px auto;
+        text-align: center;
+      }
+
+      .article {
+        background-color: #f5f5f5;
+        border-bottom: 1px solid #e0e0e0;
+        border-radius: 4px 4px 0 0;
+        padding: 0 !important;
+      }
+
+      .social-links {
+        background-color: #f5f5f5;
+        border: 0 solid #e0e0e0;
+        border-width: 1px 0;
+        margin: 0 !important;
+        padding: 12px 0 !important;
+        text-align: center;
+      }
+      .social-links a {
+        margin: 0 12px;
+      }
+      .unsubscribe {
+        cursor: pointer;
+        font-size: 12px;
+        margin:  12px 0 !important;
+        text-align: right;
+        text-decoration: underline;
+      }
+    </mj-style>
+
+    <mj-style inline="inline">
+      .web-version-link {
+        color: #0071CE;
+        margin: 12px 0;
+        text-align: right;
+      }
+
+      h2 {
+        border-bottom: 1px solid #e0e0e0;
+        color: #616161;
+        line-height: 1.25em;
+        margin: 1.25rem 0 0;
+        padding: 0 12px 1.25rem;
+      }
+
+      h3 {
+        color: #616161;
+        font-size: 16px;
+        line-height: 1.25em;
+        margin: 1.25rem 0;
+        padding: 0 12px;
+      }
+
+      hr {
+        border-top: 1px solid #e0e0e0;
+        height: 0;
+        margin: 1.25rem 12px;
+      }
+
+      p {
+        color: #707070;
+        line-height: 1.5em;
+        margin: 1.125rem 0;
+        padding: 0 12px;
+      }
+
+      a {
+        color: #0071CE;
+        cursor: pointer;
+        font-weight: bold;
+        text-decoration: underline;
+      }
+
+      dl {
+        color: #707070;
+        line-height: 1.5em;
+        margin: 1.125rem 0;
+        padding: 0 12px;
+      }
+      dt {
+        font-weight: bold;
+        margin: 1.125rem 0 0.625em;
+      }
+      dd {
+        margin: 0.625rem 0;
+      }
+
+      figure {
+        margin: 1.5rem 0;
+      }
+
+      h2 + figure {
+        margin-top: 0;
+      }
+
+      img {
+        display: block;
+        height: auto;
+        max-width: 100%;
+      }
+
+      figcaption {
+        color: #707070;
+        font-size: 12px;
+        line-height: 1.5em;
+        margin: 6px 12px 0;
+      }
+
+      ol, ul {
+        color: #707070;
+        margin: 1.125rem 0;
+        padding: 0 32px;
+      }
+
+      li {
+        line-height: 1.125em;
+        list-style: square;
+        margin: 0.5rem 0;
+      }
+    </mj-style>
+
+    <mj-title>The Turning Gate</mj-title>
+  </mj-head>
+
+  <mj-body>
+
+    <mj-section padding-bottom="0">
+      <mj-column>
+        <mj-text>
+          <div class="web-version-link">
+            <webversion>view web version</webversion>
+          </div>
+
+          <div class="logo">
+            <h1 class="logo-title">The Turning Gate</h1>
+
+            <span class="logo-element"></span>
+            <span class="logo-element blue-alt"></span>
+            <span class="logo-element wide blue"></span>
+            <span class="logo-element tall wide orange"></span>
+            <span class="logo-element"></span>
+            <span class="logo-element"></span>
+            <span class="logo-element"></span>
+            <span class="logo-element tall green"></span>
+            <span class="logo-element"></span>
+            <span class="logo-element"></span>
+            <span class="logo-element green-alt"></span>
+
+            <div class="dateline">[currentmonth] [currentdaynumber], [currentyear]</div>
+          </div>
+
+        </mj-text>
+      </mj-column>
+    </mj-section>    
+
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202202/20211211-165810-mc-0045.jpg?raw=true" alt="Hero image; ." />
+        <mj-text css-class="article">
+          <p>Happy holidays, [Name,fallback=Friend]!</p>
+          <p>The new year is rapidly approaching, and this will probably be our final newsletter for 2022. We released <strong>Backlight 5.0.4</strong> a couple of weeks ago, and it's a very good update. I am actively working on the next update, which might be a December release, but which could easily slip to January. More on the updates below.</p>
+          <p>In Stuff &amp; Things, we have some excellent links for you, so definitely read to the end!</p>
+          <p>Most of all, thank you for another great year! Backlight 5 has been awesome, and we have really appreciated all of the positive feedback. We hope you continue to enjoy it into 2023, and that you have the most spectacular of holidays in the meantime!</p>
+        </mj-text>        
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="article">
+          <h2>Backlight Updates</h2>
+          <h3>Backlight 5.0.4</h3>
+          <p>Backlight 5.0.4 released in mid-November, but with holiday inbox madness in full swing, you may have missed it. Here's what's new:</p>
+          <ul>
+            <li>Kookaburra: Adds Custom Stylesheet support</li>
+            <li>Kookaburra: Adds opt-in grid framework</li>
+            <li>Kookaburra: Adds PHPlugins support</li>
+            <li>Kookaburra: Adds sample PHPlugins file to backlight/modules/custom-resources</li>
+            <li>Kookaburra: Adds Typography and Footer options for text and hyperlink colors</li>
+            <li>Kookaburra: Cleans up SVG symbols</li>
+            <li>Kookaburra: Fixes drop-menu shadows</li>
+            <li>Kookaburra: Removes div.album-copy</li>
+            <li>Kookaburra: Replaces CDN Fancybox assets with local copies</li>
+            <li>Kookaburra &amp; Pangolin: Improves cookies acceptance notice in iOS Safari</li>
+            <li>Kookaburra &amp; Pangolin: Tweaks styling of cookies acceptance buttons</li>
+            <li>Pangolin: In client response templates, only display slideshow Select/Feedback icons if Client Response features are enabled for the album</li>
+            <li>Maintenance: Deletes unnecessary instance of normalize.css</li>
+            <li>Adds fix for PHP compatibility in phpLiteAdmin</li>
+            <li>Changes behavior of Smart Albums to allow the use of private keywords</li>
+            <li>Changes behavior of Smart Albums to include protected photos when logged in to public albums that allow the display of protected photos</li>
+            <li>Fixes issue of LR-protected photos not being filtered out in Smart Albums</li>
+            <li>Fixes issue of lights-out images not being filtered out for Client Response albums</li>
+            <li>Fixes issue with Access Codes not working if they include special characters including ampersands</li>
+          </ul>
+
+          <p>See our video walkthrough, <a href="https://blog.theturninggate.net/2018/09/12/installing-updates-in-backlight-2/">How-to: Installing Updates in Backlight</a>.</p>
+
+          <h3>Work-in-progress</h3>
+          <p>I am currently working on the slideshow for Kookaburra, adding customizations, customization options, and various improvements, while also setting up the architecture so that we can add new features in future updates. It's complicated work, and it's taken a while to get momentum going, but I finally have the slideshow on track for our next update. I am very excited, as getting this done will unblock work on a lot of other features I'm eager to start on.</p>
+        </mj-text>        
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="article">
+          <h2>The Best Way to Include Google Fonts</h2>
+        </mj-text>        
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="article">
+          <h2>Obsidian, Your New Markdown Editor</h2>
+          <p>A new Markdown editor available on Mac, Windows and Linux, and iOS and Android, <a href="https://obsidian.md/">Obsidian</a> is free (forever!) for personal use, and seems ideally suited to the needs of Backlight users.</p>
+          <p>Documents are organized into "vaults", quickly accessible via the sidebar, and an encrypted sync keeps things up-to-date between devices.</p>
+          <p>On disk, a vault is just a folder, containing nested folders and Markdown documents. I love this, because should I ever choose to leave Obsidian, I still have my files, and they can be opened in any text or Markdown editor. They're not in some proprietary format, they're not locked away in a database.</p>
+          <p>The app is also highly extensible, with roughly 750 community extensions currently listed on their website.</p>
+          <p>See <a href="https://obsidian.md/">the Obsidian website</a> for more information, but definitely give Obsidian a look.</p>
+        </mj-text>        
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="article">
+          <h2>Leaving Twitter</h2>
+          <p>Our silent Twitter account, @theturninggate, is no more.</p>
+          <p>We almost never tweeted anyway, so this effectively changes nothing. We did not tweet in the past, we will not tweet in the future; it's business as usual. The only difference, if you try to find us there, you won't.</p>
+        </mj-text>        
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="article">
+          <h2>Stuff &amp; Things</h2>
+          <p>Our curated list of recent, suggested listening, reading and viewing.</p>
+          <dl>
+            <dt><a href="https://petapixel.com/2022/12/08/photographer-loses-plagarism-case-against-artist-who-ripped-off-her-work/">Luxembourg court fails to uphold photographer's copyright</a></dt>
+            <dd>Jinga Zhang is a fashion photographer whose work I have been following for something like 15 years. The images she creates are simply gorgeous, and most definitely have a signature quality all her own. And so this ruling by Luxembourg courts not to protect her copyright in the face of blatant infringement is simply galling.</dd>
+            <dd>Jinga Zhang has been deeply distressed by the decision, evident by her Instagram posts, <a href="https://www.instagram.com/p/Cl3y9GFrhdm/?hl=en">here</a> and <a href="https://www.instagram.com/p/CmDsJWmDr5O/?hl=en">here</a>.
+            
+            <dt><a href="https://youtu.be/qMWAY8Cdsz0">I Have to Pirate COLOURS Now??</a></dt>
+            <dd>Linus Tech Tips goes deep into the Adobe vs. Pantone licensing debacle. Along the way, he also talks about how subscription-based software kinda sucks.</dd>
+
+            <dt><a href="https://kotaku.com/adobe-ai-generated-art-photoshop-stock-bad-sucks-1849880495">Adobe Embraces AI Art</a> (╬≖_≖)</dt>
+            <dd>From Kotaku, a less than charitable take on Adobe's inclusion of A.I. generated art in its collection of stock images.</dd>
+            <dd>Personally, I've had fun tinkering with A.I. art generators; they are highly entertaining! But would never try to sell or pass off any such creations as real art, and cannot think of any commercial context in which I would try or want to use them, except maybe as dressing for a blog post(?).</dd>
+
+            <dt><a href="">Guillermo del Toro says AI art used in film would be "an insult to life itself"</a></dt>
+            <dd>From Polygon; Guillermo del Toro says, "I consume and love art made by humans".</dd>
+
+            <dt><a href="https://www.youtube.com/watch?v=Y2QV4kNHCrE">Is Imitation Vanilla Actually Better than Real Vanilla?</a></dt>
+            <dd>We've been pretty down on Adobe, A.I., and imitations in this batch of links, so here's a thematically appropriate palate cleanser from one of my favorite culinary shows, "What's Eating Dan?"</dd>
+            
+            <dt><a href="https://www.youtube.com/watch?v=E4eX0ZLgfQo">Why Gordon Parks' Most Famous Photo Almost Wasn't Released</a></dt>
+            <dd>PBS' The Bigger Picture with Vincent Brown takes a deeper look at Gordon Parks' iconic image, "American Gothic", and the larger power of photography.</dd>
+            
+            <dt><a href="https://pod.link/bjork">Björk: Sonic Symbolism</a></dt>
+            <dd>In our previous edition, the Music Pick was a track from Björk's new album, <cite>Fossora</cite>. In this podcast, Björk walks us through each of her magnificent albums, one per episode, shedding light on the influences and inspirations that have charted her musical path. I love this.</dd> 
+            
+            <dt><a href="https://www.youtube.com/watch?v=yHwKSosF_QE">Music Pick: "replay!" by Kimbra</a></dt>
+            <dd>Mildly NSFW video, featuring Kimbra at her most sexually suggestive. But the song is a banger, about being stuck in a mental/emotional replay loop following a breakup. Kimbra's upcoming album is currently the new music I am most looking forward to in 2023. She discusses this song and more in depth in <a href="https://www.youtube.com/watch?v=LsEbpKrZe9s">this interview</a>.</dd>
+          </dl>
+        </mj-text>        
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <p class="social-links">
+            <a href="https://blog.theturninggate.net" target="_blank">Blog</a>
+            <a href="https://discourse.theturninggate.net/" target="_blank">Forum</a>
+            <a href="https://www.facebook.com/groups/1029027300459809/" target="_blank">Facebook</a>
+            <a href="https://www.linkedin.com/company/theturninggate/" target="_blank">LinkedIn</a>
+          </p>
+
+          <p class="unsubscribe">
+            <unsubscribe>Unsubscribe from future mailings.</unsubscribe>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
