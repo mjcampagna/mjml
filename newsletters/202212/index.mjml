@@ -226,9 +226,10 @@
 
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202202/20211211-165810-mc-0045.jpg?raw=true" alt="Hero image; ." />
+        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202212/20221112-170243-mc-4193.jpg?raw=true" alt="Hero image; ." />
         <mj-text css-class="article">
-          <p>Happy holidays, [Name,fallback=Friend]!</p>
+          <p>Greetings, [Name,fallback=Friend]!</p>
+          <p>And happy holidays!</p>
           <p>The new year is rapidly approaching, and this will probably be our final newsletter for 2022. We released <strong>Backlight 5.0.4</strong> a couple of weeks ago, and it's a very good update. I am actively working on the next update, which might be a December release, but which could easily slip to January. More on the updates below.</p>
           <p>In Stuff &amp; Things, we have some excellent links for you, so definitely read to the end!</p>
           <p>Most of all, thank you for another great year! Backlight 5 has been awesome, and we have really appreciated all of the positive feedback. We hope you continue to enjoy it into 2023, and that you have the most spectacular of holidays in the meantime!</p>
