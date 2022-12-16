@@ -228,10 +228,10 @@
       <mj-column>
         <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202212/20221112-170243-mc-4193.jpg?raw=true" alt="Hero image; ." />
         <mj-text css-class="article">
-          <p>Greetings, [Name,fallback=Friend]!</p>
-          <p>And happy holidays!</p>
-          <p>The new year is rapidly approaching, and this will probably be our final newsletter for 2022. We released <strong>Backlight 5.0.4</strong> a couple of weeks ago, and it's a very good update. I am actively working on the next update, which might be a December release, but which could easily slip to January. More on the updates below.</p>
-          <p>In Stuff &amp; Things, we have some excellent links for you, so definitely read to the end!</p>
+          <p>Hi, [Name,fallback=Friend]!</p>
+          <p>And seasons greetings!</p>
+          <p>The new year is rapidly approaching, and this will probably be our final newsletter for 2022. We released <strong>Backlight 5.0.4</strong> a couple of weeks ago, and it's a very good update. We are actively working on the next update; more info below.</p>
+          <p>In <strong>Stuff &amp; Things</strong>, we have some excellent links for you, so definitely read to the end!</p>
           <p>Most of all, thank you for another great year! Backlight 5 has been awesome, and we have really appreciated all of the positive feedback. We hope you continue to enjoy it into 2023, and that you have the most spectacular of holidays in the meantime!</p>
         </mj-text>        
       </mj-column>
@@ -268,7 +268,11 @@
           <p>See our video walkthrough, <a href="https://blog.theturninggate.net/2018/09/12/installing-updates-in-backlight-2/">How-to: Installing Updates in Backlight</a>.</p>
 
           <h3>Work-in-progress</h3>
-          <p>I am currently working on the slideshow for Kookaburra, adding customizations, customization options, and various improvements, while also setting up the architecture so that we can add new features in future updates. It's complicated work, and it's taken a while to get momentum going, but I finally have the slideshow on track for our next update. I am very excited, as getting this done will unblock work on a lot of other features I'm eager to start on.</p>
+          <p>The next Backlight update is in the works, and will hit maybe before the end of December, or maybe sometime after the new year. It's shaping up to be doozy.</p>
+          <p>For Kookaburra, I am jazzing up the slideshow with customizations, customization options, and lots of improvements, while also setting the stage for future enhancements.</p>
+          <p>There are shortcodes coming that should give you more control over content being displayed to users, based on whether they are logged in or out.</p>
+          <p>And there are some new RSS feeds in the works that will give us magical powers!</p>
+          <p>Keep an eye on the blog for the release announcement.</p>
         </mj-text>        
       </mj-column>
     </mj-section>
@@ -276,8 +280,13 @@
     <mj-section>
       <mj-column>
         <mj-text css-class="article">
-          <h2>The Best Way to Include Google Fonts</h2>
-        </mj-text>        
+          <h2>The **NEW** Best Way to Include Google Fonts</h2>
+          <p>The EU came down hard on Google Fonts this year. As a result, we are changing our recommendation for how to use Google Fonts in a Backlight site.</p>
+          <p>The old way to include Google Fonts in Okapi and Pangolin is being deprecated. Not removed, because that would be a breaking change to existing sites; we don't want to do that.</p>
+          <p>The new way, in TL; DR format is, download the fonts you want, upload them to Backlight's custom folder, then use a custom stylesheet to declare them. You can then use them by name in Backlight's designer.</p>
+          <p>For full details, see this new article I've published:</p>
+          <p><a href="https://backlight.me/docs/google-fonts">Using Google Fonts in Backlight</a></p>
+        </mj-text>
       </mj-column>
     </mj-section>
 
@@ -327,6 +336,9 @@
             <dt><a href="https://www.youtube.com/watch?v=Y2QV4kNHCrE">Is Imitation Vanilla Actually Better than Real Vanilla?</a></dt>
             <dd>We've been pretty down on Adobe, A.I., and imitations in this batch of links, so here's a thematically appropriate palate cleanser from one of my favorite culinary shows, "What's Eating Dan?"</dd>
             
+            <dt><a href="https://petapixel.com/2022/12/07/capture-ones-actions-say-perpetual-software-just-isnt-profitable-enough/">Capture One’s Actions Say Perpetual Software Just isn’t Profitable Enough</a></dt>
+            <dd>It's not just Adobe breaking my heart these days. Capture One, my favorite photo software for a long while now, has been pretty disappointing with its last couple of versions, and their newly announced licensing changes are ripe BS. Not sure what I'm going to do, but will wait for details about their "loyalty scheme" to make a decision.</dd>
+
             <dt><a href="https://www.youtube.com/watch?v=E4eX0ZLgfQo">Why Gordon Parks' Most Famous Photo Almost Wasn't Released</a></dt>
             <dd>PBS' The Bigger Picture with Vincent Brown takes a deeper look at Gordon Parks' iconic image, "American Gothic", and the larger power of photography.</dd>
             
