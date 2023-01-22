@@ -226,9 +226,11 @@
 
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202202/20211211-165810-mc-0045.jpg?raw=true" alt="Hero image; ." />
+        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202301/Backlight-5-Hero-1920-1080.jpg?raw=true" alt="Hero image; ." />
         <mj-text css-class="article">
           <p>Hi [Name,fallback=Friend],</p>
+          <p>And happy new year!</p>
+          <p>Our first release of 2023 is here, and Backlight 5.1.0 is a big one, a good one for kicking things off. We also have a new guide for you, on how to use the new Admin RSS Feeds introduced in this update.</p>
         </mj-text>        
       </mj-column>
     </mj-section>
@@ -236,8 +238,68 @@
     <mj-section>
       <mj-column>
         <mj-text css-class="article">
-          <h2>Updates</h2>
+          <h2>Backlight 5.1.0</h2>
+          <p><strong>Backlight 5.1.0</strong> is now available. And it's a big one!</p>
+
+          <p>Backlight is now compatible with the PHP 8.2! The new version only released in early December, but we've already seen it showing up on hosts.</p>
+
+          <p>We now have Backdown tags, "logged-in", "logged-out" and "logout". See <a href="https://backlight.me/docs/writing-copy#shortcodes">Writing Copy: Shortcodes</a> for more on this.</p>
+
+          <p>There are new <a href="https://backlight.me/docs/rss-feeds#admin-rss-feeds">Admin RSS Feeds</a> for Contacts, Feedback, and Orders. You can subscribe to these in an RSS reader, but these become really powerful when used as event triggers for services like Zapier or IFTTT. More on this below.</p>
+
+          <p>Finally, the Kookaburra slideshow has been overhauled to provide a more custom, and more customizable experience, while also paving the way for future updates. You will find many new options in Kookaburra Page, in the Slideshow control group.</p>
+
+          <p>These are just the headlines, of course. There are also a host of fixes and improvements, detailed below.</p>
+
+          <p>Updates install in the usual way. <a href="https://blog.theturninggate.net/2018/09/12/installing-updates-in-backlight-2/">How-to: Installing Updates in Backlight</a>.</p>
+
+          <h3>Backlight 5.1.0</h3>
+
+          <ul>
+          <li>Adds admin RSS feed for Contacts</li>
+          <li>Adds support for [logged-in][/logged-in], [logged-out][/logged-out] and [logout] Backdown tags</li>
+          <li>Fixes issue of highest-level Album Set breadcrumb being omitted from search results</li>
+          <li>Fixes filtering of protected photos for cover images</li>
+          <li>Changes behavior of passcode for protected photos to only appear if album has protected photos</li>
+          <li>Fixes behaviour of albums that provide logins for protected photos that reside within protected album sets to hide all photos when not logged in</li>
+          <li>Improves performance of loading Smart Albums</li>
+          <li>Kookaburra: slideshow customizations, customization options, and improvements</li>
+          <li>Kookaburra Page: adds fixes for SVGs in Firefox</li>
+          <li>Kookaburra Page: improves styling of the navigation menu</li>
+          <li>Marks Google Fonts options in Okapi and Pangolin as "deprecated"</li>
+          <li>Updates sample PHPlugins file for Kookaburra</li>
+          <li>Updates codebase for compatibility with PHP 8.2</li>
+          </ul>
+
+          <h3>Cart Add-on 8.1.0</h3>
+
+          <ul>
+          <li>Adds support for Orders admin RSS feed</li>
+          <li>Fixes issue where product matching package item can not be added to cart</li>
+          <li>Fixes issue with being unable to add products after filling package or trying to add multiple copies of a digital download</li>
+          <li>Fixes display of large image when clicking on thumbnail when editing an item in the Cart</li>
+          <li>Adds workaround so that the Change button works when clean URLs are not working</li>
+          <li>Updates codebase for compatibility with PHP 8.2</li>
+          </ul>
+
+          <h3>Client Response Add-on 11.1.0</h3>
+
+          <ul>
+          <li>Adds support for Feedback admin RSS feed</li>
+          <li>Updates codebase for compatibility with PHP 8.2</li>
+          </ul>
         </mj-text>        
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="article">
+          <h2>Using RSS Feeds as Event Triggers</h2>
+          <p>The new Admin RSS Feeds open a world of new possibilities for Backlight's communications. They can be used to cover for flaky email delivery from your host, which itself is very useful. But can also be used to trigger notifications via Facebook Messenger, Line, SMS, and myriad other services, depending on your needs.</p>
+          <p>To create these workflows, all you need to do is enable the RSS feeds, then set up with a service like Zapier or IFTTT.</p>
+          <p>For more on how to do this, check out <a href="https://backlight.me/docs/rss-feeds#admin-rss-feeds">our latest guide for Admin RSS Feeds</a>.</p>
+        </mj-text>
       </mj-column>
     </mj-section>
 
@@ -249,20 +311,27 @@
           <h2>Stuff &amp; Things</h2>
           <p>Our curated list of recent, suggested listening, reading and viewing.</p>
           <dl>
-            <dt><a href="">Title</a></dt>
-            <dd>...</dd>
+            <dt><a href="https://kotaku.com/ai-art-stable-diffusion-midjourney-lawsuit-sued-court-1849991363">'AI Art' Companies &amp; DeviantArt Are Being Sued By Artists</a></dt>
+            <dd>The latest in the continuing saga of A.I. art ...</dd>
             
-            <dt><a href="">Title</a></dt>
-            <dd>...</dd>
+            <dt><a href="https://petapixel.com/2023/01/13/ai-machines-are-entitled-to-copyight-man-takes-his-case-to-federal-court/">&quot;AI Machines Are Entitled to Copyright&quot;</a></dt>
+            <dd>... and from the other side, a computer scientist takes his case to federal court.</dd>
+
+            <dt><a href="https://fstoppers.com/reviews/network-storage-only-safe-way-store-your-pictures-623648">Network Storage Is the Only Safe Way to Store Your Pictures</a></dt>
+            <dd>Barely scratches the surface, but it's a surface worth scratching. I personally have a NAS from QNAP that I'm still working to wrap my head around. I'm not sure I'd recommend it, as I find it very complicated, and the cause of many headaches. I don't know whether the Synology would be more user-friendly, but one can hope ...</dd>
             
-            <dt><a href="">Title</a></dt>
-            <dd>...</dd>
-            
-            <dt><a href="">Title</a></dt>
-            <dd>...</dd>
-            
-            <dt><a href="">Music Pick: ...</a></dt>
-            <dd>...</dd>
+            <dt><a href="https://www.artnews.com/art-news/news/sfmoma-acquires-first-nft-lynna-hershman-leeson-1234653712/">SFMOMA Acquires Its First NFT</a></dt>
+            <dd>So stupid.</dd>
+
+            <dt><a href="https://petapixel.com/2023/01/14/how-to-title-your-photography-work/">How to Title Your Photography Work</a></dt>
+            <dd>Personally, I need all the help I can get.</dd>
+
+            <dt><a href="https://petapixel.com/2023/01/14/people-of-color-theres-a-bias-in-how-pictures-are-used-to-depict-disease-in-global-health-publications/">There's a Bias in How Pictures Are Used to Depict Disease in Global Health Publications</dt>
+            <dd>"Photographs are powerful in the imprint they leave in the collective psyche. There are ethical responsibilities in how we capture, contextualize and distribute photographs of people. Global health photography has a different purpose from journalism. But the lack of ethical standards or guidelines has blurred the distinction."</dd>
+
+            <dt><a href="https://youtu.be/Ak6AFFJJXzo">Music Pick: "Surrender My Heart" by Carly Rae Jepson</a></dt>
+            <dd>An extended featurette and music video, in collaboration with Lenovo and Intel, and featuring actress Jane Krakowski, the latest Carly video is pretty over-the-top. But I love the song, Carly is always great, and there's so much backlighting throughout, I just couldn't help myself sharing it.<dd>
+            <dd>If you'd like to skip the two-and-a-half-minute intro, you can <a href="https://youtu.be/Ak6AFFJJXzo?t=148">skip to the music</a>.</dd>
           </dl>
         </mj-text>        
       </mj-column>
