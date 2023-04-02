@@ -1,0 +1,392 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-button padding="0" />
+      <mj-column padding="0" />
+      <mj-image padding="0" />
+      <mj-section padding="0 0 48px" />
+      <mj-table padding="0" />
+      <mj-text
+        font-family="-apple-system, 'system-ui', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif"
+        font-size="14px"
+        padding="0"
+      />
+      <mj-wrapper padding="0" />
+    </mj-attributes>
+
+    <mj-style>
+      body {
+        background-color: #ffffff;
+        padding: 0 12px;
+      }
+
+      .logo {
+        border: 0 solid #9e9e9e;
+        border-width: 1px 0 0;
+        color: #737373;
+        font-size: 0;
+        padding: 24px 0 12px;
+        text-align: center;
+      }
+      .logo-title {
+        font-size: 24px;
+        margin: 0 auto 12px;
+      }
+      .logo-element {
+        background-color: #9e9e9e;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        display: inline-block;
+        height: 12px;
+        list-style: none;
+        margin: 0 2px;
+        padding: 0;
+        vertical-align: top;
+        width: 12px;
+      }
+      .tall {
+        height: 24px;
+        margin: 0 2px;
+      }
+      .wide {
+        width: 24px;
+      }
+      .blue {
+        background-color: #2196f3;
+      }
+      .blue-alt {
+        background-color: #90caf9;
+      }
+      .orange {
+        background-color: #ff9800;
+      }
+      .green {
+        background-color: #8bc34a;
+      }
+      .green-alt {
+        background-color: #b2ff59;
+      }
+      .dateline {
+        font-size: 12px;
+        margin: 12px auto;
+        text-align: center;
+      }
+
+      .article {
+        background-color: #f5f5f5;
+        border-bottom: 1px solid #e0e0e0;
+        border-radius: 4px 4px 0 0;
+        padding: 0 !important;
+      }
+
+      .social-links {
+        background-color: #f5f5f5;
+        border: 0 solid #e0e0e0;
+        border-width: 1px 0;
+        margin: 0 !important;
+        padding: 12px 0 !important;
+        text-align: center;
+      }
+      .social-links a {
+        margin: 0 12px;
+      }
+      .unsubscribe {
+        cursor: pointer;
+        font-size: 12px;
+        margin:  12px 0 !important;
+        text-align: right;
+        text-decoration: underline;
+      }
+    </mj-style>
+
+    <mj-style inline="inline">
+      .web-version-link {
+        color: #0071CE;
+        margin: 12px 0;
+        text-align: right;
+      }
+
+      h2 {
+        border-bottom: 1px solid #e0e0e0;
+        color: #616161;
+        line-height: 1.25em;
+        margin: 1.25rem 0 0;
+        padding: 0 12px 1.25rem;
+      }
+
+      h3 {
+        color: #616161;
+        font-size: 16px;
+        line-height: 1.25em;
+        margin: 1.25rem 0;
+        padding: 0 12px;
+      }
+
+      hr {
+        border-top: 1px solid #e0e0e0;
+        height: 0;
+        margin: 1.25rem 12px;
+      }
+
+      p {
+        color: #707070;
+        line-height: 1.5em;
+        margin: 1.125rem 0;
+        padding: 0 12px;
+      }
+
+      a {
+        color: #0071CE;
+        cursor: pointer;
+        font-weight: bold;
+        text-decoration: underline;
+      }
+
+      dl {
+        color: #707070;
+        line-height: 1.5em;
+        margin: 1.125rem 0;
+        padding: 0 12px;
+      }
+      dt {
+        font-size: 14px;
+        font-weight: bold;
+        margin: 1.125rem 0 0.625em;
+      }
+      dd {
+        font-size: 13px;
+        margin: 0.625rem 0;
+      }
+
+      figure {
+        margin: 1.5rem 0;
+      }
+
+      h2 + figure {
+        margin-top: 0;
+      }
+
+      img {
+        display: block;
+        height: auto;
+        max-width: 100%;
+      }
+
+      svg {
+        display: inline-block;
+        height: 18px;
+        margin-right: 4px;
+        vertical-align: middle;
+        width: 18px;
+      }
+
+      figcaption {
+        color: #707070;
+        font-size: 12px;
+        line-height: 1.5em;
+        margin: 6px 12px 0;
+      }
+
+      ol, ul {
+        color: #707070;
+        margin: 1.125rem 0;
+        padding: 0 32px;
+      }
+
+      li {
+        line-height: 1.125em;
+        list-style: square;
+        margin: 0.5rem 0;
+      }
+    </mj-style>
+
+    <mj-title>The Turning Gate</mj-title>
+  </mj-head>
+
+  <mj-body>
+
+    <mj-section padding-bottom="0">
+      <mj-column>
+        <mj-text>
+          <div class="web-version-link">
+            <webversion>view web version</webversion>
+          </div>
+
+          <div class="logo">
+            <h1 class="logo-title">The Turning Gate</h1>
+
+            <span class="logo-element"></span>
+            <span class="logo-element blue-alt"></span>
+            <span class="logo-element wide blue"></span>
+            <span class="logo-element tall wide orange"></span>
+            <span class="logo-element"></span>
+            <span class="logo-element"></span>
+            <span class="logo-element"></span>
+            <span class="logo-element tall green"></span>
+            <span class="logo-element"></span>
+            <span class="logo-element"></span>
+            <span class="logo-element green-alt"></span>
+
+            <div class="dateline">[currentmonth] [currentdaynumber], [currentyear]</div>
+          </div>
+
+        </mj-text>
+      </mj-column>
+    </mj-section>    
+
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202202/20211211-165810-mc-0045.jpg?raw=true" alt="Hero image; ." />
+        <mj-text css-class="article">
+          <p>Hi [Name,fallback=Friend],</p>
+          <p>It's been too long since our last newsletter. I know this, because I have two or three times now had to cull the ever-growing collection of links I've been gathering for the Stuff &amp; Things section.</p>
+          <p>Well, it's high time I remind you that we're still here, working on next things, and that I empty my pending outbox before I have to starting culling things again.</p>
+        </mj-text>        
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="article">
+          <h2>State of Backlight</h2>
+          <p>Backlight is currently at <a href="https://blog.theturninggate.net/2023/02/13/update-backlight-5-1-1/">version 5.1.1</a>. Corresponding updates bring the Cart Add-on to 8.1.2, and Theater to 5.0.1. These are maintenance updates, though we do recommend all users should update.</p>
+          <p>Remember, updates are easy! Here's <a href="https://blog.theturninggate.net/2018/09/12/installing-updates-in-backlight-2/">how to update Backlight</a> to the last version, in case you need reminding.</p>
+
+          <p>Most of February, I spent in Taiwan, my girlfriend and I visiting her friends and family. Prior to traveling, we released Backlight 5.1.0, featuring an overhauled slideshow for Kookaburra, built on Fancybox 4. If only I had known what was coming, I might not have bothered ...</p>
+          <p>While I was away, Fancybox 5 released with an all new API, meaning all my work on the Kookaburra slideshow would be shortlived. Since returning from our trip, I've been readjusting to the timezone, getting caught up on this at home and at work, and ... again ... completely overhauling the slideshow for Kookaburra.</p>
+          <p>The good news is, that Fancybox 5 is nicer than its predecessor and easier to work with, and I am much happier with the new slideshow that will be coming in our next update, and that I will continue to build upon into updates beyond.</p>
+
+          <p>I have begun to replace some Pangolin parts of my personal website with new Kookaburra parts. I'm hoping to make a full conversion this summer, as time permits.</p>
+        </mj-text>        
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="article">
+          <h2>In Rememberance of Monte Trumbull</h2>
+          <p>I have some sad news to share. Monte Trumbull, a longtime member of our community, has unexpectedly passed away.</p>
+          <p>Monte was a kind and generous fellow, always pleasant in our forum, and had helped us to beta test some prior major versions of Backlight. He will be missed.</p>
+          <p>He was also a passionate and traveled landscape photographer, so I encourage you pay respects as photographers do, by spending time amongst his imagery.</p>
+          <ul>
+          <li><a href="https://www.montetrumbull.com/">Monte Trumbull Photography</a></li>
+          <li><a href="https://www.legacy.com/us/obituaries/muscatinejournal/name/monte-trumbull-obituary?id=48964812">Obituary for Monte Edward Trumbull, 1958 - 2023</a></li>
+        </mj-text>        
+      </mj-column>
+    </mj-section>
+
+
+
+    <mj-section>
+      <mj-column>
+        <mj-text css-class="article">
+          <h2>Stuff &amp; Things</h2>
+          <p>Our curated list of recent, suggested listening, reading and viewing.</p>
+          <p>And I'm trying something new, using icons to differentiate between reading and video links, so you know what you're clicking on.</p>
+
+          <dl>
+            <dt>
+              <svg><use xlink:href="#article" /></svg> 
+              <a href="https://medium.com/@socialcreature/ai-and-the-american-smile-76d23a0fbfaf">AI and the American Smile</a></dt>
+            <dd>A great read about how AI misrepresents culture through a facial expression.</dd>
+
+            <dt>
+              <svg><use xlink:href="#article" /></svg> 
+              <a href="https://www.theverge.com/2023/3/21/23650286/amazon-dpreview-camera-site-shutdown-layoffs">Amazon Kills DPReview</a>
+            </dt>
+            <dd>In 2007, <a href="https://www.dpreview.com/articles/1690663587/amazonacquiresdpreview">Amazon acquired DPReview</a>, "the leading online destination for reviews and information about digital photography." In 2023, after nearly 25 years in operation, <a href="https://www.dpreview.com/news/5901145460/dpreview-com-to-close">they're killing it</a>. A tremendous lose for the photographic community.</dd>
+
+            <dt>
+              <svg><use xlink:href="#article" /></svg>
+              <a href="https://www.theguardian.com/technology/2023/feb/08/biased-ai-algorithms-racy-women-bodies">Social Media Algorithmic Bias</a></dt>
+            <dd>Fascinating, concerning, and annoying too! Recommended reading for anyone posting images to any kind of social media in hopes to broadening their reach.</dd>
+
+            <dt>
+              <svg><use xlink:href="#youtube" /></svg>
+              <a href="https://www.youtube.com/watch?v=wSs5eastljU">Why I can type ±©♥🔥🂱Ʊ in this headline</a>
+            </dt>
+            <dd>
+              <a href="https://discourse.theturninggate.net/t/smileys-in-essays-or-any-text-at-all/2743">forum post</a>
+            </dd>
+            <dd>And here's <a href="https://www.youtube.com/watch?v=2yWWFLI5kFU">᚛ᚈᚑᚋ ᚄᚉᚑᚈᚈ᚜ and ᚛ᚑᚌᚐᚋ᚜</a>, for more unicode esoterica.</dd>
+
+            <dt>
+              <svg><use xlink:href="#youtube" /></svg>
+              <a href="https://www.youtube.com/watch?v=LAkFtka3UFw">Why so many people need glasses now</a>
+            </dt>
+            <dd></dd>
+
+            <dt>
+            <svg><use xlink:href="#article" /></svg>
+            <a href="https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web">ChatGPT Is a Blurry JPEG of the Web</a></dt>
+            <dd>One of the better, and more reassuring pieces I've read explaining how the current crop of generative-AI tools work and what their limitations are, using a JPEG analogy that we photographers ought to understand.</dd>
+            
+            <dt>
+            <svg><use xlink:href="#article" /></svg> <a href="https://www.fastcompany.com/90849850/ai-porn-is-colliding-with-human-sexuality-and-raising-some-ethical-red-flags">AI porn is colliding with human sexuality, and raising some ethical red flags
+</a></dt>
+            <dd>It's easy to get lost in the hullabaloo about generative-AI being a threat to forms of human expression, but let us not forget that it sits at a crossroads of many moral and social matters as well.</dd>
+                        
+            <dt><svg><use xlink:href="#article" /></svg> <a href="https://www.nytimes.com/interactive/2023/01/13/opinion/jodorowsky-dune-ai-tron.html
+">Alejandro Jodorowsky's "Dune" Was Never Made, but With A.I., We Get a Glimpse of His "Tron"</a></dt>
+            <dd>Behind the NYT paywall, but if you haven't blown your free reads for the month, this is worth it.</dd>
+
+            <dt>
+              <svg><use xlink:href="#article" /></svg>
+              <a href="https://petapixel.com/2023/03/17/midjourney-v5-creates-photorealistic-images-and-even-does-hands-correctly/">Midjourney v5 Does Photo-realistic People</a>
+            </dt>
+            <dd>Do we even need cameras anymore?</dd>
+
+            <dt>
+              <svg><use xlink:href="#youtube" /></svg>
+              <a href="https://youtu.be/3vpYxc7lqDw">Music Pick: "Hush" by CIFIKA</a>
+            </dt>
+            <dd>The new track from CIFIKA, one of my favorite South Korean artists.</dd>
+          </dl>
+        </mj-text>        
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <p class="social-links">
+            <a href="https://blog.theturninggate.net" target="_blank">Blog</a>
+            <a href="https://discourse.theturninggate.net/" target="_blank">Forum</a>
+            <a href="https://www.facebook.com/groups/1029027300459809/" target="_blank">Facebook</a>
+            <a href="https://www.linkedin.com/company/theturninggate/" target="_blank">LinkedIn</a>
+          </p>
+
+          <p class="unsubscribe">
+            <unsubscribe>Unsubscribe from future mailings.</unsubscribe>
+          </p>
+
+          <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+            <symbol
+              fill="none"
+              id="article"
+              stroke="currentColor"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              viewBox="0 0 24 24"
+            >
+              <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline>
+            </symbol>
+
+            <symbol
+              fill="none"
+              id="youtube"
+              stroke="currentColor"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              viewBox="0 0 24 24"
+            >
+              <path d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.33z"></path><polygon points="9.75 15.02 15.5 11.75 9.75 8.48 9.75 15.02"></polygon>
+            </symbol>
+          </svg>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
