@@ -236,11 +236,12 @@
 
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202202/20211211-165810-mc-0045.jpg?raw=true" alt="Hero image; ." />
+        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202304/20230129-092006-mc-Taipei-0317.jpg?raw=true" alt="Taipei; February 2023." />
         <mj-text css-class="article">
           <p>Hi [Name,fallback=Friend],</p>
           <p>It's been too long since our last newsletter. I know this, because I have two or three times now had to cull the ever-growing collection of links I've been gathering for the Stuff &amp; Things section.</p>
-          <p>Well, it's high time I remind you that we're still here, working on next things, and that I empty my pending outbox before I have to starting culling things again.</p>
+          <p>Well, it's high time I remind you that we're still here, working on next things, and that I share all of my accumulated stuff and things before they've gone stale.</p>
+          <p>And The Turning Gate marks its sixteenth anniversary this month! As I write this, I am raising a glass to us! And when this glass is empty, I will raise another to all of you! Ben and I are forever grateful to you for sharing in this journey, for your support and continued interest in the things we are creating. When I posted my first Lightroom plugin for download in 2007, I never imagined we would create anything so ambitious as Backlight, nor that anyone would still be paying attention sixteen years later. Thank you!</p>
         </mj-text>        
       </mj-column>
     </mj-section>
@@ -263,6 +264,7 @@
 
     <mj-section>
       <mj-column>
+        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202304/heavenly_crescendo.jpg?raw=true" alt="Heavenly Crescendo, by Monte Trumbull" />
         <mj-text css-class="article">
           <h2>In Rememberance of Monte Trumbull</h2>
           <p>I have some sad news to share. Monte Trumbull, a longtime member of our community, has unexpectedly passed away.</p>
@@ -271,11 +273,11 @@
           <ul>
           <li><a href="https://www.montetrumbull.com/">Monte Trumbull Photography</a></li>
           <li><a href="https://www.legacy.com/us/obituaries/muscatinejournal/name/monte-trumbull-obituary?id=48964812">Obituary for Monte Edward Trumbull, 1958 - 2023</a></li>
+          </ul>
+          <p>His image above is titled "<a href="https://www.montetrumbull.com/galleries/01-landscape/MT-20130921-193436-0286-Glacier-National-Park-Hidden-Lake-red-sunset-single">Heavenly Crescendo</a>".
         </mj-text>        
       </mj-column>
     </mj-section>
-
-
 
     <mj-section>
       <mj-column>
@@ -340,7 +342,7 @@
               <svg><use xlink:href="#youtube" /></svg>
               <a href="https://youtu.be/3vpYxc7lqDw">Music Pick: "Hush" by CIFIKA</a>
             </dt>
-            <dd>The new track from CIFIKA, one of my favorite South Korean artists.</dd>
+            <dd>The first single from CIFIKA's new album ION. CIFIKA one of my favorite South Korean electronic artists, and this song is a real beauty.</dd>
           </dl>
         </mj-text>        
       </mj-column>
