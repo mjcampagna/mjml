@@ -283,6 +283,17 @@
       <mj-column>
         <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202304/20230209-160834-mc-8347.jpg?raw=true" alt="Yangming Mountain, Taiwan; February 2023." />
         <mj-text css-class="article">
+          <h2>Filmist and Silver Updates</h2>
+          <p>My images in this newsletter, both from my recent trip to Taiwan, are processed using the new Filmist 1.8 presets, from Seim Effects. The hero image with "K EKTAR 100 G2", and the image above with "ColorPro P1600".
+          <p>I've loved Filmist for as long as I've had it, and it just continues to get better with each new version. The new additions in 1.8 have quickly become favorites.</p>
+          <p>Meanwhile, Silver is my go-to for black-and-white conversions, and 5.2 builds versatility upon versatility with the new "mod kit" tweaking presets.</p>
+          <p>Gavin pours his heart into his presets the way that we do into Backlight, and consistently releases the best processing tools that money can buy. Both Filmist and Silver are available for Lightroom, Photoshop, Capture One Pro, and as LUTs for any software that supports the format.</p>
+          <p>Use our affiliate links to buy, or download the free micro packs to try, and <strong>use our exclusive discount code TTG20 for an additional 20% off</strong>:</p>
+          <ul>
+          <li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=183378">Get Filmist</a></li>
+          <li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=204790">Get Silver</a></li>
+          </ul>
+          <p>Gav has also posted promos for <a href="https://youtu.be/9IompmU2Qco">Filmist 1.8</a> and <a href="https://youtu.be/caOSqm2I-qc">Silver 5.2</a> on his YouTube channel.</p>
         </mj-text>        
       </mj-column>
     </mj-section>
@@ -298,33 +309,32 @@
             <dt>
               <svg><use xlink:href="#article" /></svg> 
               <a href="https://medium.com/@socialcreature/ai-and-the-american-smile-76d23a0fbfaf">AI and the American Smile</a></dt>
-            <dd>A great read about how AI misrepresents culture through a facial expression.</dd>
+            <dd>A great read about how AI misrepresents culture through facial expression.</dd>
 
             <dt>
               <svg><use xlink:href="#article" /></svg> 
               <a href="https://www.theverge.com/2023/3/21/23650286/amazon-dpreview-camera-site-shutdown-layoffs">Amazon Kills DPReview</a>
             </dt>
             <dd>In 2007, <a href="https://www.dpreview.com/articles/1690663587/amazonacquiresdpreview">Amazon acquired DPReview</a>, "the leading online destination for reviews and information about digital photography." In 2023, after nearly 25 years in operation, <a href="https://www.dpreview.com/news/5901145460/dpreview-com-to-close">they're killing it</a>. A tremendous lose for the photographic community.</dd>
+            <dd>We can take some small consolation that Chris and Jordan are moving their excellent YouTube show to <a href="https://www.youtube.com/@PetaPixel">PetaPixel</a>; give them a follow.</dd>
 
             <dt>
               <svg><use xlink:href="#article" /></svg>
               <a href="https://www.theguardian.com/technology/2023/feb/08/biased-ai-algorithms-racy-women-bodies">Social Media Algorithmic Bias</a></dt>
-            <dd>Fascinating, concerning, and annoying too! Recommended reading for anyone posting images to any kind of social media in hopes to broadening their reach.</dd>
+            <dd>Fascinating, concerning, and annoying too! Recommended reading for anyone posting images to any kind of social media in hopes to broaden their reach.</dd>
 
             <dt>
               <svg><use xlink:href="#youtube" /></svg>
               <a href="https://www.youtube.com/watch?v=wSs5eastljU">Why I can type ±©♥🔥🂱Ʊ in this headline</a>
             </dt>
-            <dd>
-              <a href="https://discourse.theturninggate.net/t/smileys-in-essays-or-any-text-at-all/2743">forum post</a>
-            </dd>
+            <dd>We recently had <a href="https://discourse.theturninggate.net/t/smileys-in-essays-or-any-text-at-all/2743">a question in our forum</a> about using emoji in Backlight, and the answer is, you can totally do that. The reason is unicode, and this video talks all about it.</dd>
             <dd>And here's <a href="https://www.youtube.com/watch?v=2yWWFLI5kFU">᚛ᚈᚑᚋ ᚄᚉᚑᚈᚈ᚜ and ᚛ᚑᚌᚐᚋ᚜</a>, for more unicode esoterica.</dd>
 
             <dt>
               <svg><use xlink:href="#youtube" /></svg>
               <a href="https://www.youtube.com/watch?v=LAkFtka3UFw">Why so many people need glasses now</a>
             </dt>
-            <dd></dd>
+            <dd>As photographers, we rely heavily upon our eyeballs. This Vox video talks about our increasing rates of myopia, and has some answers as to what we can do about it: Go outside! Take some photos!</dd>
 
             <dt>
             <svg><use xlink:href="#article" /></svg>
@@ -336,15 +346,15 @@
 </a></dt>
             <dd>It's easy to get lost in the hullabaloo about generative-AI being a threat to forms of human expression, but let us not forget that it sits at a crossroads of many moral and social matters as well.</dd>
                         
-            <dt><svg><use xlink:href="#article" /></svg> <a href="https://www.nytimes.com/interactive/2023/01/13/opinion/jodorowsky-dune-ai-tron.html
-">Alejandro Jodorowsky's "Dune" Was Never Made, but With A.I., We Get a Glimpse of His "Tron"</a></dt>
-            <dd>Behind the NYT paywall, but if you haven't blown your free reads for the month, this is worth it.</dd>
-
             <dt>
               <svg><use xlink:href="#article" /></svg>
               <a href="https://petapixel.com/2023/03/17/midjourney-v5-creates-photorealistic-images-and-even-does-hands-correctly/">Midjourney v5 Does Photo-realistic People</a>
             </dt>
             <dd>Do we even need cameras anymore?</dd>
+
+            <dt><svg><use xlink:href="#article" /></svg> <a href="https://www.nytimes.com/interactive/2023/01/13/opinion/jodorowsky-dune-ai-tron.html
+">Alejandro Jodorowsky's "Dune" Was Never Made, but With A.I., We Get a Glimpse of His "Tron"</a></dt>
+            <dd>Behind the NYT paywall, but if you haven't blown your free reads for the month, this is worth it.</dd>
 
             <dt>
               <svg><use xlink:href="#youtube" /></svg>
