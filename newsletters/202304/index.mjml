@@ -329,6 +329,7 @@
             </dt>
             <dd>We recently had <a href="https://discourse.theturninggate.net/t/smileys-in-essays-or-any-text-at-all/2743">a question in our forum</a> about using emoji in Backlight, and the answer is, you can totally do that. The reason is unicode, and this video talks all about it.</dd>
             <dd>And here's <a href="https://www.youtube.com/watch?v=2yWWFLI5kFU">᚛ᚈᚑᚋ ᚄᚉᚑᚈᚈ᚜ and ᚛ᚑᚌᚐᚋ᚜</a>, for more unicode esoterica.</dd>
+            <dd>It's anybody's guess whether the unicode characters above will display properly in an email newsletter, but let's roll those dice.</dd>
 
             <dt>
               <svg><use xlink:href="#youtube" /></svg>
