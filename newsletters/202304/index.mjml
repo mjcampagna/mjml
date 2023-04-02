@@ -254,10 +254,10 @@
           <p>Remember, updates are easy! Here's <a href="https://blog.theturninggate.net/2018/09/12/installing-updates-in-backlight-2/">how to update Backlight</a> to the latest version, in case you need reminding.</p>
 
           <p>Most of February, I spent in Taiwan, my girlfriend and I visiting her friends and family. Prior to traveling, we released Backlight 5.1.0, featuring an overhauled slideshow for Kookaburra, built on Fancybox 4. If only I had known what was coming, I might not have bothered ...</p>
-          <p>While I was away, Fancybox 5 released with an all new API, meaning all my work on the Kookaburra slideshow would be shortlived. Since returning from our trip, I've been readjusting to the timezone, getting caught up on this at home and at work, and ... again ... completely overhauling the slideshow for Kookaburra.</p>
+          <p>While I was away, Fancybox 5 released with an all new API, meaning all my work on the Kookaburra slideshow would be shortlived. Since returning from our trip, I've been readjusting to the timezone, getting caught up at home and at work, and ... again ... completely overhauling the slideshow for Kookaburra.</p>
           <p>The good news is, that Fancybox 5 is nicer than its predecessor and easier to work with, and I am much happier with the new slideshow that will be coming in our next update, and that I will continue to build upon into updates beyond.</p>
 
-          <p>I have begun to replace some Pangolin parts of my personal website with new Kookaburra parts. I'm hoping to make a full conversion this summer, as time permits.</p>
+          <p>I have also begun to replace some Pangolin parts of my personal website with new Kookaburra parts. I'm hoping to make a full conversion this summer, as time permits.</p>
         </mj-text>        
       </mj-column>
     </mj-section>
