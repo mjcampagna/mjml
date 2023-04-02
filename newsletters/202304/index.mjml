@@ -236,7 +236,7 @@
 
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202304/20230129-092006-mc-Taipei-0317.jpg?raw=true" alt="Taipei; February 2023." />
+        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202304/20230129-092006-mc-Taipei-0317.jpg?raw=true" alt="Taipei, Taiwan; February 2023." />
         <mj-text css-class="article">
           <p>Hi [Name,fallback=Friend],</p>
           <p>It's been too long since our last newsletter. I know this, because I have two or three times now had to cull the ever-growing collection of links I've been gathering for the Stuff &amp; Things section.</p>
@@ -275,6 +275,14 @@
           <li><a href="https://www.legacy.com/us/obituaries/muscatinejournal/name/monte-trumbull-obituary?id=48964812">Obituary for Monte Edward Trumbull, 1958 - 2023</a></li>
           </ul>
           <p>His image above is titled "<a href="https://www.montetrumbull.com/galleries/01-landscape/MT-20130921-193436-0286-Glacier-National-Park-Hidden-Lake-red-sunset-single">Heavenly Crescendo</a>".
+        </mj-text>        
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202304/20230209-160834-mc-8347.jpg?raw=true" alt="Yangming Mountain, Taiwan; February 2023." />
+        <mj-text css-class="article">
         </mj-text>        
       </mj-column>
     </mj-section>
