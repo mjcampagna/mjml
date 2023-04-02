@@ -251,7 +251,7 @@
         <mj-text css-class="article">
           <h2>State of Backlight</h2>
           <p>Backlight is currently at <a href="https://blog.theturninggate.net/2023/02/13/update-backlight-5-1-1/">version 5.1.1</a>. Corresponding updates bring the Cart Add-on to 8.1.2, and Theater to 5.0.1. These are maintenance updates, though we do recommend all users should update.</p>
-          <p>Remember, updates are easy! Here's <a href="https://blog.theturninggate.net/2018/09/12/installing-updates-in-backlight-2/">how to update Backlight</a> to the last version, in case you need reminding.</p>
+          <p>Remember, updates are easy! Here's <a href="https://blog.theturninggate.net/2018/09/12/installing-updates-in-backlight-2/">how to update Backlight</a> to the latest version, in case you need reminding.</p>
 
           <p>Most of February, I spent in Taiwan, my girlfriend and I visiting her friends and family. Prior to traveling, we released Backlight 5.1.0, featuring an overhauled slideshow for Kookaburra, built on Fancybox 4. If only I had known what was coming, I might not have bothered ...</p>
           <p>While I was away, Fancybox 5 released with an all new API, meaning all my work on the Kookaburra slideshow would be shortlived. Since returning from our trip, I've been readjusting to the timezone, getting caught up on this at home and at work, and ... again ... completely overhauling the slideshow for Kookaburra.</p>
