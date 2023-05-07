@@ -303,7 +303,7 @@
         <mj-text css-class="article">
           <h2>Stuff &amp; Things</h2>
           <p>Our curated list of recent, suggested listening, reading and viewing.</p>
-          <p>And I'm trying something new, using icons to differentiate between reading and video links, so you know what you're clicking on.</p>
+          <p>And I'm trying something new, using icons to differentiate between reading and video links, so you know what you're clicking on; these may not display in all mail readers, so <span><webversion>try the web version</webversion></span> if you don't see them.</p>
 
           <dl>
             <dt>
