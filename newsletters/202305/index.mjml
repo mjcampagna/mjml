@@ -236,16 +236,19 @@
 
     <mj-section>
       <mj-column>
-        <mj-image alt="Vancouver, BC, Canada; April 2023." src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202305/20230422-145008-mc-0240.jpg?raw=true" />
+        <mj-image alt="Vancouver, BC, Canada; April 2023." src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202305/20230422-142640-mc-0240.jpg?raw=true" />
         <mj-text css-class="article">
           <p>Hi [Name,fallback=Friend],</p>
-          <p>...</p>
+          <p>The 5.2.0 update for Backlight is here, and so it's time for another newsletter! We'll keep this one brief.</p>
+          <p>The images are from a weekend trip to Vancouver, BC, and were processed with the new Street'ist presets from Seim; more on that below.</p>
+          <p>And there are two music picks this newsletter, because I just couldn't decide between them ...</p>
         </mj-text>        
       </mj-column>
     </mj-section>
 
     <mj-section>
       <mj-column>
+        <mj-image alt="Vancouver, BC, Canada; April 2023." src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202305/20230422-152435-mc-0373.jpg?raw=true" />
         <mj-text css-class="article">
           <h2>Backlight 5.2.0 Update</h2>
           <p>Backlight version 5.2.0 is available now!</p>
