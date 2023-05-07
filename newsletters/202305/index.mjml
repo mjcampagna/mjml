@@ -300,9 +300,16 @@
 
             <dt>
               <svg><use xlink:href="#youtube" /></svg>
-              <a href="">Music Pick: "TITLE" by ARTIST</a>
+              <a href="https://youtu.be/u-WTfP3WJc4">Music Pick: "Loretta" by Ginger Root</a>
             </dt>
-            <dd>...</dd>
+            <dd>"The year is 1983, Ginger Root is asked to write and produce songs for up-and-coming Japanese idol, Kimiko Takeguchi. Right before Kimiko's America debut, she quits, leaving her manager to make the last minute decision of having Ginger Root perform in her place since he knows all the songs. By coincidence, a new star is born."</dd>
+            <dd>The songs are great fun on their own, but Ginger Root's commitment to the 1983 bit in all of his music videos really elevate the project to the next level. Watch "Loretta", then keep going down the rabbit hole!</dd>
+
+            <dt>
+              <svg><use xlink:href="#youtube" /></svg>
+              <a href="https://yves-tumor.bandcamp.com/track/lovely-sewer">Music Pick: "Lovely Sewer" by Yves Tumor</a>
+            </dt>
+            <dd>From Tumor's brand new record, <cite>PRAISE A LORD WHO CHEWS, BUT WHICH DOES NOT CONSUME; (OR SIMPLY, HOT BETWEEN WORLDS)</cite>, my favorite new music of 2023 so far. It's just a fantastic rock'n'roll record, best played loud. On "Lovely Sewer", Diana Gordon returns for another stunning vocal contribution, having also featured on Tumor's previous album.</dd>
           </dl>
         </mj-text>        
       </mj-column>
