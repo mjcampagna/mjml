@@ -248,7 +248,6 @@
     <mj-section>
       <mj-column>
         <mj-image alt="" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202306/essay-presentation-composer.jpg?raw=true" />
-
         <mj-text css-class="article">
           <h2>Essay anywhere in Backlight 5.3.0 + Kookaburra</h2>
           <p>Version 5.3.0 brings essay features and significant essay improvements to Kookaburra!</p>
@@ -296,11 +295,11 @@
 
     <mj-section>
       <mj-column>
-        <mj-image alt="" src="" />
+        <mj-image alt="Baby rabbit." src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202306/20230622-143824-mc-1891.jpg?raw=true" />
         <mj-text css-class="article">
           <h2>Seim releases Filmist 1.9</h2>
           <p>My very favorite presets get even better in Filmist 1.9. This update features a new version Portra 160 Pushed, plus updates to Agfaflex, Provia 400 and Velvia simulations. Gavin delves into the update in <a href="https://youtu.be/JmwtJhfa4Ww" target="_blank">his latest YouTube video</a>.</p>
-          <p>Personally, I am finding the new F Velvia 100 to be exceptional on greenery, the perfect preset for summer forest rambles!</p>
+          <p>Personally, I am finding the new F Velvia 100 to be exceptional on greenery, the perfect preset for summer forest rambles, and for baby rabbits!</p>
           <p>Use our affiliate links to buy, or download the free micro packs to try, and <strong>use our exclusive discount code TTG20 for an additional 20% off anytime</strong>. Or, use code <strong>SUM23</strong> now, while the Summer Sale is on, to save 30% for a limited time:</p>
           <ul>
             <li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=183378">Filmist / Filmist Light</a></li>
@@ -331,16 +330,10 @@
             <dd>Huge Katamari Damacy fan here, so this is good fun.</dd>
 
             <dt>
-              <svg><use xlink:href="#article" /></svg> 
-              <a href="">TITLE</a>
-            </dt>
-            <dd>...</dd>
-
-            <dt>
               <svg><use xlink:href="#youtube" /></svg> 
-              <a href="">TITLE</a>
+              <a href="https://www.youtube.com/watch?v=rABfboy0h6o">Is Coffee Good for You?</a>
             </dt>
-            <dd>...</dd>
+            <dd>For good or ill, coffee may be the most important thing in our kitchen, and James Hoffman is the Internet's top coffee guy. Of course I'm interested in this!</dd>
 
             <dt>
               <svg><use xlink:href="#youtube" /></svg>
