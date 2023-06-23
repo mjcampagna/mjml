@@ -236,7 +236,7 @@
 
     <mj-section>
       <mj-column>
-        <mj-image alt="Taipei, Taiwan; February 2023." src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202306/20230428-191203-mc-0964.jpg?raw=true" />
+        <mj-image alt="Greenery, 2023." src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202306/20230428-191203-mc-0964.jpg?raw=true" />
         <mj-text css-class="article">
           <p>Hi [Name,fallback=Friend],</p>
           <p>It's a busy month at The Turning Gate! We've just rolled out the 5.3.0 update, which is HUGE for Kookaburra. Plus, we have some notices regarding Font Awesome and Google Analytics; see below.</p>
@@ -247,6 +247,8 @@
 
     <mj-section>
       <mj-column>
+        <mj-image alt="" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202306/essay-presentation-composer.jpg?raw=true" />
+
         <mj-text css-class="article">
           <h2>Essay anywhere in Backlight 5.3.0 + Kookaburra</h2>
           <p>Version 5.3.0 brings essay features and significant essay improvements to Kookaburra!</p>
