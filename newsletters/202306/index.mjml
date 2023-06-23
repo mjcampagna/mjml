@@ -194,7 +194,7 @@
       }
 
       li {
-        line-height: 1.125em;
+        line-height: 1.25em;
         list-style: square;
         margin: 0.5rem 0;
       }
@@ -236,40 +236,64 @@
 
     <mj-section>
       <mj-column>
-        <mj-image alt="Vancouver, BC, Canada; April 2023." src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202305/20230422-142640-mc-0240.jpg?raw=true" />
+        <mj-image alt="Taipei, Taiwan; February 2023." src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202304/20230129-092006-mc-Taipei-0317.jpg?raw=true" />
         <mj-text css-class="article">
           <p>Hi [Name,fallback=Friend],</p>
-          <p>The 5.2.0 update for Backlight is here, and so it's time for another newsletter! We'll keep this one brief.</p>
-          <p>The images are from a weekend trip to Vancouver, BC, and were processed with the new Street'ist presets from Seim; more on that below.</p>
-          <p>As for Stuff &amp; Things, there are no articles this time about A.I., because I'm totally burnt out on it. Instead, you get a lot of Japan, and two music picks, because I just couldn't decide between them.</p>
+          <p>...</p>
         </mj-text>        
       </mj-column>
     </mj-section>
 
     <mj-section>
       <mj-column>
-        <mj-image alt="Vancouver, BC, Canada; April 2023." src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202305/20230422-152435-mc-0373.jpg?raw=true" />
         <mj-text css-class="article">
-          <h2>Backlight 5.2.0 Update</h2>
-          <p>Backlight version 5.2.0 is available now!</p>
-          <p>In this release, we have overhauled our implementation of Font Awesome icon fonts, both in the Pangolin modules, and in Backlight's admin. For complete details, see my forum post, <a href="https://discourse.theturninggate.net/t/upcoming-changes-to-font-awesome/2814">Upcoming Changes to Font Awesome</a>, which have here arrived.</p>
-          <p>As foreshadowed in our previous newsletter, Kookaburra's slideshow has also been rebuilt, now to use the latest Fancybox 5 library. I will continue to dial in the slideshow, but this version should stick.</p>
-          <p>For more on what's new in 5.2.0, visit <a href="https://blog.theturninggate.net/2023/05/05/update-backlight-5-2-0/">our blog</a>.</p> 
+          <h2>Backlight 5.3.0 Update</h2>
+          <p></p>
         </mj-text>        
       </mj-column>
     </mj-section>
 
     <mj-section>
       <mj-column>
-        <mj-image alt="Vancouver, BC, Canada; April 2023." src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202305/20230422-145008-mc-0282.jpg?raw=true" />
         <mj-text css-class="article">
-          <h2>Seim Effects</h2>
-          <p>There are two exciting releases to highlight from Seim Effects!</p>
-          <p>First, the new <strong>Street'ist</strong> presets have launched, and are currently 50% off! This is a creative set, intended for street photography. I've spent only a short time with them, but so far have found them to be really fun. The sale lasts just one more day, so jump on it NOW if you're interested, and use our discount code for further savings.</p>
-          <p>The other new release is <strong>Filmist Light</strong>, a cheaper subset of the Filmset presets. Well worth a look if the full package seems pricey, and you will then have the option to upgrade to the complete set if you want to.</p>
-          <p>Use our affiliate links to buy, or download the free micro packs to try, and <strong>use our exclusive discount code TTG20 for an additional 20% off</strong>:</p>
+          <h2>Regarding Font Awesome Pro and missing icons</h2>
+          <p>Our Font Awesome Pro subscription has expired. In April, I wrote about <a href="https://discourse.theturninggate.net/t/upcoming-changes-to-font-awesome/2814">Upcoming Changes to Font Awesome</a> in Backlight. If you have any questions or require background, please read that post. I expect users will fall into one of the following buckets:</p>
+          <p>&bull; If you are running the latest Backlight 5, or an older version of Backlight (3 or below), then you should not be impacted by our subscription expiring.</p>
+          <p>&bull; If you are running an prior version of Backlight 5,you may find missing icons on your site. Upgrading to the latest version should resolve this.</p>
+          <p>&bull; If you are running Backlight 4, you may find that icons are missing on your site. If this is the case, you have a few potential solutions.</p>
+
+          <p><strong>The easiest solution, upgrade to Backlight 5</strong>.</p>
+          <p>However, we are not in the business of forcing upgrades. Therefore, if you cannot upgrade to Backlight 5 at this time, or you find it unpalatable to do so in this situation, I have two more potential solutions for you:</p>
+
+          <p>1. Follow <a href="https://ttg-tips-and-tricks.barbeephoto.com/font-awesome-5-free-unicode-fix/">Rod Barbee's guide, "Font Awesome 5 Free Unicode Fix"</a> to update the icons yourself, OR ...</p>
+          <p>2. Contact me directly, and I will personally intervene to make any necessary repairs. To do so, I will require access to your Backlight admin, and FTP login credentials.</p>
+          <p>Should you have any further concerns or questions, you may reply to this newsletter.</p>
+        </mj-text>        
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image alt="" src="" />
+        <mj-text css-class="article">
+          <h2>Google Analytics 3 End-of-life</h2>
+          <p>Sayth Google:</p>
+          <p>"On July 1, 2023, standard Universal Analytics properties will no longer process data. You'll be able to see your Universal Analytics reports for a period of time after July 1, 2023. However, new data will only flow into Google Analytics 4 properties."</p>
+          <p>Do remember that <a href="https://blog.theturninggate.net/2022/10/09/update-backlight-5-0-3/">we introduced support for the newer Google Analytics 4 into the Backlight 5.0.3 update</a>. If you haven't already made the switch, now is the time! See that blog post for details.</p>
+          <p>I will very likely be removing Google Analytics 3 code from Backlight 5 in whatever update lands first after July 1, since by then it will be entirely useless.</p>
+        </mj-text>        
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image alt="" src="" />
+        <mj-text css-class="article">
+          <h2>Seim releases Filmist 1.9</h2>
+          <p>My very favorite presets get even better in Filmist 1.9. This update features a new version Portra 160 Pushed, plus updates to Agfaflex, Provia 400 and Velvia simulations. Gavin delves into the update in <a href="https://youtu.be/JmwtJhfa4Ww" target="_blank">his latest YouTube video</a>.</p>
+          <p>Personally, I am finding the new F Velvia 100 to be exceptional on greenery, the perfect preset for summer forest rambles!</p>
+          <p>Use our affiliate links to buy, or download the free micro packs to try, and <strong>use our exclusive discount code TTG20 for an additional 20% off anytime</strong>. Or, use code <strong>SUM23</strong> now, while the Summer Sale is on, to save 30% for a limited time:</p>
           <ul>
-            <li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=231573">Street'ist</a></li>
             <li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=183378">Filmist / Filmist Light</a></li>
             <li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=227189">Gold Chrome</a></li>
             <li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=204790">Silver</a></li>
@@ -280,7 +304,6 @@
 
     <mj-section>
       <mj-column>
-
         <mj-text css-class="article">
           <h2>Stuff &amp; Things</h2>
           <p>Our curated list of recent, suggested listening, reading and viewing.</p>
@@ -288,55 +311,35 @@
           <dl>
             <dt>
               <svg><use xlink:href="#article" /></svg> 
-              <a href="https://sabukaru.online/articles/hiromix-shaping-the-identity-of-90s-japanese-female-youth">HIROMIX: SHAPING THE IDENTITY OF 90’S JAPANESE FEMALE YOUTH</a>
+              <a href="https://support.google.com/domains/answer/13689670?hl=en">About the Squarespace purchase of Google Domains registrations</a>
             </dt>
-            <dd>I recently stumbled upon and really enjoyed this article about photographer, Toshikawa Hiromi, a.k.a. HIROMIX. If you're feeling ambitious, you might also consider this a bonus music pick.</dd>
+            <dd>On June 15, 2023, Squarespace announced its intent to purchase domain registrations and related customer accounts from Google Domains. This sounds like complete bullshit to me. If you're using Google Domains as a registrar for your website, I strongly recommend migrating your registration to another registrar. We've been using <a href="https://www.namecheap.com/">NameCheap</a> for most of our domains; so far, they've been fine.</dd>
 
             <dt>
               <svg><use xlink:href="#article" /></svg> 
-              <a href="https://www.lensculture.com/articles/mikiko-hara-small-myths">Small Myths</a>
+              <a href="https://www.polygon.com/23759742/katamari-splatoon-google-game-how-to-play">Polygon: Fans are obsessed with Google's Splatoon and Katamari minigames</a>
             </dt>
-            <dd>"Shooting from the heart—without looking through her viewfinder—Mikiko Hara’s luminous photographs teeter between private and public life, exploring what it means to use a camera as a way of being in the world."</dd>
+            <dd>Huge Katamari Damacy fan here, so this is good fun.</dd>
+
+            <dt>
+              <svg><use xlink:href="#article" /></svg> 
+              <a href="">TITLE</a>
+            </dt>
+            <dd>...</dd>
 
             <dt>
               <svg><use xlink:href="#youtube" /></svg> 
-              <a href="https://youtu.be/1kBQ0qlHz8M">How colorized photos helped introduce Japan to the world</a>
+              <a href="">TITLE</a>
             </dt>
-            <dd>"... for the last half of the 19th century, photos made — and carefully hand-colored — in Japanese photo studios were important documents for how the world came to know Japanese culture ..."</dd>
+            <dd>...</dd>
 
-            <dt>
-              <svg><use xlink:href="#youtube" /></svg> 
-              <a href="https://www.youtube.com/@PetaPixel">PetaPixel's YouTube Channel</a>
-            </dt>
-            <dd>Chris and Jordan, formerly of DPReview, have starting posting videos to their new gig at PetaPixel! Despite the change of venue, it's still the same show we know and love.</dd>
-          </dl>
-          <hr />
-        </mj-text>
-
-        <mj-image alt="Yves Tumor" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202305/ginger-root.jpg?raw=true" />
-        <mj-text css-class="article">
-          <dl>
             <dt>
               <svg><use xlink:href="#youtube" /></svg>
-              <a href="https://youtu.be/u-WTfP3WJc4">Music Pick: "Loretta" by Ginger Root</a>
+              <a href="">Music Pick: "TITLE" by ARTIST</a>
             </dt>
-            <dd>"The year is 1983, Ginger Root is asked to write and produce songs for up-and-coming Japanese idol, Kimiko Takeguchi. Right before Kimiko's America debut, she quits, leaving her manager to make the last minute decision of having Ginger Root perform in her place since he knows all the songs. By coincidence, a new star is born."</dd>
-            <dd>The songs are great fun on their own, but Ginger Root's commitment to the 1983 bit in all of his music videos really elevate the project to the next level. Watch "Loretta", then keep going down the rabbit hole!</dd>
+            <dd>...</dd>
           </dl>
-          <hr />
-        </mj-text>
-
-        <mj-image alt="Yves Tumor" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202305/yves-tumor.jpg?raw=true" />
-        <mj-text css-class="article">
-          <dl>
-            <dt>
-              <svg><use xlink:href="#youtube" /></svg>
-              <a href="https://yves-tumor.bandcamp.com/track/lovely-sewer">Music Pick: "Lovely Sewer" by Yves Tumor</a>
-            </dt>
-            <dd>From Tumor's brand new record, <cite>PRAISE A LORD WHO CHEWS, BUT WHICH DOES NOT CONSUME; (OR SIMPLY, HOT BETWEEN WORLDS)</cite>, my favorite new music of 2023 so far. It's just a fantastic rock'n'roll record, best played loud. On "Lovely Sewer", Diana Gordon returns for another stunning vocal contribution, having also featured on Tumor's previous album.</dd>
-          </dl>
-        </mj-text>
-
+        </mj-text>        
       </mj-column>
     </mj-section>
 
