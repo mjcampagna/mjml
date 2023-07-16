@@ -236,7 +236,7 @@
 
     <mj-section>
       <mj-column>
-        <mj-image alt="Taipei, Taiwan; February 2023." src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202304/20230129-092006-mc-Taipei-0317.jpg?raw=true" />
+        <mj-image alt="Taipei, Taiwan; February 2023." src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202307/20230617-174522-mc-1597.jpg?raw=true" />
         <mj-text css-class="article">
           <p>Hi [Name,fallback=Friend],</p>
           <p>...</p>
@@ -247,8 +247,8 @@
     <mj-section>
       <mj-column>
         <mj-text css-class="article">
-          <h2>Backlight 5.2.0 Update</h2>
-          <p>Backlight version 5.2.0 is available now!</p>
+          <h2>Backlight 5.3.1 Update</h2>
+          <p>Backlight version ... !</p>
         </mj-text>        
       </mj-column>
     </mj-section>
@@ -289,21 +289,43 @@
           <dl>
             <dt>
               <svg><use xlink:href="#article" /></svg> 
-              <a href="">TITLE</a>
+              <a href="https://petapixel.com/2023/06/30/photographer-is-arrested-protesting-the-destruction-of-rare-birds-habitat/">In Tasmania, Photographer is Arrested Protesting the Destruction of Rare Bird’s Habitat</a>
             </dt>
-            <dd>...</dd>
+            <dd>Logging operations are underway in a Tasmanian forest known to be one of the last remaining refuges of the critically endangered swift parrot.</dd>
+
+            <dt>
+              <svg><use xlink:href="#article" /></svg> 
+              <a href="https://www.platformer.news/p/the-ai-is-eating-itself">The AI is eating itself</a>
+            </dt>
+            <dd>Early notes on how generative AI is affecting the internet. Spoilers, the Internet is becoming shittier. So, I dunno, maybe use Backlight to make the Internet a better place?</dd>
+            <dd>The Verge article he references is <a href="https://www.theverge.com/2023/6/26/23773914/ai-large-language-models-data-scraping-generation-remaking-web">AI is killing the old web, and the new web struggles to be born</a>.</dd>
+
+            <dt>
+              <svg><use xlink:href="#article" /></svg> 
+              <a href="https://venturebeat.com/ai/shutterstock-signs-6-year-training-data-agreement-with-openai/">Shutterstock signs 6-year training data agreement with OpenAI</a>
+            </dt>
+            <dd>Stock photographers put their images rights up for sale, their images to be used for whatever arbitrary purpose. But this somehow still feels like a violation of trust, in part because photographers likely aren't going to be paid for this particular use of their work.</dd>
 
             <dt>
               <svg><use xlink:href="#youtube" /></svg> 
-              <a href="">TITLE</a>
+              <a href="https://youtu.be/hlozkumd1C8">Abandoned: The Crumbling Ghost Towns of British Columbia</a>
             </dt>
-            <dd>...</dd>
+            <dd>I have been seriously enjoying this documentary series from Vice, about abandoned locations. The series has so far been fantastic across the board, though this episode about BC has been my favorite.</dd>
+
+            <dt>
+              <svg><use xlink:href="#youtube" /></svg> 
+              <a href="https://youtu.be/Xj65jTCq1Rs">How Wes Anderson uses miniatures</a>
+            </dt>
+            <dd>The title is a bit of clickbait, riding on the new Wes Anderson film, which I have yet to see, but need to see. Broader in scope than just Anderson's films, this video explores the use of miniatures in filmmaking, and the photographic techniques used to capture them.</dd>
 
             <dt>
               <svg><use xlink:href="#youtube" /></svg>
-              <a href="">Music Pick: "TITLE" by ARTIST</a>
+              <a href="https://youtu.be/Nn2quRuhuj0">Music Pick: "Después de Ahogarme" by Rubio</a>
             </dt>
-            <dd>...</dd>
+            <dd>My own introduction to Rubio, I heard this for the first time just a few weeks ago, and have been slowly meandering through her back catalog ever since, really enjoying each new track as I come to it. I am really happy to have discovered this, and doubly happy to share it.</dd>
+            <dd>Hailing from Chile, RUBIO is the project of the producer and front-woman Francisca Straube, blending electronic, pop, hiphop, ambient, and elements of ethnic music into mesmerizing soundscapes.</dd>
+            <dd>"Después de Ahogarme" is a beautiful slice of shoegaze; other tracks go hard into nightclubbing. For seconds, <a href="https://youtu.be/7TSSy-mR9mI">try this</a>. Then dive deeper into <a href="https://www.youtube.com/channel/UCGYhfvpEDIXi91L_PCbJZtQ">her videos on Youtube</a>, or <a href="https://rubiomusic.bandcamp.com/">explore her releases on Bandcamp</a>.</dd>
+
           </dl>
         </mj-text>        
       </mj-column>
