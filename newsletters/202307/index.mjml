@@ -265,7 +265,8 @@
 
     <mj-section>
       <mj-column>
-        <mj-image alt="" src="" />
+        <mj-image alt="Cat!" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202307/20230629-102808-mc-1951.jpg?raw=true" />
+
         <mj-text css-class="article">
           <h2>Seim Effects</h2>
           <p>...</p>
