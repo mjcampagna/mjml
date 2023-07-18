@@ -241,7 +241,7 @@
           <p>Hi [Name,fallback=Friend],</p>
           <p>Moar Backlight! Because there's always more Backlight, and you wouldn't want it any other way. Kookaburra has been really shaping up since the 5.3.x releases started to drop, and I couldn't be happier with where we are, and where we're going.</p>
           <p>At home, we've been cat sitting all month, and I don't want to give her back; cute cat pic below. We've also had a few guests to entertain, which has been a good excuse for getting out, sightseeing and enjoying the summer weather. Above, a view of Seattle's skyline and famous Space Needle from Kerry Park.</p>
-          <p>And the new Wes Anderson movie, "Asteroid City", is good fun. Go see it!</p>
+          <p>The new Wes Anderson movie, "Asteroid City", is good fun. Go see it! And I cannot seem to get enough Rubio into my ears.</p>
         </mj-text>        
       </mj-column>
     </mj-section>
@@ -319,14 +319,6 @@
               <a href="https://youtu.be/Xj65jTCq1Rs">How Wes Anderson uses miniatures</a>
             </dt>
             <dd>The title is a bit of clickbait, riding on the new Wes Anderson film, which I have yet to see, but need to see. Broader in scope than just Anderson's films, this video explores the use of miniatures in filmmaking, and the photographic techniques used to capture them.</dd>
-
-            <dt>
-              <svg><use xlink:href="#youtube" /></svg>
-              <a href="https://youtu.be/Nn2quRuhuj0">Music Pick: "Después de Ahogarme" by Rubio</a>
-            </dt>
-            <dd>My own introduction to Rubio, I heard this for the first time just a few weeks ago, and have been slowly meandering through her back catalog ever since, really enjoying each new track as I come to it. I am really happy to have discovered this, and doubly happy to share it.</dd>
-            <dd>Hailing from Chile, RUBIO is the project of the producer and front-woman Francisca Straube, blending electronic, pop, hiphop, ambient, and elements of ethnic music into mesmerizing soundscapes.</dd>
-            <dd>"Después de Ahogarme" is a beautiful slice of shoegaze; other tracks go hard into nightclubbing. For seconds, <a href="https://youtu.be/7TSSy-mR9mI">try this</a>. Then dive deeper into <a href="https://www.youtube.com/channel/UCGYhfvpEDIXi91L_PCbJZtQ">her videos on Youtube</a>, or <a href="https://rubiomusic.bandcamp.com/">explore her releases on Bandcamp</a>.</dd>
 
           </dl>
         </mj-text>        
