@@ -239,7 +239,9 @@
         <mj-image alt="Taipei, Taiwan; February 2023." src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202307/20230617-174522-mc-1597.jpg?raw=true" />
         <mj-text css-class="article">
           <p>Hi [Name,fallback=Friend],</p>
-          <p>...</p>
+          <p>Moar Backlight! Because there's always more Backlight, and you wouldn't want it any other way. Kookaburra has been really shaping up since the 5.3.x releases started to drop, and I couldn't be happier with where we are, and where we're going.</p>
+          <p>At home, we've been cat sitting all month, and I don't want to give her back; cute cat pic below. We've also had a few guests to entertain, which has been a good excuse for getting out, sightseeing and enjoying the summer weather. Above, a view of Seattle's skyline and famous Space Needle from Kerry Park.</p>
+          <p>And the new Wes Anderson movie, "Asteroid City", is good fun. Go see it!</p>
         </mj-text>        
       </mj-column>
     </mj-section>
@@ -248,18 +250,15 @@
       <mj-column>
         <mj-image alt="Backlight 5.3.2 Hero" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202307/Backlight-532-Hero-1920-1080.jpg?raw=true" />
         <mj-text css-class="article">
-          <h2>Backlight 5.3.2 Update</h2>
-          <p>Backlight version ... !</p>
-        </mj-text>        
-      </mj-column>
-    </mj-section>
-
-    <mj-section>
-      <mj-column>
-        <mj-image alt="" src="" />
-        <mj-text css-class="article">
-          <h2>Title</h2>
-          <p>...</p>
+          <h2>Update! Backlight 5.3.2</h2>
+          <p>Backlight 5.3.2 is now available, and it's pretty good, I gotta tell ya.</p>
+          <p>When viewing feedback received from the Client Response Add-on, both in admin or in email, image thumbnails will now be displayed alongside comments, making it easier to identify the images being discussed. There's any option to disable thumbnails in emails if you have reason to do so.</p>
+          <p>Meanwhile, Backlight updates bring numerous improvements to the Kookaburra modules.</p>
+          <p>Previously, we found an edge case where attempting to use the new essay features in a hidden album would cause that albums images to vanish. <em>THeY WeRe Too GooD aT HiDiNG!!</em> Well, now they shouldn't vanish any more.</p>
+          <p>Slideshow captions have at last, I think, achieved their final form. A handful of new customization options are available, and captions are now more capable of dealing with HTML appearing with metadata.</p>
+          <p>We have also normalized same under-the-hood naming of metadata values that was causing unexpected behavior. If this should cause metadata to disappear from your albums or essays, please try re-publishing your images (or just their metadata, if publishing from Lightroom).</p>
+          <p>Navigation menus have also been updated to behave themselves when menu items contain multi-language values, and adding several new customization options.</p>
+          <p>And that's not all! But we'll leave the rest for <a href="https://blog.theturninggate.net/2023/07/18/update-backlight-5-3-2/">the change log</a>.</p>
         </mj-text>        
       </mj-column>
     </mj-section>
@@ -270,8 +269,9 @@
 
         <mj-text css-class="article">
           <h2>Seim Effects</h2>
-          <p>...</p>
-          <p>Use our affiliate links to buy, or download the free micro packs to try, and <strong>use our exclusive discount code TTG20 for an additional 20% off</strong>:</p>
+          <p>There's just one day left to take advantage of Seim Effects' 30%-off summer sale. Use our links below, and code <strong>SUM23</strong> at checkout.</p>
+          <p>If you miss the sale, don't worry! <strong>Use our exclusive discount code TTG20 for an additional 20% off any time</strong>!</p>
+          <p>I used the "F Pro 400 H" preset from Filmist 1.9 on the cat pic above. My favorites from Seim are as follows, with Filmist leading the pack.</p>
           <ul>
             <li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=183378">Filmist / Filmist Light</a></li>
             <li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=227189">Gold Chrome</a></li>
@@ -332,6 +332,25 @@
         </mj-text>        
       </mj-column>
     </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image alt="Rubio" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202307/Rubio_2020.jpg?raw=true" />
+
+        <mj-text css-class="article">
+        <dl>
+            <dt>
+              <svg><use xlink:href="#youtube" /></svg>
+              <a href="https://youtu.be/Nn2quRuhuj0">Music Pick: "Después de Ahogarme" by Rubio</a>
+            </dt>
+            <dd>My own introduction to Rubio, I heard this for the first time just a few weeks ago, and have been slowly meandering through her back catalog ever since, really enjoying each new track as I come to it. I am really happy to have discovered this, and doubly happy to share it.</dd>
+            <dd>Hailing from Chile, RUBIO is the project of the producer and front-woman Francisca Straube, blending electronic, pop, hiphop, ambient, and elements of ethnic music into mesmerizing soundscapes.</dd>
+            <dd>"Después de Ahogarme" is a beautiful slice of shoegaze; other tracks go hard into nightclubbing. For seconds, <a href="https://youtu.be/7TSSy-mR9mI">try this</a>. Then dive deeper into <a href="https://www.youtube.com/channel/UCGYhfvpEDIXi91L_PCbJZtQ">her videos on Youtube</a>, or <a href="https://rubiomusic.bandcamp.com/">explore her releases on Bandcamp</a>.</dd>
+        </dl>
+        </mj-text>        
+      </mj-column>
+    </mj-section>
+
 
     <mj-section>
       <mj-column>
