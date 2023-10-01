@@ -240,6 +240,7 @@
         <mj-text css-class="article">
           <p>Hi [Name,fallback=Friend],</p>
           <p></p>
+
         </mj-text>        
       </mj-column>
     </mj-section>
@@ -250,6 +251,7 @@
         <mj-text css-class="article">
           <h2>Update! Backlight 5.x.x</h2>
           <p></p>
+          <p><img alt="" href="https://github.com/mjcampagna/mjml/blob/main/newsletters/2023__/Backlight-5-Album-Lighthouse-Audit-20230930.png?raw=true" /></p>
         </mj-text>        
       </mj-column>
     </mj-section>
@@ -261,6 +263,8 @@
           <h2>Bricolage Grotesque</h2>
           <p><a href="https://ateliertriay.github.io/bricolage/">Bricolage Grotesque</a> is a new open source typeface from the creators of Marvin Visions, the typeface that I use for Backlight's logo and hero images.</p>
           <p>Its webpage describes Bricolage Grotesque as "a free and open source variable font with French attitude and British mannerisms across 3 axis: weight, width &amp; optical size."</p>
+          <p>Check it out, give it a download, or <a href="https://fonts.google.com/specimen/Bricolage+Grotesque">bookmark it on Google Fonts</a>.</p>
+          <p>And remember, a few months ago we shared an updated tutorial on <a href="https://backlight.me/docs/google-fonts">Using Google Fonts in Backlight</a>! Though it's not just for Google Fonts; the tutorial will show you how to use font files from anywhere with Backlight.</p>
         </mj-text>        
       </mj-column>
     </mj-section>
