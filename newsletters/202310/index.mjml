@@ -247,7 +247,7 @@
 
           <p>The first demonstrates how to <a href="https://blog.theturninggate.net/2023/10/02/using-kookaburra-templates-in-backlight-5/">replace the default Pangolin templates with Kookaburra</a>.</p>
           
-          The second, <a href="https://blog.theturninggate.net/2023/10/02/writing-essays-in-kookaburra/">shows off the improved essay features in Kookburra</a>.</p>
+          <p>The second <a href="https://blog.theturninggate.net/2023/10/02/writing-essays-in-kookaburra/">shows off the improved essay features in Kookburra</a>.</p>
 
           <p>One of the roadblocks to getting these videos done, my video suite crapped out on me at some point, and I needed to find time to figure out how to use Final Cut Pro at a basic level, rebuild the intro frames, etc. That's done now!</p>
 
@@ -260,7 +260,7 @@
       <mj-column>
         <mj-image alt="Backlight 5.x.x Hero" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202310/20230719-162626-mc-2342.jpg?raw=true" />
         <mj-text css-class="article">
-          <h2>Soaring with Backlight 5 + Kookaburra</h2>
+          <h2>Flying high on Backlight 5 + Kookaburra</h2>
           <p>Backlight is at version 5.3.2, released July 18. Our next update is in-progress.</p>
 
           <p>In the meantime, Backlight 5 and Kookaburra had their one-year anniversary in August. We passed quietly by the occassion, busy as we&#8217;ve been, but it makes for good justification to snapshot Kookaburra in its current form and reflect upon it.</p>
@@ -281,7 +281,7 @@
 
           <p>So, that&#8217;s four compelling reasons to be using Kookaburra, high marks in all of performance, accessibility, best practices, and search engine optimization.</p>
 
-          <p>The 5.3.0 update brought one of my favorite things in Kookaburra, the new suite of essay features! Essays were first introduced to Pangolin in Backlight 4, but Kookaburra brings major enhances, all the while screaming, "Essay anywhere!" Check it out in our latest video, <a href="https://www.youtube.com/watch?v=kj5RqHwCk08" target="_blank">Essays in Kookaburra, in Backlight 5</a>.</p>
+          <p>The 5.3.0 update brought one of my favorite things in Kookaburra, the new suite of essay features! Essays were first introduced to Pangolin in Backlight 4, but Kookaburra brings major enhancements, all the while screaming, "Essay anywhere!" Check it out in our latest video, <a href="https://www.youtube.com/watch?v=kj5RqHwCk08" target="_blank">Essays in Kookaburra, in Backlight 5</a>.</p>
 
           <p>Kookaburra also makes important strides for keyboard users, built from the ground up for <a href="https://www.w3.org/WAI/WCAG21/quickref/#keyboard-accessible" target="_blank">keyboard accessibility</a> and 100% navigable using only the keyboard. We are making best efforts to be compliant with the <a href="https://www.w3.org/WAI/standards-guidelines/wcag/" target="_blank">Web Content Accessibility Guidelines (WCAG) international standard</a>, that standard or some derivative thereof now having been codified into law <a href="https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines#WCAG_referenced_by_law" target="_blank">in numerous countries</a>, including the United States, United Kingdom, Canada, Australia, and Israel, and countries within the European Union. Keyboard accessibility is covered under operability <a href="https://www.w3.org/WAI/WCAG21/quickref/#keyboard-accessible" target="_blank">Guideline 2.1</a> in the WCAG specification.</p>
 
