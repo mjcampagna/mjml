@@ -364,15 +364,15 @@
 
     <mj-section>
       <mj-column>
-        <mj-image alt="Rubio" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202310/20231004-114754-mc-3848.jpg?raw=true" />
+        <mj-image alt="Moses Sumney" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202310/20231004-114754-mc-3848.jpg?raw=true" />
 
         <mj-text css-class="article">
         <dl>
             <dt>
               <svg><use xlink:href="#youtube" /></svg>
-              <a href="">Music Pick: "____" by ____</a>
+              <a href="https://www.youtube.com/watch?v=3vEhvFgas1Q&list=PLncVORBUjaPVjvWJWBlTU9nI7Ao22TB0a">Music Pick: AROMANTICISM by Moses Sumney</a>
             </dt>
-            <dd></dd>
+            <dd>Moses Sumney's 2017 debut is a masterpiece of modern soul. I love this album, and so I recently bought it on vinyl and was so impressed by the sum of the package, I laid it all out on my floor and took this photograph. The presentation of this LP is just stunning, beautifully printed in a gatefold sleeve, containing a full-size insert booklet of handwritten lyrics and sumptious photography. It's as much a book of poetry and photography as a record. I wish every record were as gorgeously satisfying as this one.</dd>
         </dl>
         </mj-text>        
       </mj-column>
