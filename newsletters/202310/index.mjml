@@ -243,11 +243,15 @@
 
           <p>And now I am getting back up to speed. It&#8217;s actually very nice for things to be getting back to normal. More normal, please?</p>
 
-          <p>No new Backlight updates this time around, but I do have two new videos: one demonstrating how to <a href="https://blog.theturninggate.net/2023/10/02/using-kookaburra-templates-in-backlight-5/">replace the default Pangolin templates with Kookaburra</a>, and another <a href="https://blog.theturninggate.net/2023/10/02/writing-essays-in-kookaburra/">showing off the Kookburra Essay features</a>.</p>
+          <p>No Backlight updates this time around, but I think it's a good time to talk about Kookaburra, and I do have two new videos on the blog.</p>
 
-          <p>One of the roadblocks to getting these videos done, my video suite crapped out on me at some point, and I needed to find time to figure out how to use Final Cut Pro at least at a basic level, rebuild the intro frames, etc.</p>
+          <p>The first demonstrates how to <a href="https://blog.theturninggate.net/2023/10/02/using-kookaburra-templates-in-backlight-5/">replace the default Pangolin templates with Kookaburra</a>.</p>
+          
+          The second, <a href="https://blog.theturninggate.net/2023/10/02/writing-essays-in-kookaburra/">shows off the improved essay features in Kookburra</a>.</p>
 
-          <p>Well, enough rattling. Let&#8217;s do this newsletter!</p>
+          <p>One of the roadblocks to getting these videos done, my video suite crapped out on me at some point, and I needed to find time to figure out how to use Final Cut Pro at a basic level, rebuild the intro frames, etc. That's done now!</p>
+
+          <p>Enough rattling. Let&#8217;s do this newsletter!</p>
         </mj-text>        
       </mj-column>
     </mj-section>
@@ -256,7 +260,7 @@
       <mj-column>
         <mj-image alt="Backlight 5.x.x Hero" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202310/20230719-162626-mc-2342.jpg?raw=true" />
         <mj-text css-class="article">
-          <h2>Kookaburra Time!</h2>
+          <h2>Soaring with Backlight 5 + Kookaburra</h2>
           <p>Backlight is at version 5.3.2, released July 18. Our next update is in-progress.</p>
 
           <p>In the meantime, Backlight 5 and Kookaburra had their one-year anniversary in August. We passed quietly by the occassion, busy as we&#8217;ve been, but it makes for good justification to snapshot Kookaburra in its current form and reflect upon it.</p>
@@ -294,9 +298,9 @@
       <mj-column>
         <mj-image alt="Backlight 5.x.x Hero" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202310/BricolageGrotesque.jpg?raw=true" />
         <mj-text css-class="article">
-          <h2>The new "Bricolage Grotesque" typeface</h2>
-          <p><a href="https://ateliertriay.github.io/bricolage/">Bricolage Grotesque</a> is a new open source typeface from the creators of Marvin Visions, the typeface that I use for Backlight's logo.</p>
-          <p>Its webpage describes Bricolage Grotesque as "a free and open source variable font with French attitude and British mannerisms across 3 axis: weight, width &amp; optical size."</p>
+          <h2>New typeface, "Bricolage Grotesque"</h2>
+          <p><a href="https://ateliertriay.github.io/bricolage/">Bricolage Grotesque</a> is a new open source typeface from the creators of Marvin Visions, the typeface that I use (and adore!) for Backlight's logo.</p>
+          <p>Bricolage Grotesque is described as "a free and open source variable font with French attitude and British mannerisms across 3 axis: weight, width &amp; optical size."</p>
           <p>Check it out, give it a download, or <a href="https://fonts.google.com/specimen/Bricolage+Grotesque">bookmark it on Google Fonts</a>.</p>
           <p>And remember, a few months ago we shared an updated tutorial on <a href="https://backlight.me/docs/google-fonts">Using Google Fonts in Backlight</a>! Though it's not just for Google Fonts; the tutorial will show you how to use font files from anywhere with Backlight.</p>
         </mj-text>
@@ -305,11 +309,11 @@
 
     <mj-section>
       <mj-column>
-        <mj-image alt="" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202310/____.jpg?raw=true" />
+        <mj-image alt="" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202310/20230819-172715-mc-3280.jpg?raw=true" />
 
         <mj-text css-class="article">
           <h2>Seim Effects</h2>
-          <p></p>
+          <p>I don't have a lot to say about Seim's presets at the moment, but Silver 5 was released earlier this year, and I completely missed it. My oversight has now been remedied.</p>
           <ul>
             <li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=183378">Filmist / Filmist Light</a></li>
             <li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=227189">Gold Chrome</a></li>
