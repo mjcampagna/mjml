@@ -236,12 +236,10 @@
 
     <mj-section>
       <mj-column>
-        <mj-image alt="Taipei, Taiwan; February 2023." src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202311/Cheaper-Easier-Backlight-5-Hero.jpg?raw=true" />
+        <mj-image alt="Taipei, Taiwan; February 2023." src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202304/20230129-092006-mc-Taipei-0317.jpg?raw=true" />
         <mj-text css-class="article">
           <p>Hi [Name,fallback=Friend],</p>
-          <p>We've got important updates for nearly all versions of Backlight, making it cheaper and easier to upgrade from older versions of Backlight, to the latest Backlight 5. And no, this isn't a Black Friday offer; the new discounts are permanent!</p>
-          <p>For Backlight 5 users, our latest update adds a new presentation type to Kookaburra, the image carousel. More on this below.</p>
-          <p>And whether you're celebrating holidays this season or not, we wish you the very best of times, the safest of travels, and the most stunning of photographs to be taken!</p>
+          <p>...</p>
         </mj-text>        
       </mj-column>
     </mj-section>
@@ -249,62 +247,20 @@
     <mj-section>
       <mj-column>
         <mj-text css-class="article">
-          <h2>Cheaper, easier upgrades to Backlight 5</h2>
-          <p><strong>TL;DR</strong></p>
-          <p>New updates are available for Backlight verisons 2, 3, 4 and 5. Install the latest version from the Backlight Modules page of your admin.</p>
-          <p>After updating, the Backlight Modules page will give you the option to upgrade to Backlight 5 with a discount.</p>
-          <p>Save $35 when upgrading from Backlight 4 to Backlight 5, or $15 when upgrading to Backlight 5 from Backlight versions 2 or 3.</p>
-
-          <hr />
-
-          <p>Now, here's the longer version.</p>
-
-          <p>Updates are now availble for all all versions of Backlight, from version 2 onward. This brings major Backlight releases to the following version numbers:</p>
-          <ul>
-          <li>Backlight 2.0.15</li>
-          <li>Backlight 3.2.2</li>
-          <li>Backlight 4.1.4</li>
-          <li>Backlight 5.3.4</li>
-          </ul>
-          <p>First step, install the latest update from the Backlight Modules page of your admin.</p>
-          <p>Then, if a newer version of Backlight is available than currently installed, the admin will now display a message in the admin footer to tell you so.</p>
-          <p>If a major upgrade is available to purchase, then the Backlight Modules page will display a banner, allowing you to see what's new, and allowing you to purchase the upgrade with discount automatically applied. You no longer need to get a discount code from us!</p>
-
-          <p>Upgrading from Backlight 4 to Backlight 5, save $35. This is the same discount as before, except we had planned to expire it at the end of this year; instead, we are making the discount permanent.</p>
-
-          <p>Upgrading to Backlight 5 from any older version, we are offering a new $15 discount.</p>
-
-          <p>Click the "Upgrade now ..." button on your Backlight Modules page to purchase your discounted upgrade. Complete checkout, then return to the Backlight Modules page to install the upgrade. Easy!</p>
-
-          <p>For users of Backlight 1, you may also use the $15 discount, though you will need to contact me for a code, as Backlight 1 does not have the Backlight Modules page, or automated updates feature (first introduced in Backlight 2).</p>
-
-          <p>For more information, see our blog post, <a href="https://blog.theturninggate.net/2023/11/18/cheaper-easier-upgrades-to-backlight-5/">Cheaper, easier upgrades to Backlight 5</a>.
-        </mj-text>        
+          <h2>Masonry in Kookaburra</h2>
+        </mj-text>
+        <mj-image alt="Taipei, Taiwan; February 2023." src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202401/Backlight-540-Hero-1920-1080.jpg?raw=true" />        <mj-text css-class="article">
+          <p>Backlight version 5.4.0 is available now!</p>
+        </mj-text>
       </mj-column>
     </mj-section>
 
     <mj-section>
       <mj-column>
+        <mj-image alt="" src="" />
         <mj-text css-class="article">
-          <h2>New! Kookaburra carousels</h2>
-          <p>Backlight version 5.3.4 introduces a new presentation type -- image carousel -- for Kookaburra!</p>
-          <ul>
-          <li>Configure carousels in your Kookaburra Page template.</li>
-          <li>Use carousels in albums by selecting the "Carousel" presentation type in your Kookaburra Album template; OR ...</li>
-          <li>Use carousels in Kookaburra essays by selecting "Carousel" as your presentaion in the essay builder.</li>
-          </ul>
-          <p>I've posted <a href="https://campagna.photography/sandbox/carousel/">a carousel demonstration here</a>.</p>
-          <p>At present, Kookaburra's carousels are marked as <em>beta</em>; there will be at least one more major update to this feature coming later to flesh things out. Feedback is welcome in the meantime; please let me know how you get on with using the new carousels.</p>
-          <p>Carousels are being introduced as a free, native feature in Kookaburra; in Pangolin, you would have needed the Galleria Add-on, or the Vegas Slideshow presentation type in the Theater Add-on.</p>
-        </mj-text>        
-      </mj-column>
-    </mj-section>
-
-    <mj-section>
-      <mj-column>
-        <mj-text css-class="article">
-          <h2>I tried Glaze, so you don't have to.</h2>
-          <p>I read about a tool called Nightshade, that purports to "poison" the massive image sets used to train AI image-generators, currently being developed at the University of Chicago. Nightshade is coming soon to their existing tool, Glaze, which disrupts the ability for AI image generators to scrape images and mimic a specific artist's personal style. So, I tried out Glaze, and wrote about it <a href="https://blog.theturninggate.net/2023/11/06/i-tried-glaze-so-you-dont-have-to/">on the blog</a>.</p>
+          <h2>Title</h2>
+          <p>...</p>
         </mj-text>        
       </mj-column>
     </mj-section>
@@ -314,15 +270,15 @@
         <mj-image alt="" src="" />
         <mj-text css-class="article">
           <h2>Seim Effects</h2>
-          <p>Seim Effects has launched a new pack of presents, <a href="https://seimeffects.com/amber/">Autumn and Amber</a>, built to channel the feeling of magic hour. Use <a href="https://getdpd.com/cart/buy/18510/235184/256487?referrer=mjcampagna">my affiliate link</a> to purchase; the pack is presently priced with a launch discount, and you can knock off an additional 20% using our code, TTG20.</p>
-          <p>Our other favorite packs are:</p>
+          <p>...</p>
+          <p>Use our affiliate links to buy, or download the free micro packs to try, and <strong>use our exclusive discount code TTG20 for an additional 20% off</strong>:</p>
           <ul>
             <li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=183378">Filmist / Filmist Light</a></li>
             <li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=227189">Gold Chrome</a></li>
             <li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=204790">Silver</a></li>
             <li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=231573">Street'ist</a></li>
-          </ul>          
-        </mj-text>
+          </ul>
+        </mj-text>        
       </mj-column>
     </mj-section>
 
@@ -334,28 +290,22 @@
 
           <dl>
             <dt>
-              <svg><use xlink:href="#youtube" /></svg> 
-              <a href="https://www.youtube.com/watch?v=XBu92r3ezTA">How to Color Grade with Julieanne KostᅵAdobe Lightroom</a>
+              <svg><use xlink:href="#article" /></svg> 
+              <a href="">TITLE</a>
             </dt>
-            <dd>Julieanne Kost walks through Lightroom's new(-ish?) color grading tools, which ought to seem very familiar to Capture One Pro users as well.</dd>
+            <dd>...</dd>
 
             <dt>
               <svg><use xlink:href="#youtube" /></svg> 
-              <a href="https://www.youtube.com/watch?v=QyqykIFqNoY">The Movement to Save Our Night Skies</a>
+              <a href="">TITLE</a>
             </dt>
-            <dd>From PBS Terra, exploring one town's mission to become a Dark Sky Community and reclaim the darkness of night. Follow researchers in Western Colorado to discover how the darkness of night is not just important to experience the wonders of the cosmos, it's vital to maintaining healthy ecosystems, and saving the epic migrations of America's birds.</dd>
-
-            <dt>
-              <svg><use xlink:href="#youtube" /></svg> 
-              <a href="https://www.youtube.com/watch?v=iSm0nvOa07w">Why Tree Planting Campaigns Don't Work</a>
-            </dt>
-            <dd>Another from PBS Terra. In 2019, a Turkey tree planting campaign set a world record. Three months later, 90% of those saplings were dead. Planting trees to replace old-growth forests is a common solution, but it typically does not solve the problem.</dd>
+            <dd>...</dd>
 
             <dt>
               <svg><use xlink:href="#youtube" /></svg>
-              <a href="https://www.youtube.com/watch?v=G5lKmUw_Vxs">Music Pick: "The Hills" by Rachel Chinouriri</a>
+              <a href="">Music Pick: "TITLE" by ARTIST</a>
             </dt>
-            <dd>A couple years ago, I latched onto Rachel Chinouriri's <cite>4º In Winter EP</cite> with a ferocity reserved for few things. I absolutely adore that record. And I've loved everything she's done since then, her latest, "The Hills", being no exception. I particularly enjoy the sour guitars, marking "The Hills" as Chinouriri's most rock-oriented track yet.</dd>
+            <dd>...</dd>
           </dl>
         </mj-text>        
       </mj-column>
