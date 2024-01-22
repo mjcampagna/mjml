@@ -236,10 +236,12 @@
 
     <mj-section>
       <mj-column>
-        <mj-image alt="Taipei, Taiwan; February 2023." src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202401/20231230-115922-Barcelona-0960.jpg?raw=true" />
+        <mj-image alt="Familia Sagrada, Barcelona" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202401/20231230-115922-Barcelona-0960.jpg?raw=true" />
         <mj-text css-class="article">
           <p>Hi [Name,fallback=Friend],</p>
-          <p>...</p>
+          <p>Happy new year!</p>
+          <p>I am excited to be sending our first newsletter of 2024, but also short on time, so will be keeping this dispatch short and to the point.</p>
+          <p>So far this month, we've released two updates to Backlight, and I've got a new blog post about Filmist 2. Details follow.</p>
         </mj-text>        
       </mj-column>
     </mj-section>
@@ -249,29 +251,22 @@
         <mj-text css-class="article">
           <h2>Masonry in Kookaburra</h2>
         </mj-text>
-        <mj-image alt="Taipei, Taiwan; February 2023." src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202401/Backlight-540-Hero-1920-1080.jpg?raw=true" />        <mj-text css-class="article">
-          <p>Backlight version 5.4.0 is available now!</p>
+        <mj-image alt="Masonry!" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202401/Backlight-540-Hero-1920-1080.jpg?raw=true" />
+        <mj-text css-class="article">
+          <p>Backlight version 5.4.0 is available now! This update adds much requested masonry-type layouts for Kookaburra albums and essays. It also features various improvements for metadata display in albums. For details, <a href="https://blog.theturninggate.net/2024/01/18/masonry-comes-to-kookaburra-in-backlight-5-4-0/">see the release notes on our blog</a>.</p>
+          <p>Earlier in the month, version 5.3.5 brought an important fix to search, preventing protected photos from being returned in image search results. <a href="https://blog.theturninggate.net/2024/01/15/update-backlight-5-3-5/">Full details here</a>.
         </mj-text>
       </mj-column>
     </mj-section>
 
     <mj-section>
       <mj-column>
-        <mj-image alt="" src="" />
-        <mj-text css-class="article">
-          <h2>Title</h2>
-          <p>...</p>
-        </mj-text>        
-      </mj-column>
-    </mj-section>
-
-    <mj-section>
-      <mj-column>
-        <mj-image alt="" src="" />
+        <mj-image alt="Familia Sagrada, Barcelona" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202401/20231230-125154-Barcelona-1032.jpg?raw=true" />
         <mj-text css-class="article">
           <h2>Seim Effects</h2>
-          <p>...</p>
-          <p>Use our affiliate links to buy, or download the free micro packs to try, and <strong>use our exclusive discount code TTG20 for an additional 20% off</strong>:</p>
+          <p>Filmist 2 released! And I'm digging it.</p>
+          <p>I've written about my love for the new F SENSIA 100 film simulation on the blog, in <a href="https://blog.theturninggate.net/2024/01/16/the-problem-with-filmist-2-no-one-is-talking-about/">The problem with Filmist 2 no one is talking about ...</a>, with loads of sample images. Do check it out!</p>
+          <p>Filmist 2 is currently 45% off for launch, so now is an excellent time to buy. Use our affiliate links to buy, or download the free micro packs to try, and <strong>use our exclusive discount code TTG20 for an additional 20% off</strong>:</p>
           <ul>
             <li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=183378">Filmist / Filmist Light</a></li>
             <li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=227189">Gold Chrome</a></li>
