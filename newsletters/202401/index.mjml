@@ -281,26 +281,14 @@
       <mj-column>
         <mj-text css-class="article">
           <h2>Stuff &amp; Things</h2>
-          <p>Our curated list of recent, suggested listening, reading and viewing.</p>
+          <p>No links this time. Just a music pick.</p>
 
           <dl>
             <dt>
-              <svg><use xlink:href="#article" /></svg> 
-              <a href="">TITLE</a>
-            </dt>
-            <dd>...</dd>
-
-            <dt>
-              <svg><use xlink:href="#youtube" /></svg> 
-              <a href="">TITLE</a>
-            </dt>
-            <dd>...</dd>
-
-            <dt>
               <svg><use xlink:href="#youtube" /></svg>
-              <a href="">Music Pick: "TITLE" by ARTIST</a>
+              <a href="https://www.youtube.com/watch?v=rAtuzik8BqQ">Music Pick: "PLAY INNOCENT" by Craig Wedren</a>
             </dt>
-            <dd>...</dd>
+            <dd>Craig Wedren, legendary frontman from Shudder to Think, and composer for many a film and television score, is dropping his new album on January 26. I've met the man a few times; he's just fantastic. I am very much looking forward to this.</dd>
           </dl>
         </mj-text>        
       </mj-column>
