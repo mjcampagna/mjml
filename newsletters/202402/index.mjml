@@ -239,7 +239,9 @@
 				<mj-image alt="Taipei, Taiwan; February 2023." src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202304/20230129-092006-mc-Taipei-0317.jpg?raw=true" />
 				<mj-text css-class="article">
 					<p>Hi [Name,fallback=Friend],</p>
-					<p>...</p>
+					<p>It's a big newsletter this month, with lots of links to external reading. But a lot has been happening. There is some doomerism here, but I have tried to maintain some optimism as well. I hope it lands.</p>
+					<p>And I mention it below, but I think it important enough to say here at the top as well, <a href="https://www.404media.co/tumblr-and-wordpress-to-sell-users-data-to-train-ai-tools/" target="_blank">Tumblr and WordPress are selling users' data to train AI tools</a>. I know a lot of folks use WordPress for blogging; be sure to opt out in whatever way you can.</p>
+					<p>But we are offering some advice below how to protect yourself and your site from AI bots, and I tried out the Apple Vision Pro! Read on for all this, and more!</p>
 				</mj-text>        
 			</mj-column>
 		</mj-section>
@@ -247,9 +249,17 @@
 		<mj-section>
 			<mj-column>
 				<mj-text css-class="article">
-					<h2>Backlight 5.2.0 Update</h2>
-					<p>Backlight version 5.2.0 is available now!</p>
-				</mj-text>        
+					<h2>Backlight 5.4.1 Update</h2>
+					<p>Backlight 5.4.1 is now available, featuring improvements to masonry-type layouts, and capability to block AI bots using the robots.txt file.</p>
+
+					<ul>
+					<li>Kookaburra Page: Adds text-transform option for the running head</li>
+					<li>Kookaburra Album: Adds pagination support for masonry-type albums</li>
+					<li>Updates robots.txt to block AI bots. <a href="https://backlight.me/docs/robots#blocking-ai-bots" target="_blank">See documentation for details</a>.</li>
+					<li>Various improvements to masonry grid layouts</li>
+					<li>Updates api.js to include new methods, getPagedAlbum and getPhotosForPage</li>
+					</ul>
+				</mj-text>
 			</mj-column>
 		</mj-section>
 
@@ -267,43 +277,65 @@
 
 		<mj-section>
 			<mj-column>
-				<mj-image alt="" src="" />
-				<mj-text css-class="article">
-					<h2>Backlight is great on Apple Vision Pro!</h2>
-					<p></p>
-				</mj-text>        
-			</mj-column>
-		</mj-section>
-
-		<mj-section>
-			<mj-column>
 				<mj-image alt="Backlight on the Apple Vision Pro" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202402/apple-vision-pro.jpg?raw=true" />
 				<mj-text css-class="article">
-					<h2>R.I.P. The Internet</h2>
-					<p>You might have noticed, it is becoming increasingly difficult to find the things you are searching for online. <em>The Internet absolutely sucks now</em>. We have allowed one of humanity's greatest creations to become its largest garbage dump.</p>
-
-					<p>Pinterest had its time in the sun, is now a graveyard for orphaned works.</p>
-					<p>Arc Browser ... ? Extremely cringe announcement video ...  And honestly, I don't know whether this is a good thing, or a bad thing. And given what it cost to run AI models, how long will Arc even last?</p>
-					<p>Conglomerate-owned media is killing content ... Pitchfork, BandCamp ...</p>
-					<p>In the video game space, new independent sites ... Aftermath, Second Wind ...</p>
-					<p>404 Media ...</p>
+					<h2>Backlight is great on Apple Vision Pro!</h2>
+					<p>Recently, I visited our local Apple Store to demo the Apple Vision Pro. I'm not here to review the thing, so I'll just say that I was in some ways very impressed, and in other ways very disappointed. But despite the mixed feelings, it is nonetheless a fascinating device. And, most importantly ...</p>
+					<p><em>Backlight websites are fantastic on the Apple Vision Pro!</em></p>					
+					<p>More specifically, they are fantastic in Safari on the Apple Vision Pro. I am not surprised, but I am delighted to confirm it.</p>
+					<p>Text is crisp and easy to read. Images are stunning; large, bright and detailed. With the eye-tracking and basic gestures, it's simple to navigate the menus and thumbnail grids. Open a slideshow and advance forward or backward through images with a flick of the wrist. Backlight sites feel as natural to use as the native Photos app, and Apple Vision Pro is now my favorite way to interact with Backlight photo galleries.</p>
+					<p>At present, I cannot drop $3,500 on the device to bring it home with me, but for anyone that can, Backlight's galleries are an absolute treat!</p>
 				</mj-text>        
 			</mj-column>
 		</mj-section>
 
 		<mj-section>
 			<mj-column>
-				<mj-image alt="" src="" />
 				<mj-text css-class="article">
-					<h2>Seim Effects</h2>
-					<p>...</p>
-					<p>Use our affiliate links to buy, or download the free micro packs to try, and <strong>use our exclusive discount code TTG20 for an additional 20% off</strong>:</p>
-					<ul>
-						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=183378">Filmist / Filmist Light</a></li>
-						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=227189">Gold Chrome</a></li>
-						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=204790">Silver</a></li>
-						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=231573">Street'ist</a></li>
-					</ul>
+					<h2>R.I.P. The Internet</h2>
+
+					<p>And now for something completely different ... and I've had to update and/or rewrite this piece at least four times, because the landscape keeps shifting before I can press send. So, here we go.</p>
+
+					<p>You may have noticed, it is becoming increasingly difficult to find quality content online. To wit, the Internet absolutely sucks now. We have allowed one of humanity's greatest creations to become its largest garbage dump.</p>
+					
+					<p>404 Media reports, <a href="https://www.404media.co/google-search-really-has-gotten-worse-researchers-find/">researchers have found,Google Search really has gotten worse</a>, SEO spam making search unusable.</p>
+
+					<p>HouseFresh writes, <a href="https://housefresh.com/david-vs-digital-goliaths/" target="_blank">Google is kiling independent sites like ours</a>.</p>
+
+					<p>But SEO garbage isn't the only existential threat. In their article, <a href="https://www.theverge.com/2023/6/26/23773914/ai-large-language-models-data-scraping-generation-remaking-web" target="_blank">AI is killing the old web, and the new web struggles to be born</a>, The Verge writes about Google's AI search beta, creating "AI-generated summaries [that] often copy text from websites word-for-word but place this content above source links, starving them of traffic ... Revenue-strapped sites would likely be pushed out of business and Google itself would run out of human-generated content to repackage".</p>
+
+					<p>Again from 404 Media, <a href="https://www.404media.co/tumblr-and-wordpress-to-sell-users-data-to-train-ai-tools/" target="_blank">Tumblr and WordPress are selling users' data to train AI tools</a>.</p>
+
+					<p>In <a href="https://www.garbageday.email/p/ai-search-doomsday-cult" target="_blank">a recent edition of his Garbage Day newsletter</a>, Ryan Broderick writes about new AI Search features being rolling out by Google, Microsoft, and in The Browser Company's Arc Browser, which "browses the internet for you." Broderick writes, "But the base logic of something like Arc's AI search doesn't even really make sense. As Engadget recently asked in their excellent teardown of Arc's AI search pivot, 'Who makes money when AI reads the internet for us?' But let's take a step even further here. Why even bother making new websites if no one's going to see them? ... To even entertain the idea of building AI-powered search engines means, in some sense, that you are comfortable with eventually being the reason those creators no longer exist."</p>
+
+					<p>Meanwhile, the media is dying. <a href="https://www.theverge.com/2024/2/22/24080497/vice-media-website-layoffs" target="_blank">Vice is basically shutting down</a>. Former pillars of the online music scene <a href="https://www.theguardian.com/music/2023/oct/17/bandcamp-lays-off-half-its-staff-after-buyout-by-songtradr" target="_blank">BandCamp</a> and <a href="https://www.platformer.news/why-pitchfork-died/" target="_blank">Pitchfork</a> are dying. <a href="https://www.theguardian.com/media/2023/jun/28/national-geographic-staff-layoffs-report" target="_blank">National Geographic has reportedly laid off its last staff writers</a>. Engadget <a href="https://www.theverge.com/2024/2/22/24080215/engadget-layoffs-tech-news-blogs-editorial-restructuring" target="_blank">is laying off</a> a third of its workforce. Google <a href="https://www.niemanlab.org/2024/02/why-is-the-news-tab-missing-from-some-google-search-results/" target="_blank">is beta-testing removing its News tab</a>. And man, oh man, this stuff just goes on and on and on and ...</p>
+
+					<p>I needn't dwell on it, but I think we all know that social media is getting worse. I recently gutted all Twitter-related code from Backlight. I am not sorry, and I never will be.</p>
+
+					<p>Facebook is a ghosttown, but it abides -- for now.</p>
+
+					<p>I am debating what to do about Pinterest sharing. The site once had its time in the sun, but now largely seems to be a graveyard for orphaned works. More often than I would like, Google Image Search yields results on Pinterest, then Pinterest doesn't link to the image source. More often than not, I am finding Pinterest to be a dead end. And if your shared photos cannot be relied upon to route traffic back to your website, then what is the point of sharing? I may soon put it on the chopping block.</p>
+				</mj-text>        
+			</mj-column>
+		</mj-section>
+
+		<mj-section>
+			<mj-column>
+				<mj-text css-class="article">
+					<h2>Long live the Internet!</h2>
+
+					<p>And now, some silver linings. Recently, new media sites are emerging in revolt of these trends.</p>
+
+					<p>I meantioned <a href="https://www.404media.co/" target="_blank">404 Media</a> above, and you should absolutely be subscribed. It's a journalist-founded digital media company exploring the ways technology is shaping -- and is shaped by -- our world. So far, their reporting has been top-notch. Recently, they decided to gate their content behind email registration, a tactic to prevent search engines and "spin" sites using AI to steal their articles. <a href="https://www.404media.co/why-404-media-needs-your-email-address/">They explain the situation in detail here</a>, and I strongly recommend reading it; it's an inciteful piece on the challenges of online publishing in the age of AI.</p>
+
+					<p>If you're into gaming, then <a href="https://aftermath.site/" target="_blank">Aftermath</a> (video gaming) and <a href="https://www.rascal.news/" target="_blank">Rascal</a> (tabletop gaming) are new independent sites launched by former staff of dying, conglomerate-owned media sites. And the gaming YouTube channel <a href="https://www.youtube.com/@SecondWindGroup" target="_blank">Second Wind</a> has risen from the ashes of The Escapist, that which shall not be linked.</p>
+
+					<p>And there's you. If you're reading this, then good odds you're using Backlight, or its predecessors, and YOU have a website. With search engines in decline, AI on the rise, and algorithms driving us all crazy, I do think the online masses increasingly will come to value authentic, human-crafted content. Our sites might be harder to find, but those who find them will appreciate them all the more. And maybe the algorithms will eventually savvy onto it.</p>
+
+					<p>SEO spam is a problem for all of us, but for now, SEO remains Google's game; we should continue to play by their rules, hoping the algorithms eventually shift to favor real, quality content over AI sludge.</p>
+					<p>Jim Reekes wrote <a href="https://discourse.theturninggate.net/t/seo-images-problem/3240/6" target="_blank">a great post in our forum about SEO</a>, with advice on the right way to infuse your site with SEO "juice". It's worth reading!</p>
+					<p>Employ a <a href="https://backlight.me/docs/robots/" target="_blank">robots.txt</a> file to block AI. Create a <a href="https://blog.theturninggate.net/2020/12/06/creating-a-sitemap-for-backlight/" target="_blank">sitemap</a>. Make real photos, write good essays, and maybe when the Internet dies we'll find ourselves in Internet heaven, not in Internet hell with the tech bros clutching their NFTs.</p>
+					<p>And finally, as platforms continue to rise and fall, I think it more important than ever to have your own "home base" at which your content can have a permanent home. Use platforms, but do not make them your home.</p>
 				</mj-text>        
 			</mj-column>
 		</mj-section>
@@ -348,18 +380,6 @@
 
 						<dt>
 							<svg><use xlink:href="#article" /></svg> 
-							<a href="https://www.404media.co/">404 Media</a>
-						</dt>
-						<dd>Not an article, but an entire website full of articles. 404 Media is a fiercely independent news site, founded in August 2023 by former Vice reporters, with a focus on tech. They are fantastic, and it's worth signing up for a free account. You will need to give over your email to read most of what's on the site, <a href="https://www.404media.co/why-404-media-needs-your-email-address/">but there's a good reason for it</a>, which gets into the larger conversation about the ongoing erosion of the Internet, and how the way that we currently use the Internet is actively undermining any incentives to publish there. Anyway, sign up to 404, read that whole page (it's worth it!), then read this:</dd>
-
-						<dt>
-							<svg><use xlink:href="#article" /></svg> 
-							<a href="https://www.404media.co/google-search-really-has-gotten-worse-researchers-find/">Google Search Really Has Gotten Worse, Researchers Find</a>
-						</dt>
-						<dd>According to reserchers, Google has been taken over by low-quality SEO spam. And yeah, I've been feeling it for a while. It's become harder and harder to find the things I'm looking for, and the results I usually turn up are typically garbage. I find myself more and more just going to Wikipedia for information, because the websites are all trash. Though, not the Backlight sites, of course. But that's because every Backlight site is powered by an actual person!</dd>
-
-						<dt>
-							<svg><use xlink:href="#article" /></svg> 
 							<a href="https://www.theatlantic.com/magazine/archive/2024/03/facebook-meta-silicon-valley-politics/677168/">THE RISE OF TECHNO-AUTHORITARIANISM</a>
 						</dt>
 						<dd>(Paywalled) I typically try to avoid listing paywalled articles here, but this one is worth reading, if you can access it. If you have an Apple News subscription, I think you can find it there as well. The article discusses Big Tech as a social institution having more societal impact on our lives than either government or Wall Street, and the technocratic belief -- and inherent dangers of the belief -- "that technological progress of any kind is unreservedly and inherently good; that you should always build it, simply because you can."</dd>
@@ -382,7 +402,7 @@
 							<svg><use xlink:href="#youtube" /></svg>
 							<a href="https://www.youtube.com/watch?v=zl4D7PNrTTE">"CALL ME SHADOW" by Akini Jing</a>
 						</dt>
-						<dd>On first listen, I was curious, but not captured; over time, I have become enraptured. "Call Me Shadow" comes from Akini Jing's wuxia-themed latest album, and sounds like a Mandopop Billie Eilish track, infused with the DNA of an EDM club rager.</dd>
+						<dd>On first listen, I was curious, but not captured; over time, I have become enraptured. "Call Me Shadow" comes from Akini Jing's wuxia-themed latest album, and sounds like a Mandopop Billie Eilish track, infused with the DNA of an EDM club rager. I sincerely hope this song someday gets the club remix that it deserves.</dd>
 					</dl>
 				</mj-text>        
 			</mj-column>
