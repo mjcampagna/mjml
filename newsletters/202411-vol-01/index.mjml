@@ -239,7 +239,8 @@
 				<mj-image alt="Kintsugi; August 2024." src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202411-vol-01/20240805-122015-mc-32312.jpg?raw=true" />
 				<mj-text css-class="article">
 					<p>Hi [Name,fallback=Friend],</p>
-					<p>...</p>
+					<p>We hope you've had a lovely few months! The Turning Gate is now poised to return from a period of silence, as we prepare for our next major release. Backlight 6 is coming soon! In this edition of the newsletter, I'll let you know what to expect.</p>
+          <p>But first, the cutie above is Matt's new Goldendoodle puppy, Kintsugi. Good odds you'll being seeing more of her in future newsletters.</p>
 				</mj-text>        
 			</mj-column>
 		</mj-section>
@@ -247,8 +248,14 @@
 		<mj-section>
 			<mj-column>
 				<mj-text css-class="article">
-					<h2>Backlight 5.2.0 Update</h2>
-					<p>Backlight version 5.2.0 is available now!</p>
+					<h2>Coming soon in Backlight 6.0</h2>
+          <p>The 6.0 release will focus almost entirely on Backlight's headlining, new blogging feature, made manifest in the new Kookaburra Blog module.</p>
+          <p>Before this point, for Backlight users wanting to blog, we have recommended pairing Backlight with a WordPress deployment. No more! And I have got to say, now is a great time to not be using WordPress; more on that below.</p>
+          <p>Blogging in Backlight will feel very familiar to anyone already using <a href="https://youtu.be/kj5RqHwCk08" target="_blank">Kookaburra's essay features</a>. Everything can be done in an essay, can also be done in a blog post. The difference is simply a matter of organization: essays exist in manually arranged collections, and can be mixed into sets with albums; blogs present in a chronological feed. Essays are fantastic for creating zines of evergreen content, while blogs excel for posting news and updates, logging events, making announcements, journaling, photo blogging, etc.</p>
+          <p>Content will also be interchangeable between the two, meaning that you can evergreen a blog post by copy-and-pasting its content into an essay!</p>
+          <p>Kookaburra Blog is a new core module in Backlight 6, and will not be sold separately as an add-on.</p>
+          <p>We will delve into organizational features for blogs at time of release, but I can also tell you right now that you will be able to run multiple individual blog feeds should you like to do so. For example, you might have a daily photo blog, and a separate feed for events, workshops, or studio updates.</p>
+          <p>Additionally, Backlight 6 will pack in minor updates and improvements as usual, all of which we will detail later in the 6.0 release notes.</p>
 				</mj-text>        
 			</mj-column>
 		</mj-section>
@@ -257,8 +264,15 @@
 			<mj-column>
 				<mj-image alt="" src="" />
 				<mj-text css-class="article">
-					<h2>Title</h2>
-					<p>...</p>
+					<h2>WordPress is a mess right now ...</h2>
+					<p>WordPress in 2024 is a bad place to be. With this in mind, we are very exciting to finally be supporting blogging in Backlight 6.</p>
+          <p>In late February, 404 Media reported that <a href="https://www.404media.co/tumblr-and-wordpress-to-sell-users-data-to-train-ai-tools/" target="_blank">Tumblr and WordPress would soon be selling users' data to AI companies</a>. A few days later, they reported that <a href="https://www.404media.co/wordpress-firehose-allows-ai-companies-to-buy-access-to-a-million-posts-a-day/" target="_blank">A WordPress "Firehose" Allows AI Companies to Buy Access to a Million Posts a Day</a>, not only from sites hosted on WordPress.com, but also from personal WordPress sites using Automattic's popular JetPack plugin.</p>
+          <p>The simple truth is that Automattic has never respected the privacy of WordPress users, and has been banking on users' data for years upon years. That they would be selling said data to AI companies in 2024 should come as no surprise.</p>
+          <p>In early October, more shit hit the fan when WordPress.org users were forced to disavow any affiliation, financial or otherwise, with the third-party host WP Engine before registering a new account, or logging in to their existing account. Once again, 404 Media was on the beat, writing <a href="https://www.404media.co/wordpress-checkbox-login-wp-engine/" target="_blank">The Community Is In Chaos: WordPress.org Now Requires You Denounce Affiliation With WP Engine To Log In</a>. And while Automattic and WP Engine engage in slings and arrows, 404 Media continued to report that <a href="https://www.404media.co/automattic-buyout-offer-wordpress-matt-mullenweg/" target="_blank">Employees Describe an Environment of Paranoia and Fear Inside Automattic Over WordPress Chaos</a>, amid layoffs, terminations, and departures of employees from Automattic. Amongst those who remain with the company, morale is said to be at an all-time low.</p>
+          <p>While Automattic and WordPress are imploding, they've dragged their garbage into the public square and exposed their users to it as well.</p>
+          <p>Finally, and this isn't a new issue, but is nonetheless worth calling out, WordPress paints a target on your back for hackers. A large percentage of websites are powered by WordPress, and this pervasiveness makes it a popular target for misdeeds. And because of its modular ecosystem, plugins and extensions very often create vulnerabilities for hackers to exploit! A legitimate way to safeguard your domain is to just not use it.</p>          
+          <p>And so, we are very exciting to be introducing native blogging to Backlight in our upcoming 6.0 release.</p>
+          <p>This also settles the question, will there or will there not be an eventual Kookaburra WordPress theme, with a resounding NO. But rest assured, the Pangolin WP Theme add-on will remain as is for as long as we continue to support the Pangolin modules.</p>
 				</mj-text>        
 			</mj-column>
 		</mj-section>
@@ -268,7 +282,8 @@
 				<mj-image alt="" src="" />
 				<mj-text css-class="article">
 					<h2>Seim Effects</h2>
-					<p>...</p>
+					<p>It's that time of year when Gavin offers incredible discounts on his substantial collection of presets and workflow tools. As I write this, it's 25% off for Halloween; later in the month, there will likely be Black Friday deals as well.</p>
+          <p>My favorite pack, Filmist 2, is up to version 2.3, which adds a new Fuji Pro 160 NS preset. Gavin has posted <a href="https://www.youtube.com/watch?v=72M6LpT78Xs&t=93s" target="_blank">a video all about it</a>.</p>
 					<p>Use our affiliate links to buy, or download the free micro packs to try, and <strong>use our exclusive discount code TTG20 for an additional 20% off</strong>:</p>
 					<ul>
 						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=183378">Filmist / Filmist Light</a></li>
@@ -289,15 +304,34 @@
 					<dl>
 						<dt>
 							<svg><use xlink:href="#article" /></svg> 
-							<a href="">TITLE</a>
+							<a href="https://www.photonstophotos.net/Charts/RN_ADU.htm">Photons to Photos</a>
 						</dt>
-						<dd>...</dd>
+						<dd>I recently discovered this neat resource for independent camera sensor data. So far, my favorite thing on the site has been the Read Noise vs. ISO Setting charts for individual cameras. For example, I can see that shooting ISO 640 on my X-Pro3 will produce less noise than shooting at ISO 400. 🤯</dd>
 
 						<dt>
 							<svg><use xlink:href="#youtube" /></svg> 
-							<a href="">TITLE</a>
+							<a href="https://www.youtube.com/watch?v=PHJ9GNTwwas">The geography behind Migrant Mother</a>
 						</dt>
-						<dd>...</dd>
+						<dd>Phil Edwards deep dives on Dorothea Lange's iconic depression-era photograph.</dd>
+
+						<dt>
+							<svg><use xlink:href="#youtube" /></svg> 
+							<a href="https://www.youtube.com/watch?v=k-a0EFhr3vE">How Kodak invented the "snapshot"</a>
+						</dt>
+						<dd>... and fueled the larger democratization of photography.</dd>
+
+						<dt>
+							<svg><use xlink:href="#article" /></svg> 
+							<a href="https://www.lensculture.com/articles/alisa-martynova-nowhere-near-liminal-spaces-of-migration#slideshow">Nowhere Near - Liminal Spaces of Migration</a>
+						</dt>
+						<dd>Alisa Martynova shines a light on the individual stories of migrants who have come from Africa to Italy and France, set against enigmatic nocturnal landscapes.</dd>
+
+						<dt>
+							<svg><use xlink:href="#article" /></svg> 
+							<a href="https://www.thisiscolossal.com/2024/09/bpoty-2024-winners/">Conservation Advocacy Soars in the 2024 Bird Photographer of the Year Competition</a>
+						</dt>
+						<dd>Bird Photographer of the Year has announced the winners of the 2024 competition, selected from a pool of more than 23,000 submissions ... because we obviously like birds here.</dd>
+
 					</dl>
 				</mj-text>        
 			</mj-column>
@@ -309,13 +343,13 @@
 					<h2>Music Pick</h2>
 				</mj-text>
 
-				<mj-image alt="ARTIST" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202402/akini-jing.webp?raw=true" />
+				<mj-image alt="Magdalena Bay" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202411-vol-01/magdalena_bay.jpg?raw=true" />
 
 				<mj-text css-class="article">
 					<dl>
 						<dt>
 							<svg><use xlink:href="#youtube" /></svg>
-							<a href="">"TITLE" by ARTIST</a>
+							<a href="https://www.youtube.com/watch?v=DfcWOPpmw14">"Image" by Magdalena Bay</a>
 						</dt>
 						<dd>DESCRIPTION</dd>
 					</dl>
