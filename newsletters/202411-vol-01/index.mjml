@@ -279,7 +279,7 @@
 
 		<mj-section>
 			<mj-column>
-				<mj-image alt="" src="" />
+        <mj-image alt="Kintsugi, October 2024." src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202411-vol-01/20241025-180015-mc-35875.jpg?raw=true" />
 				<mj-text css-class="article">
 					<h2>Seim Effects</h2>
 					<p>It's that time of year when Gavin offers incredible discounts on his substantial collection of presets and workflow tools. As I write this, it's 25% off for Halloween; later in the month, there will likely be Black Friday deals as well.</p>
@@ -351,7 +351,7 @@
 							<svg><use xlink:href="#youtube" /></svg>
 							<a href="https://www.youtube.com/watch?v=DfcWOPpmw14">"Image" by Magdalena Bay</a>
 						</dt>
-						<dd>DESCRIPTION</dd>
+						<dd>I adore Magdalena Bay's first record, and their latest, <cite>Imaginal Disk</cite> has cemented them as one of my favorite bands of the modern era. I had the pleasure to see the in concert recently, and they were phenominal live. "Image" is the second of four singles released from their sophomore album.</dd>
 					</dl>
 				</mj-text>        
 			</mj-column>
