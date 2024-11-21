@@ -239,7 +239,7 @@
 				<mj-image alt="Backlight 6 Announcement" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202411-vol-02/Backlight-6-Announcement-Hero-1920-1080.jpg?raw=true" />
 				<mj-text css-class="article">
 					<p>Hi [Name,fallback=Friend],</p>
-					<p>...</p>
+					<p><strong>Backlight 6</strong> is here!</p>
 				</mj-text>        
 			</mj-column>
 		</mj-section>
@@ -247,8 +247,18 @@
 		<mj-section>
 			<mj-column>
 				<mj-text css-class="article">
-					<h2>Backlight 5.2.0 Update</h2>
-					<p>Backlight version 5.2.0 is available now!</p>
+					<h2>New in Backlight 6</h2>
+          <h3>New Kookaburra Blog Module</h3>
+					<p>The new blogging module provides a convenient way to share updates and work, and is a great alternative to Wordpress.  Support is provided for multiple blogs and flexible organization between topics and sub-topics.  Blogs bring across the authoring options from Kookaburra Journal, including embedding photos and albums.  Blogs excel for posting news and updates, logging events, making announcements, journaling, photo blogging, etc. - the sky is the limit!  The new module provides full RSS support so that your audience can stay up-to-date on your latest news and updates.</p>
+          <p>Visit our wiki for <a href="https://backlight.me/modules/kookaburra/blog" target="_blank">additional documentation for Kookaburra Blog</a>.</p>
+          <h3>Search improvements</h3>
+          <p>Backlight 6 adds new options for ordering of the Search results, including ordering by title and ordering Alums and Photos in chronological or reverse-chronological order.  Search now includes Album Sets.  An option has been added to disable Search caching so that users see the latest content on sites that provide rapidly-changing content.</p>
+          <h3>New menu structure</h3>
+          <p>The menus and pages within the Designer and Publisher modules have been reorganised so that you can better find your content and how to design your site.</p>
+          <h3>Contact forms</h3>
+          <p>A new option has been added to enable a Honeypot on Contact Forms.  The messaging for reCAPTCHA 2 and 3 has been improved to help simplify configuring spam protection.  Emails no longer include the customer’s email address in the reply-to field, improving deliverability.</p>
+          <h3>Other improvements</h3>
+          <p>Backlight 6 includes numerous tweaks and bug fixes, and will provide ongoing support for upcoming PHP versions.</p>
 				</mj-text>        
 			</mj-column>
 		</mj-section>
@@ -257,8 +267,9 @@
 			<mj-column>
 				<mj-image alt="" src="" />
 				<mj-text css-class="article">
-					<h2>Title</h2>
-					<p>...</p>
+					<h2>Purchasing Backlight 6</h2>
+					<p>If purchasing Backlight for the very first time, <a href="https://backlight.me/get-backlight" target="_blank">get Backlight 6 here</a>.</p>
+          <p>If upgrading from an existing install of Backlight, log into your Backlight admin, then go to the Backlight Modules page. Install any pending updates for your current version, then use the upgrade banner to purchase Backlight 6. If eligible for a discounted upgrade (if upgrading from Backlight 5), your discount will be automatically applied.</p>
 				</mj-text>        
 			</mj-column>
 		</mj-section>
@@ -267,58 +278,34 @@
 			<mj-column>
 				<mj-image alt="" src="" />
 				<mj-text css-class="article">
-					<h2>Seim Effects</h2>
-					<p>...</p>
-					<p>Use our affiliate links to buy, or download the free micro packs to try, and <strong>use our exclusive discount code TTG20 for an additional 20% off</strong>:</p>
-					<ul>
-						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=183378">Filmist / Filmist Light</a></li>
-						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=227189">Gold Chrome</a></li>
-						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=204790">Silver</a></li>
-						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=231573">Street'ist</a></li>
-					</ul>
+					<h2>What's next?</h2>
+					<p>As usual, there is more to come. Throughout the lifecycle of Backlight 6, we will continue to work through <a href="https://discourse.theturninggate.net/t/kookaburra-roadmap/2313/3" target="_blank">Kookaburra's roadmap</a>, and will continue to improve the new Kookaburra Blog module.</p>
+          <p>Come <a href="https://discourse.theturninggate.net/" target="_blank">shout at us in the forum</a>, and let us know which features and improvements are most important to you.</p>
 				</mj-text>        
 			</mj-column>
 		</mj-section>
 
 		<mj-section>
 			<mj-column>
+				<mj-image alt="" src="" />
 				<mj-text css-class="article">
-					<h2>Stuff &amp; Things</h2>
-					<p>Our curated list of recent, suggested listening, reading and viewing.</p>
-
-					<dl>
-						<dt>
-							<svg><use xlink:href="#article" /></svg> 
-							<a href="">TITLE</a>
-						</dt>
-						<dd>...</dd>
-
-						<dt>
-							<svg><use xlink:href="#youtube" /></svg> 
-							<a href="">TITLE</a>
-						</dt>
-						<dd>...</dd>
-					</dl>
+					<h2>More about blogging</h2>
+					<p>By way of keeping expectations in check, there are some things that WordPress users may be expecting that cannot be found in Kookaburra Blog. There are no post comments, no tags, and no ecosystem of third-party extensions.</p>
+          <p>Composing posts with Kookaburra Blog is the same as composing essays with Kookaburra Essay, except that published posts appear chronologically in a feed.</p>
+          <p>In fact, you can copy-and-paste essays into blogs, or blogs into essays. The toolsets are the same, and the content is interchangeable.</p>
+          <p>Blogs and Essays offer two different organizational paradigms for your content, and you will likely find that one or the other is more suitable for a given piece of content.</p>
 				</mj-text>        
 			</mj-column>
 		</mj-section>
 
 		<mj-section>
 			<mj-column>
+				<mj-image alt="" src="" />
 				<mj-text css-class="article">
-					<h2>Music Pick</h2>
-				</mj-text>
-
-				<mj-image alt="ARTIST" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202402/akini-jing.webp?raw=true" />
-
-				<mj-text css-class="article">
-					<dl>
-						<dt>
-							<svg><use xlink:href="#youtube" /></svg>
-							<a href="">"TITLE" by ARTIST</a>
-						</dt>
-						<dd>DESCRIPTION</dd>
-					</dl>
+					<h2>Until next time ...</h2>
+					<p>A few parting thoughts.</p>
+          <p>Now that Backlight supports blogging, we are shutting down The Turning Gate's WordPress blog, and will be using Kookaburra blog. <a href="https://blog.theturninggate.net/" target="_blank">The WordPress blog</a> will remain in place, meaning that old posts will continue to be available. News will forthwith be posted to <a href="https://theturninggate.net/blog" target="_blank">the new blog</a>.</p>
+          <p>And we would like you to know that we appreciate your continued support. Without all of you, Backlight would not be what it is. We hope you will enjoy the new version!</p>
 				</mj-text>        
 			</mj-column>
 		</mj-section>
