@@ -277,6 +277,20 @@
 
 		<mj-section>
 			<mj-column>
+				<mj-text css-class="article">
+					<h2>Puppy interlude</h2>
+				</mj-text>
+
+				<mj-image alt="Kintsugi's first snow" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202502-vol-01/20250206-084552-mc-1659.jpg?raw=true" />
+
+				<mj-text css-class="article">
+          <p>It's Kintsugi's first snow!</p>
+				</mj-text>        
+			</mj-column>
+		</mj-section>
+
+		<mj-section>
+			<mj-column>
 				<mj-image alt="" src="" />
 				<mj-text css-class="article">
 					<h2>Seim Effects</h2>
@@ -334,7 +348,7 @@
 					<h2>Music Pick</h2>
 				</mj-text>
 
-				<mj-image alt="FKA Twigs" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202502-vol-01/FKA_twigs_-_Eusexua?raw=true" />
+				<mj-image alt="FKA Twigs" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202502-vol-01/FKA_twigs_-_Eusexua.jpg?raw=true" />
 
 				<mj-text css-class="article">
 					<dl>
