@@ -273,6 +273,7 @@
 					<ul>
 						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=183378">Filmist / Filmist Light</a></li>
 						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=227189">Gold Chrome</a></li>
+						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=218548">Natural HDR</a></li>
 						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=204790">Silver</a></li>
 						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=231573">Street'ist</a></li>
 					</ul>
@@ -288,13 +289,13 @@
 
 					<dl>
 						<dt>
-							<svg><use xlink:href="#article" /></svg> 
+							📄 
 							<a href="">TITLE</a>
 						</dt>
 						<dd>...</dd>
 
 						<dt>
-							<svg><use xlink:href="#youtube" /></svg> 
+							📺 
 							<a href="">TITLE</a>
 						</dt>
 						<dd>...</dd>
@@ -314,7 +315,7 @@
 				<mj-text css-class="article">
 					<dl>
 						<dt>
-							<svg><use xlink:href="#youtube" /></svg>
+							📺 
 							<a href="">"TITLE" by ARTIST</a>
 						</dt>
 						<dd>DESCRIPTION</dd>

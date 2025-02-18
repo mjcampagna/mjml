@@ -236,27 +236,19 @@
 
 		<mj-section>
 			<mj-column>
-				<mj-image alt="San Francisco; November 2024." src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202502-vol-01/20241110-180757-San-Francisco-1409.jpg?raw=true" />
+				<mj-image alt="Taipei, Taiwan; February 2023." src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202502-vol-02/20240322-210208-mc-28304.jpg?raw=true" />
 				<mj-text css-class="article">
 					<p>Hi [Name,fallback=Friend],</p>
-					<p>I used to see this fellow often on my walks, always in this same spot overlooking the Golden Gate Bridge, always with his bicycle, flowers, a package of Milano cookies, and a bottle of red wine.</p>
-          <p>After two years away, I was back in San Francisco for work in November, and arrived a day early so that I could spend a day walking my old stomping grounds. And sure enough, he was there in his usual spot. We had a chat and I took the opportunity to snap his portrait. Something I probably ought to have done years before!</p>
-          <p>I've been on a real streak recently with Backlight development, having now posted two substantial updates in the last two weeks, and with a third now well underway. Here's your newsletter.</p>
-				</mj-text>
+					<p>...</p>
+				</mj-text>        
 			</mj-column>
 		</mj-section>
 
 		<mj-section>
 			<mj-column>
 				<mj-text css-class="article">
-					<h2>Huge Backlight 6 Updates</h2>
-					<p>Big things have come to Backlight 6 and its Kookaburra modules in recent weeks, in the <a href="https://theturninggate.net/blog/update-backlight-6-1-0" target"_blank">6.1.0</a> and <a href="https://theturninggate.net/blog/update-backlight-6-2-0" target"_blank">6.2.0</a> updates.</p>
-          <p>The new <strong>Image Comparison</strong> presentation type is a modern replacement for Pangolin's Juxtapose, supporting the `srcset` attribute for increased image fidelity on varying screens, keyboard accessibility, and lots of customization. It even handles comparison of differently sized images! It's native to Kookaburra Page, and usable in albums, blogs and essays, and on pages; basically everywhere.</p>
-          <p>Our new <strong>Collasable Section</strong> component provides an easy way to embed content in a collapsed or collapsable section, allowing you to fold text, images, or galleries into click-to-expand container, and can also be used basically everywhere.</p>
-          <p>Kookaburra's native <strong>Carousel</strong> presentation has at last graduated from "beta" status, with new options and refinements. It's a beautiful way to display quantities of images on the page without a grid, and tucks nicely into the new `collapsable-section` component.</p>
-          <p>Spacing and styles have been updated, allowing images, text, and multi-image presentations to flow more naturally together on the page. Essay presentation composer buttons, visible when logged into Backlight as an admin, are also improved.</p>
-          <p>The spacing improvements have allowed me to improve copy options for Kookaburra Albums. You can now position your main copy above or beneath the album's presentation, and album templates now support template copy.</p>
-          <p>These are some of the highlights, but there's more. Check the blog posts for complete details, and for demonstrations of the new image comparison, collapsable section, and carousel features.</p>
+					<h2>Backlight 5.2.0 Update</h2>
+					<p>Backlight version 5.2.0 is available now!</p>
 				</mj-text>        
 			</mj-column>
 		</mj-section>
@@ -265,26 +257,8 @@
 			<mj-column>
 				<mj-image alt="" src="" />
 				<mj-text css-class="article">
-					<h2>Upgrading to Backlight 6</h2>
-					<p>With everything new in Backlight 6, you may be keen to upgrade!</p>
-          <p>Discounted upgrades are available for all existing Backlight users. And upgrades are incredibly easy for users of Backlight 2, 3, 4 or 5!</p>
-          <p>To upgrade, log into your existing website's Backlight admin, and visit the Backlight Modules page, where you typically perform updates. If updates are available for your current version of Backlight, install those updates.</p>
-          <p>Once running your latest available version, you should see the option to upgrade to Backlight 6. Purchasing here, your upgrade discount will be automatically applied to your purchase. After completing your purchase, return to the Backlight Modules page to install the upgrade.</p>
-          <p>It's that easy! There's nothing to download, and no need to manage files. Just push buttons, and Backlight upgrades itself.</p>
-				</mj-text>        
-			</mj-column>
-		</mj-section>
-
-		<mj-section>
-			<mj-column>
-				<mj-text css-class="article">
-					<h2>Puppy interlude</h2>
-				</mj-text>
-
-				<mj-image alt="Kintsugi's first snow" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202502-vol-01/20250206-084552-mc-1659.jpg?raw=true" />
-
-				<mj-text css-class="article">
-          <p>It's Kintsugi's first snow!</p>
+					<h2>Title</h2>
+					<p>...</p>
 				</mj-text>        
 			</mj-column>
 		</mj-section>
@@ -294,11 +268,12 @@
 				<mj-image alt="" src="" />
 				<mj-text css-class="article">
 					<h2>Seim Effects</h2>
-					<p>We're not the only ones keeping busy. Our friend Gavin, over at Seim Effects, has launched <a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=218548" target="_blank">Natural HDR 5</a> for Lightroom, Photoshop and Capture One Pro, and as LUTs. It's also currently on sale for the new year.</p>
+					<p>...</p>
 					<p>Use our affiliate links to buy, or download the free micro packs to try, and <strong>use our exclusive discount code TTG20 for an additional 20% off</strong>:</p>
 					<ul>
 						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=183378">Filmist / Filmist Light</a></li>
 						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=227189">Gold Chrome</a></li>
+						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=218548">Natural HDR</a></li>
 						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=204790">Silver</a></li>
 						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=231573">Street'ist</a></li>
 					</ul>
@@ -315,28 +290,15 @@
 					<dl>
 						<dt>
 							📄 
-							<a href="https://www.sovietbusstops.com">Soviet Bus Stops</a>
+							<a href="">TITLE</a>
 						</dt>
-						<dd>Christopher Herwig's <a href="https://www.amazon.com/dp/B09JP2GGTL?binding=hardcover" target="_blank">two books of Soviet Bus Stops</a> are excellent, and now I'm finding there's a documentary?! I sincerely hope I get the opportunity to see this somehow.</dd>
-
-						<dt>
-							📄 
-							<a href="https://www.thisiscolossal.com/2025/01/nick-cave-amalgams-graphts/">Nick Cave’s Nearly 26-Foot Bronze Stands for Resistance Amid Oppression</a>
-						</dt>
-						<dd>Neat sculptures by Nick Cave. Not <a href="https://www.nickcave.com/" target="_blank">the Nick Cave you're probably thinking of</a>, but rather this <a href="https://www.instagram.com/nickcaveart" target="_blank">other Nick Cave</a> that you probably were not thinking of. I am somewhat perplexed the article never bothers to disambiguate the two, not least of which because I assumed, when I saw the headline, the article was actually about sculptures by the Nick Cave you probably were thinking of.</dd>
+						<dd>...</dd>
 
 						<dt>
 							📺 
-							<a href="https://youtu.be/iDr3or33WW0?si=-yKrYLKw9Nv22o4h">In Conversation | with Magnum Photo's Mark Power</a>
+							<a href="">TITLE</a>
 						</dt>
-						<dd>A lovely video portrait of British "documentary" photographer Mark Power.</dd>
-
-						<dt>
-							📺 
-							<a href="https://youtu.be/i-5yvvpM_as?si=naLWDtTUifQClTpX">How the surreal 'Dali Atomicus' was captured | BBC Global</a>
-						</dt>
-						<dd>About the famous, bizarre portrait of Salvadore Dali.</dd>
-
+						<dd>...</dd>
 					</dl>
 				</mj-text>        
 			</mj-column>
@@ -348,15 +310,15 @@
 					<h2>Music Pick</h2>
 				</mj-text>
 
-				<mj-image alt="FKA Twigs" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202502-vol-01/FKA_twigs_-_Eusexua.jpg?raw=true" />
+				<mj-image alt="ARTIST" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202402/akini-jing.webp?raw=true" />
 
 				<mj-text css-class="article">
 					<dl>
 						<dt>
 							📺 
-							<a href="https://www.youtube.com/watch?v=KnGSVIZGkQo">"EUSEXUA" by FKA Twigs</a>
+							<a href="">"TITLE" by ARTIST</a>
 						</dt>
-						<dd>The latest album from FKA Twigs is a stunner, inspired by underground techno clubs in Prague, and at times channeling additional influences ranging from Kate Bush to Björk, while distinctly remaining its own beast. Glitched out, blissed out, turned on, the sort of electronic pop I want to melt into. Meanwhile, the choreography in the video "Eusexua" is outstanding, not to be missed.</dd>
+						<dd>DESCRIPTION</dd>
 					</dl>
 				</mj-text>        
 			</mj-column>
