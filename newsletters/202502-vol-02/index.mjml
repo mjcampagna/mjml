@@ -239,7 +239,8 @@
 				<mj-image alt="Taipei, Taiwan; February 2023." src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202502-vol-02/20240322-210208-mc-28304.jpg?raw=true" />
 				<mj-text css-class="article">
 					<p>Hi [Name,fallback=Friend],</p>
-					<p>...</p>
+					<p>Second newsletter of the month, because Backlight 6.2.1 is out now, and it's packed!</p>
+          <p>Along with the update, there are new tutorials, and I've taken a look at the latest updates from Seim Effects.</p>
 				</mj-text>        
 			</mj-column>
 		</mj-section>
@@ -247,18 +248,10 @@
 		<mj-section>
 			<mj-column>
 				<mj-text css-class="article">
-					<h2>Backlight 5.2.0 Update</h2>
-					<p>Backlight version 5.2.0 is available now!</p>
-				</mj-text>        
-			</mj-column>
-		</mj-section>
-
-		<mj-section>
-			<mj-column>
-				<mj-image alt="" src="" />
-				<mj-text css-class="article">
-					<h2>Title</h2>
-					<p>...</p>
+					<h2>Backlight 6.2.1 — Audio, video, caveats</h2>
+					<p><strong>Backlight 6.2.1</strong> is available now, and adds audio/video support, but there's a catch.</p>
+          <p>The update also includes improvements to typography, headers, footers, blog excerpts, image comparison presentations, and more.</p>
+          <p>For all the details, see <a href="https://theturninggate.net/blog/update-backlight-6-2-1" target="_blank">Update: Backlight 6.2.1</a> on the blog.</p>
 				</mj-text>        
 			</mj-column>
 		</mj-section>
@@ -267,8 +260,15 @@
 			<mj-column>
 				<mj-image alt="" src="" />
 				<mj-text css-class="article">
-					<h2>Seim Effects</h2>
-					<p>...</p>
+					<h2>Filmist 2.4 Released!</h2>
+					<p>Filmist 2.4 is out, with updated presets for Kodachrome and Velvia, amongst other improvements. On the blog, I've taken a deeper look at this, and at the recent Natural HDR 5. This is also a great opportunity to see some of Backlight's recent updates in action. The post includes:</p>
+          <ul>
+            <li>embedded Vimeo video</li>
+            <li>embedded YouTube video</li>
+            <li>Hr sandwiches</li>
+            <li>Image comparison presentations, with captions</li>
+          </ul>
+          <p>Don't miss <a href="https://theturninggate.net/blog/seim-s-filmist-2-4-and-natural-hdr-5" target="_blank">Seim's Filmist 2.4 and Natural HDR 5</a> on the blog!</p>
 					<p>Use our affiliate links to buy, or download the free micro packs to try, and <strong>use our exclusive discount code TTG20 for an additional 20% off</strong>:</p>
 					<ul>
 						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=183378">Filmist / Filmist Light</a></li>
@@ -310,15 +310,15 @@
 					<h2>Music Pick</h2>
 				</mj-text>
 
-				<mj-image alt="ARTIST" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202402/akini-jing.webp?raw=true" />
+				<mj-image alt="Liam Finn, HYPERVERSE" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202502-vol-02/a1288582970_5.jpg?raw=true" />
 
 				<mj-text css-class="article">
 					<dl>
 						<dt>
 							📺 
-							<a href="">"TITLE" by ARTIST</a>
+							<a href="https://www.youtube.com/watch?v=7HBAVf-arvY">"Purple Dress" by Liam Finn</a>
 						</dt>
-						<dd>DESCRIPTION</dd>
+						<dd>One of a handful of tracks now available from Liam Finn's upcoming record, HYPERVERSE, "Purple Dress" is a very pretty song. Introspective Liam, rather than Animal from the Muppets Liam. I like both Liams a lot.</dd>
 					</dl>
 				</mj-text>        
 			</mj-column>
