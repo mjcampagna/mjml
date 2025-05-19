@@ -236,7 +236,7 @@
 
 		<mj-section>
 			<mj-column>
-				<mj-image alt="Taipei, Taiwan; February 2023." src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202304/20230129-092006-mc-Taipei-0317.jpg?raw=true" />
+				<mj-image alt="HERO" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202304/20230129-092006-mc-Taipei-0317.jpg?raw=true" />
 				<mj-text css-class="article">
 					<p>Hi [Name,fallback=Friend],</p>
 					<p>...</p>
@@ -247,8 +247,8 @@
 		<mj-section>
 			<mj-column>
 				<mj-text css-class="article">
-					<h2>Backlight 5.2.0 Update</h2>
-					<p>Backlight version 5.2.0 is available now!</p>
+					<h2>FEATURE_1</h2>
+					<p></p>
 				</mj-text>        
 			</mj-column>
 		</mj-section>
@@ -257,7 +257,7 @@
 			<mj-column>
 				<mj-image alt="" src="" />
 				<mj-text css-class="article">
-					<h2>Title</h2>
+					<h2>FEATURE_2</h2>
 					<p>...</p>
 				</mj-text>        
 			</mj-column>
@@ -269,6 +269,7 @@
 				<mj-text css-class="article">
 					<h2>Seim Effects</h2>
 					<p>...</p>
+          <hr />
 					<p>Use our affiliate links to buy, or download the free micro packs to try, and <strong>use our exclusive discount code TTG20 for an additional 20% off</strong>:</p>
 					<ul>
 						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=183378">Filmist / Filmist Light</a></li>

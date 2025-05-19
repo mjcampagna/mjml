@@ -236,11 +236,10 @@
 
 		<mj-section>
 			<mj-column>
-				<mj-image alt="Taipei, Taiwan; February 2023." src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202502-vol-02/20240322-210208-mc-28304.jpg?raw=true" />
+				<mj-image alt="HERO" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202304/20230129-092006-mc-Taipei-0317.jpg?raw=true" />
 				<mj-text css-class="article">
 					<p>Hi [Name,fallback=Friend],</p>
-					<p>Second newsletter of the month, because Backlight 6.2.1 is out now, and it's packed!</p>
-          <p>Along with the update, there are new tutorials, and I've taken a look at the latest updates from Seim Effects.</p>
+					<p>...</p>
 				</mj-text>        
 			</mj-column>
 		</mj-section>
@@ -248,10 +247,8 @@
 		<mj-section>
 			<mj-column>
 				<mj-text css-class="article">
-					<h2>Backlight 6.2.1 — Audio, video, caveats</h2>
-					<p><strong>Backlight 6.2.1</strong> is available now, and adds audio/video support, but there's a catch.</p>
-          <p>The update also includes improvements to typography, headers, footers, blog excerpts, image comparison presentations, and more.</p>
-          <p>For all the details, see <a href="https://theturninggate.net/blog/update-backlight-6-2-1" target="_blank">Update: Backlight 6.2.1</a> on the blog.</p>
+					<h2>FEATURE_1</h2>
+					<p></p>
 				</mj-text>        
 			</mj-column>
 		</mj-section>
@@ -260,15 +257,18 @@
 			<mj-column>
 				<mj-image alt="" src="" />
 				<mj-text css-class="article">
-					<h2>Filmist 2.4 Released!</h2>
-					<p>Filmist 2.4 is out, with updated presets for Kodachrome and Velvia, amongst other improvements. On the blog, I've taken a deeper look at this, and at the recent Natural HDR 5. This is also a great opportunity to see some of Backlight's recent updates in action. The post includes:</p>
-          <ul>
-            <li>embedded Vimeo video</li>
-            <li>embedded YouTube video</li>
-            <li>Hr sandwiches</li>
-            <li>Image comparison presentations, with captions</li>
-          </ul>
-          <p>Don't miss <a href="https://theturninggate.net/blog/seim-s-filmist-2-4-and-natural-hdr-5" target="_blank">Seim's Filmist 2.4 and Natural HDR 5</a> on the blog!</p>
+					<h2>FEATURE_2</h2>
+					<p>...</p>
+				</mj-text>        
+			</mj-column>
+		</mj-section>
+
+		<mj-section>
+			<mj-column>
+				<mj-image alt="" src="" />
+				<mj-text css-class="article">
+					<h2>Seim Effects</h2>
+					<p>...</p>
 					<p>Use our affiliate links to buy, or download the free micro packs to try, and <strong>use our exclusive discount code TTG20 for an additional 20% off</strong>:</p>
 					<ul>
 						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=183378">Filmist / Filmist Light</a></li>
@@ -290,27 +290,48 @@
 					<dl>
 						<dt>
 							📄 
-							<a href="https://petapixel.com/2025/02/16/national-press-photographers-association-condemns-white-house-for-banning-ap-journalists/">National Press Photographers Association Condemns White House for Banning AP Journalists</a>
+							<a href="">TITLE</a>
 						</dt>
-						<dd>I try to keep politics out of these newsletters, lest they become endless, doomerist rants. But this feels like it belongs here.</dd>
-
-						<dt>
-							📄 
-							<a href="https://imaging.nikon.com/imaging/information/story/">NIKKOR - The Thousand and One Nights</a>
-						</dt>
-						<dd>I am kind of astonished that this odd little project exists, and all the more so that it's not been put together by some strange nerd in his spare time, but that it's actually a part of Nikon's official website. "The history of Nikon cameras is also that of NIKKOR lenses. This serial story features fascinating tales of lens design and manufacture." I've got a <a href="https://imaging.nikon.com/imaging/information/story/0034/index.html">NIKKOR-H·C 5cm F2</a> that I like to slap onto my Fujifilm X-Pro 3 sometimes using an adapter. It's a super fun lens to shoot.</dd>
+						<dd>...</dd>
 
 						<dt>
 							📺 
-							<a href="https://youtu.be/NXWkpHugQpo?si=HbJoTVz-Q00D4KVn">The Most Influential Japanese Photographer EVER</a>
+							<a href="">TITLE</a>
 						</dt>
-						<dd>I have recently been enjoying this guy's micro-documentaries about influential photographers.</dd>
+						<dd>...</dd>
+
+
+
+						<dt>
+							🎙️ 
+							<a href="https://megaphone.link/VMP2109087838">Why the Take It Down Act is a not a law, but a weapon</a>
+						</dt>
+						<dd>On Vox's Decoder podcast, an interesting conversation about how a new bill meant to target nonconcensual imagery online (a good thing), might be abused or selectively enforced by the current US administration (a bad thing).</dd>
+            <dd>But this also gets me wondering how such legislation might impact photographers, and photographers' copyrights. Does a "nonconcensual image" have to be sexual in nature? For example, could a musician utilize this law to usurp concert photographers' rights to their photographs? We've already seen <a href="https://graphicartistsguild.org/taylor-swift-advocates-for-musicians-but-not-photographers/" target="_blank">similar disputes</a>, after all.
 
 						<dt>
 							📺 
-							<a href="https://youtu.be/L16xxxVDGGo?si=Xayqx9p5MSw3AGUx">why nobody knows what curry is</a>
+							<a href="https://www.youtube.com/watch?v=xB1-qiyDNgw">Why In the Mood for Love Pushed Wong Kar Wai to the Edge</a>
 						</dt>
-						<dd>What even is a curry? A dish? A spice? A colonial mistake? Or something that's always been part of who we are? In this video, Melissa unpacks this messy debate, tracing how a single word came to define (and flatten) an entire world of flavours, histories, and identities.</dd>
+						<dd>...</dd>
+
+						<dt>
+							📺 
+							<a href="https://www.youtube.com/watch?v=MrkExipFIv4">How to Positively Use Negative Space in Your Photos</a>
+						</dt>
+						<dd>From Yorkshire Photo Walks, this is a little bit <cite>Beginner's Guide to Composition</cite>, but it's a good demonstration of how to work a subject from multiple angles. It's not always possible, if you have to shoot from one side of a fence, but if you have the access and the time to do it, this is how to do it.</dd>
+
+						<dt>
+							📺 
+							<a href="https://www.youtube.com/watch?v=qO0WvudbO04">I tried to prove I'm not AI</a>
+						</dt>
+						<dd>From Howtown, a new-ish, very good YouTube channel from journalists Adam Cole and Joss Fong. In a time of, "Assume nothing, believe no one and nothing, and doubt everything ... If you're in doubt, just assume it's fake," how do we authenticate?</dd>
+
+						<dt>
+							📺 
+							<a href="https://www.youtube.com/watch?v=6HLB0Deb9G8">David Bowie, remembered in 9 songs that sampled him</a>
+						</dt>
+						<dd>Only 9?! They could have kept going ... I wouldn't have minded ...</dd>
 
 					</dl>
 				</mj-text>        
@@ -323,15 +344,15 @@
 					<h2>Music Pick</h2>
 				</mj-text>
 
-				<mj-image alt="Liam Finn, HYPERVERSE" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202502-vol-02/a1288582970_5.jpg?raw=true" />
+				<mj-image alt="Hyukoh and Sunset Rollercoaster" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202505/Hyukoh-Sunset-Rollercoaster-hero-credit-Zhong-Lin.jpg?raw=true" />
 
 				<mj-text css-class="article">
 					<dl>
 						<dt>
 							📺 
-							<a href="https://www.youtube.com/watch?v=7HBAVf-arvY">"Purple Dress" by Liam Finn</a>
+							<a href="">"TITLE" by Hyukoh and Sunset Rollercoaster</a>
 						</dt>
-						<dd>One of a handful of tracks now available from Liam Finn's upcoming record, HYPERVERSE, "Purple Dress" is a very pretty song. Introspective Liam, rather than Animal from the Muppets Liam. I like both Liams a lot.</dd>
+						<dd>DESCRIPTION</dd>
 					</dl>
 				</mj-text>        
 			</mj-column>
