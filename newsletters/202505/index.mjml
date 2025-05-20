@@ -236,10 +236,11 @@
 
 		<mj-section>
 			<mj-column>
-				<mj-image alt="HERO" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202304/20230129-092006-mc-Taipei-0317.jpg?raw=true" />
+				<mj-image alt="San Francisco" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202505/20241110-155539-San-Francisco-1251?raw=true" />
 				<mj-text css-class="article">
 					<p>Hi [Name,fallback=Friend],</p>
-					<p>...</p>
+          <p>As always, we hope this finds you well and taking full advantage of whatever light reaches your part of the world.</p>
+					<p>Big updates come to Backlight's recent blogging features in version 6.3.0, and keyboard focus states have been overhauled. Ben has also addressed some important bugs in this release, so be sure to update!</p>
 				</mj-text>        
 			</mj-column>
 		</mj-section>
@@ -247,36 +248,21 @@
 		<mj-section>
 			<mj-column>
 				<mj-text css-class="article">
-					<h2>FEATURE_1</h2>
-					<p></p>
-				</mj-text>        
-			</mj-column>
-		</mj-section>
-
-		<mj-section>
-			<mj-column>
-				<mj-image alt="" src="" />
-				<mj-text css-class="article">
-					<h2>FEATURE_2</h2>
-					<p>...</p>
-				</mj-text>        
-			</mj-column>
-		</mj-section>
-
-		<mj-section>
-			<mj-column>
-				<mj-image alt="" src="" />
-				<mj-text css-class="article">
-					<h2>Seim Effects</h2>
-					<p>...</p>
-					<p>Use our affiliate links to buy, or download the free micro packs to try, and <strong>use our exclusive discount code TTG20 for an additional 20% off</strong>:</p>
-					<ul>
-						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=183378">Filmist / Filmist Light</a></li>
-						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=227189">Gold Chrome</a></li>
-						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=218548">Natural HDR</a></li>
-						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=204790">Silver</a></li>
-						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=231573">Street'ist</a></li>
-					</ul>
+					<h2>Backlight 6.3.0: Blog and search improvements!</h2>
+					<p>Blogs were the headline item for Backlight 6, and this release brings major updates to our blogging features! We've integrated blogs into Backlight's search, making blogs and blog posts searchable, and have added search features to Kookaburra templates. Blogs and post can now be relocated after publish, and long posts can be paginated.</p>
+          <p>Keyboard focus states have also been overhauled in this release, and should yield improvements for keyboard and mouse users alike.</p>
+          <ul>
+            <li>Blogs: adds support for searching Blogs and Posts</li>
+            <li>Blogs: adds function to move Blogs and Posts into another Blog</li>
+            <li>Blogs: adds new page to list all posts within a Blog</li>
+            <li>Blogs: adds support for pagination of Blog posts</li>
+            <li>Blogs: adds option to make a top-level blog appear on the home page</li>
+            <li>Kookaburra: adds support for searching and search template</li>
+            <li>Kookaburra: changes behaviour of albums to only show main copy on first page of multi-page album</li>
+            <li>Kookaburra: adds Focus-visible states</li>
+            <li>Fixes issue of setting an Album Set as it's own parent, that caused PHP out-of-memory errors</li>
+            <li>Fixes issue of not being able to add new menus when large numbers of albums exist</li>
+          </ul>
 				</mj-text>        
 			</mj-column>
 		</mj-section>
@@ -290,30 +276,34 @@
 					<dl>
 						<dt>
 							📄 
-							<a href="">TITLE</a>
+							<a href="https://404media.vrlps.co/b8m2y0t/cp">404 Media</a>
 						</dt>
-						<dd>...</dd>
+						<dd>^^^My 404 Media referral link.</dd>
+            <dd>I've linked to their stories before, but 404 remains, consistently, the best reading I do online, and now I have a referral link to share. Their content is gated to prevent scraping by bots, but it's free to sign up, and you will not regret it. They are a collective of independent journalists reporting on technology and its adjacent cultures, diligently and transparently. They go places that mainstream outlets dare not go, unless those outlets are stealing from 404.</dd>
+
+						<dt>
+							📄 
+							<a href="https://robertbreen.com/2025/02/06/why-blogs-matter/">Why Blogs Matter - Robert Breen</a>
+						</dt>
+						<dd>Humans writing blogs helps to keep the Internet human. AI and platforms suck. I'm not the only one that thinks so.</dd>
 
 						<dt>
 							📺 
-							<a href="">TITLE</a>
+							<a href="https://www.youtube.com/watch?v=2k2XVoJDS_0">Mr. Polaroid Documentary</a>
 						</dt>
-						<dd>...</dd>
-
-
+						<dd>From PBS, MR. POLAROID tells the little-known story of the man behind the camera, a Harvard dropout named Edwin Land. Over a half century ago, before the smartphone, Land was dreaming up “a camera that you would use as often as your pencil or your eyeglasses.” He would also come to believe his company was “on its way to lead the world — perhaps even to save it.” Hubris, technology, brilliance, and a billion photographs a year are all part of the rollicking Polaroid story.</dd>
 
 						<dt>
-							🎙️ 
-							<a href="https://megaphone.link/VMP2109087838">Why the Take It Down Act is a not a law, but a weapon</a>
+							📺 
+							<a href="https://youtu.be/aGMt4TnBfUY?si=N1D3dQE-xhwa4jgU">Alan Schaller</a>
 						</dt>
-						<dd>On Vox's Decoder podcast, an interesting conversation about how a new bill meant to target nonconcensual imagery online (a good thing), might be abused or selectively enforced by the current US administration (a bad thing).</dd>
-            <dd>But this also gets me wondering how such legislation might impact photographers, and photographers' copyrights. Does a "nonconcensual image" have to be sexual in nature? For example, could a musician utilize this law to usurp concert photographers' rights to their photographs? We've already seen <a href="https://graphicartistsguild.org/taylor-swift-advocates-for-musicians-but-not-photographers/" target="_blank">similar disputes</a>, after all.
+						<dd>I've been following <a href="https://www.instagram.com/alan_schaller/" target="_blank">Alan Schaller on Instagram</a> for ages, but somehow only discovered he had a YouTube channel yesterday evening. Dude is a nut. His channel is fun. This one is about panning technique, and it's as good a place to start as any.</dd>
 
 						<dt>
 							📺 
 							<a href="https://www.youtube.com/watch?v=xB1-qiyDNgw">Why In the Mood for Love Pushed Wong Kar Wai to the Edge</a>
 						</dt>
-						<dd>...</dd>
+						<dd>Just fascinating stuff. "In the Mood for Love" is a great film, and one that every photographer should know. If you haven't seen it, see it; and if you have seen it, now you can learn a bit more about how it came to be.</dd>
 
 						<dt>
 							📺 
@@ -326,12 +316,6 @@
 							<a href="https://www.youtube.com/watch?v=qO0WvudbO04">I tried to prove I'm not AI</a>
 						</dt>
 						<dd>From Howtown, a new-ish, very good YouTube channel from journalists Adam Cole and Joss Fong. In a time of, "Assume nothing, believe no one and nothing, and doubt everything ... If you're in doubt, just assume it's fake," how do we authenticate?</dd>
-
-						<dt>
-							📺 
-							<a href="https://www.youtube.com/watch?v=6HLB0Deb9G8">David Bowie, remembered in 9 songs that sampled him</a>
-						</dt>
-						<dd>Only 9?! They could have kept going ... I wouldn't have minded ...</dd>
 
 					</dl>
 				</mj-text>        
@@ -350,9 +334,9 @@
 					<dl>
 						<dt>
 							📺 
-							<a href="">"TITLE" by Hyukoh and Sunset Rollercoaster</a>
+							<a href="https://www.youtube.com/watch?v=MUHadUugJ9g">"AAA" by Hyukoh and Sunset Rollercoaster</a>
 						</dt>
-						<dd>DESCRIPTION</dd>
+            <dd>Originally, I was going to feature the song, "Young Man", describing it as, "A feel-good slice of psychedelic dreampop from Korean musician Hyukoh and Taiwanese ensemble Sunset Rollercoaster". Thing is, <cite>AAA</cite> is a spectacular record, front-to-back, brimming with warmth and light, and it deserves to be heard in full. That it comes from the union of representatives from two countries that mean the world to me -- I lived in Korea for over a decade, and my wife is from Taiwan -- makes it all the more special.Sunshine, a soft blanket, a mug of hot chai, and this record. Enjoy!</dd>
 					</dl>
 				</mj-text>        
 			</mj-column>
