@@ -1,0 +1,389 @@
+<mjml>
+	<mj-head>
+		<mj-attributes>
+			<mj-button padding="0" />
+			<mj-column padding="0" />
+			<mj-image padding="0" />
+			<mj-section padding="0 0 48px" />
+			<mj-table padding="0" />
+			<mj-text
+				font-family="-apple-system, 'system-ui', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif"
+				font-size="14px"
+				padding="0"
+			/>
+			<mj-wrapper padding="0" />
+		</mj-attributes>
+
+		<mj-style>
+			body {
+				background-color: #ffffff;
+				padding: 0 12px;
+			}
+
+			.logo {
+				border: 0 solid #9e9e9e;
+				border-width: 1px 0 0;
+				color: #737373;
+				font-size: 0;
+				padding: 24px 0 12px;
+				text-align: center;
+			}
+			.logo-title {
+				font-size: 24px;
+				margin: 0 auto 12px;
+			}
+			.logo-element {
+				background-color: #9e9e9e;
+				border: 1px solid #fff;
+				box-sizing: border-box;
+				display: inline-block;
+				height: 12px;
+				list-style: none;
+				margin: 0 2px;
+				padding: 0;
+				vertical-align: top;
+				width: 12px;
+			}
+			.tall {
+				height: 24px;
+				margin: 0 2px;
+			}
+			.wide {
+				width: 24px;
+			}
+			.blue {
+				background-color: #2196f3;
+			}
+			.blue-alt {
+				background-color: #90caf9;
+			}
+			.orange {
+				background-color: #ff9800;
+			}
+			.green {
+				background-color: #8bc34a;
+			}
+			.green-alt {
+				background-color: #b2ff59;
+			}
+			.dateline {
+				font-size: 12px;
+				margin: 12px auto;
+				text-align: center;
+			}
+
+			.article {
+				background-color: #f5f5f5;
+				border-bottom: 1px solid #e0e0e0;
+				border-radius: 4px 4px 0 0;
+				padding: 0 !important;
+			}
+
+			.social-links {
+				background-color: #f5f5f5;
+				border: 0 solid #e0e0e0;
+				border-width: 1px 0;
+				margin: 0 !important;
+				padding: 12px 0 !important;
+				text-align: center;
+			}
+			.social-links a {
+				margin: 0 12px;
+			}
+			.unsubscribe {
+				cursor: pointer;
+				font-size: 12px;
+				margin:  12px 0 !important;
+				text-align: right;
+				text-decoration: underline;
+			}
+		</mj-style>
+
+		<mj-style inline="inline">
+			.web-version-link {
+				color: #0071CE;
+				margin: 12px 0;
+				text-align: right;
+			}
+
+			h2 {
+				border-bottom: 1px solid #e0e0e0;
+				color: #616161;
+				line-height: 1.25em;
+				margin: 1.25rem 0 0;
+				padding: 0 12px 1.25rem;
+			}
+
+			h3 {
+				color: #616161;
+				font-size: 16px;
+				line-height: 1.25em;
+				margin: 1.25rem 0;
+				padding: 0 12px;
+			}
+
+			hr {
+				border-top: 1px solid #e0e0e0;
+				height: 0;
+				margin: 1.25rem 12px;
+			}
+
+			p {
+				color: #707070;
+				line-height: 1.5em;
+				margin: 1.125rem 0;
+				padding: 0 12px;
+			}
+
+			a {
+				color: #0071CE;
+				cursor: pointer;
+				font-weight: bold;
+				text-decoration: underline;
+			}
+
+			dl {
+				color: #707070;
+				line-height: 1.5em;
+				margin: 1.125rem 0;
+				padding: 0 12px;
+			}
+			dt {
+				font-size: 14px;
+				font-weight: bold;
+				margin: 1.125rem 0 0.625em;
+			}
+			dd {
+				font-size: 13px;
+				margin: 0.625rem 0;
+			}
+
+			figure {
+				margin: 1.5rem 0;
+			}
+
+			h2 + figure {
+				margin-top: 0;
+			}
+
+			img {
+				display: block;
+				height: auto;
+				max-width: 100%;
+			}
+
+			svg {
+				display: inline-block;
+				height: 18px;
+				margin-right: 4px;
+				vertical-align: middle;
+				width: 18px;
+			}
+
+			figcaption {
+				color: #707070;
+				font-size: 12px;
+				line-height: 1.5em;
+				margin: 6px 12px 0;
+			}
+
+			ol, ul {
+				color: #707070;
+				margin: 1.125rem 0;
+				padding: 0 32px;
+			}
+
+			li {
+				line-height: 1.125em;
+				list-style: square;
+				margin: 0.5rem 0;
+			}
+		</mj-style>
+
+		<mj-title>The Turning Gate</mj-title>
+	</mj-head>
+
+	<mj-body>
+
+		<mj-section padding-bottom="0">
+			<mj-column>
+				<mj-text>
+					<div class="web-version-link">
+						<webversion>view web version</webversion>
+					</div>
+
+					<div class="logo">
+						<h1 class="logo-title">The Turning Gate</h1>
+
+						<span class="logo-element"></span>
+						<span class="logo-element blue-alt"></span>
+						<span class="logo-element wide blue"></span>
+						<span class="logo-element tall wide orange"></span>
+						<span class="logo-element"></span>
+						<span class="logo-element"></span>
+						<span class="logo-element"></span>
+						<span class="logo-element tall green"></span>
+						<span class="logo-element"></span>
+						<span class="logo-element"></span>
+						<span class="logo-element green-alt"></span>
+
+						<div class="dateline">[currentmonth] [currentdaynumber], [currentyear]</div>
+					</div>
+
+				</mj-text>
+			</mj-column>
+		</mj-section>    
+
+		<mj-section>
+			<mj-column>
+				<mj-image alt="HERO" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202304/20230129-092006-mc-Taipei-0317.jpg?raw=true" />
+				<mj-text css-class="article">
+					<p>Hi [Name,fallback=Friend],</p>
+					<p>...</p>
+				</mj-text>        
+			</mj-column>
+		</mj-section>
+
+		<mj-section>
+			<mj-column>
+				<mj-text css-class="article">
+					<h2>FEATURE_1</h2>
+					<p></p>
+				</mj-text>        
+			</mj-column>
+		</mj-section>
+
+		<mj-section>
+			<mj-column>
+				<mj-image alt="" src="" />
+				<mj-text css-class="article">
+					<h2>FEATURE_2</h2>
+					<p>...</p>
+				</mj-text>        
+			</mj-column>
+		</mj-section>
+
+		<mj-section>
+			<mj-column>
+				<mj-image alt="" src="" />
+				<mj-text css-class="article">
+					<h2>Seim Effects</h2>
+					<p>...</p>
+          <hr />
+					<p>Use our affiliate links to buy, or download the free micro packs to try, and <strong>use our exclusive discount code TTG20 for an additional 20% off</strong>:</p>
+					<ul>
+						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=183378">Filmist / Filmist Light</a></li>
+						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=227189">Gold Chrome</a></li>
+						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=218548">Natural HDR</a></li>
+						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=204790">Silver</a></li>
+						<li><a href="https://getdpd.com/cart/hoplink/18510?referrer=46x9m4u8z2m8088gg&p=231573">Street'ist</a></li>
+					</ul>
+				</mj-text>        
+			</mj-column>
+		</mj-section>
+
+		<mj-section>
+			<mj-column>
+				<mj-text css-class="article">
+					<h2>Stuff &amp; Things</h2>
+					<p>Our curated list of recent, suggested listening, reading and viewing.</p>
+
+					<dl>
+						<dt>
+							📄 
+							<a href="">TITLE</a>
+						</dt>
+						<dd>...</dd>
+
+						<dt>
+							📺 
+							<a href="">TITLE</a>
+						</dt>
+						<dd>...</dd>
+
+						<dt>
+							📄 
+							<a href="https://www.bbc.com/news/articles/czx0kn124w0o">Rare antelope captured on camera as experts say under 100 exist</a>
+						</dt>
+						<dd>For the first time, wildlife researchers have captured and published a photo of a rare and relatively unknown antelope called the Upemba Lechwe. You know how much I like obscure animals, so of course I had to share. But don't worry, I won't be creating Upemba Lechwe modules after Kookaburra is done; I'm fairly confident Kookaburra will be the final evolution of Backlight's design system. So, just enjoy the Upemba Lechwe for what it is.</dd>
+
+						<dt>
+							📄 
+							<a href="https://www.wired.com/story/the-privacy-friendly-tech-to-replace-your-us-based-email-browser-and-search/">The Privacy-Friendly Tech to Replace Your US-Based Email, Browser, and Search</a>
+						</dt>
+						<dd>A good article of privacy-focused alternatives for common web services. It's been a while since I gave hte Vivaldi browser a look, and this has got me thinking I should give it another go.</dd>
+
+						<dt>
+							📺 
+							<a href="https://www.youtube.com/watch?v=nwxtEvljUZU">Copy + Paste + Steal: Artists Battle For Copyright vs Generative AI</a>
+						</dt>
+						<dd>From CNA Insider's Undercover Asia series, a full 47-minute documentary about artists' ongoing fight for copyright protection. Several of the stories discussed, I've been following individually for some time; it's nice to see someone giving them larger exposure.</dd>
+
+					</dl>
+				</mj-text>        
+			</mj-column>
+		</mj-section>
+
+		<mj-section>
+			<mj-column>
+				<mj-text css-class="article">
+					<h2>Music Pick</h2>
+				</mj-text>
+
+				<mj-image alt="ARTIST" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202506/pulp.jpg?raw=true" />
+
+				<mj-text css-class="article">
+					<dl>
+						<dt>
+							📺 
+							<a href="https://www.youtube.com/watch?v=c_xnLmRz6XM&t=2s">"Got to Have Love" by PULP</a>
+						</dt>
+						<dd>From Pulp's new album, "More", their first in 23 years. Riotously good.</dd>
+					</dl>
+				</mj-text>        
+			</mj-column>
+		</mj-section>
+
+		<mj-section>
+			<mj-column>
+				<mj-text>
+					<p class="social-links">
+						<a href="https://blog.theturninggate.net" target="_blank">Blog</a>
+						<a href="https://discourse.theturninggate.net/" target="_blank">Forum</a>
+						<a href="https://www.linkedin.com/company/theturninggate/" target="_blank">LinkedIn</a>
+					</p>
+
+					<p class="unsubscribe">
+						<unsubscribe>Unsubscribe from future mailings.</unsubscribe>
+					</p>
+
+					<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+						<symbol
+							fill="none"
+							id="article"
+							stroke="currentColor"
+							stroke-linecap="round"
+							stroke-linejoin="round"
+							stroke-width="2"
+							viewBox="0 0 24 24"
+						>
+							<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline>
+						</symbol>
+
+						<symbol
+							fill="none"
+							id="youtube"
+							stroke="currentColor"
+							stroke-linecap="round"
+							stroke-linejoin="round"
+							stroke-width="2"
+							viewBox="0 0 24 24"
+						>
+							<path d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.33z"></path><polygon points="9.75 15.02 15.5 11.75 9.75 8.48 9.75 15.02"></polygon>
+						</symbol>
+					</svg>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+	</mj-body>
+</mjml>
