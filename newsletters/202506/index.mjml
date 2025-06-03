@@ -236,7 +236,7 @@
 
 		<mj-section>
 			<mj-column>
-				<mj-image alt="HERO" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202304/20230129-092006-mc-Taipei-0317.jpg?raw=true" />
+				<mj-image alt="Turkey Point Lighthouse, Elk Neck State Park, MD" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202505/20250522-100019-mc-37808.jpg?raw=true" />
 				<mj-text css-class="article">
 					<p>Hi [Name,fallback=Friend],</p>
 					<p>...</p>
@@ -300,6 +300,12 @@
 							<a href="">TITLE</a>
 						</dt>
 						<dd>...</dd>
+
+						<dt>
+              📖 
+							<a href="https://karendhao.com/">Empire of AI, by Karen Hao</a>
+						</dt>
+						<dd>Award-winning journalist Karen Hao has been at the forefront of reporting on the impact of artificial intelligence on society. Her new book is probably the best thing you can read on the subject. She's also been doing the podcast circuit, so if you want the gist of things before or instead of reading the book, she recently appeared on <a href="https://www.youtube.com/watch?v=6ovuMoW2EGk">Factually, with Adam Conover</a>, and <a href="https://www.youtube.com/watch?v=W4TqJhQsEAQ">Better Offline, with Ed Zitron</a>, both great listens.</dd>
 
 						<dt>
 							📄 
