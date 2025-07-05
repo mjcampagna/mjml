@@ -239,7 +239,8 @@
 				<mj-image alt="Abandoned train car, Woodinville, WA" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202507/20250602-194252-mc-38011.jpg?raw=true" />
 				<mj-text css-class="article">
 					<p>Hi [Name,fallback=Friend],</p>
-					<p></p>
+					<p>A few months ago, we were driving the 405. I drive most often, but on this day my wife had the wheel, allowing me the rare luxury of watching the scenery. Through the passing trees, I noticed this abandoned train car off in the woods, and dropped a pin on Google maps. More than half a year later, I remembered that pin, and finally took the time to find my way back to that spot using local roads, and that's the images shared in this newsletter. I wish I could have gotten closer, but the overgrowth wouldn't allow it. Still, I'm glad I finally got back to this train car with my camera.</p>
+          <p>Sometimes you stick a pin in a worthwhile thing, and it might take a while to get back there. We recently updated Backlight to version 6.3.2, bringing long awaited features to Kookaburra: image downloads and watermarks!</p>
 				</mj-text>        
 			</mj-column>
 		</mj-section>
@@ -258,21 +259,11 @@
 
 		<mj-section>
 			<mj-column>
-				<mj-image alt="" src="" />
-				<mj-text css-class="article">
-					<h2>FEATURE_2</h2>
-					<p>...</p>
-				</mj-text>        
-			</mj-column>
-		</mj-section>
-
-		<mj-section>
-			<mj-column>
-				<mj-image alt="Abandoned train car, Woodinville, WA" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202507/20250602-194252-mc-38017.jpg?raw=true" />
+				<mj-image alt="Abandoned train car, Woodinville, WA" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202507/20250602-194445-mc-38017.jpg?raw=true" />
 				<mj-text css-class="article">
 					<h2>Seim Effects: Velvia 100</h2>
 					<p>A few months back, I published <a href="https://theturninggate.net/blog/seim-s-filmist-2-4-and-natural-hdr-5" target="_blank">my impressions</a> on Seim Effects' Filmist 2.4 update. If you read that post, you might be interested in Gavin's blog post about the Velvia 100 preset, which is -- at least in part -- a reply to my impressions, <a href="https://seimeffects.com/2025/02/22/the-velvia-100-look-on-digital-lightroom-presets-styles/" target="_blank">I made the Velvia 100 look on digital and it teaches the contrast of photography</a>. It's a good read, and offers good insight into Gavin's approach to preset development.</p>
-          <p>The Velvia 100 preset is a good one, and I find myself using it more and more.</p>
+          <p>The Velvia 100 preset is a good one, and when I reach for presets, I find myself using it more and more, such as for the images in this newsletter.</p>
           <hr />
 					<p>Use our affiliate links to buy, or download the free micro packs to try, and <strong>use our exclusive discount code TTG20 for an additional 20% off</strong>:</p>
 					<ul>
@@ -295,15 +286,9 @@
 					<dl>
 						<dt>
 							📄 
-							<a href="">TITLE</a>
+							<a href="https://www.lensculture.com/articles/jess-tran-vi-t-ki-u-documenting-vietnamese-diaspora-around-the-world">Việt Kiều — Documenting Vietnamese Diaspora Around the World</a>
 						</dt>
-						<dd>...</dd>
-
-						<dt>
-							📺 
-							<a href="">TITLE</a>
-						</dt>
-						<dd>...</dd>
+						<dd>Named after a term to describe Vietnamese people outside of Vietnam, “Việt Kiều” is Sydney-born artist, Jess Tran's, growing archive of portraits capturing Vietnamese life across the world.</dd>
 
 						<dt>
 							📄 
@@ -341,7 +326,7 @@
 					<h2>Music Pick</h2>
 				</mj-text>
 
-				<mj-image alt="ARTIST" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202402/akini-jing.webp?raw=true" />
+				<mj-image alt="Kilo Kish" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202402/kilo-kish-negotiations-ep.png?raw=true" />
 
 				<mj-text css-class="article">
 					<dl>
