@@ -326,15 +326,16 @@
 					<h2>Music Pick</h2>
 				</mj-text>
 
-				<mj-image alt="Kilo Kish" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202402/kilo-kish-negotiations-ep.png?raw=true" />
+				<mj-image alt="Kilo Kish" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202507/kilo-kish-negotiations-ep.png?raw=true" />
 
 				<mj-text css-class="article">
 					<dl>
 						<dt>
 							📺 
-							<a href="">"TITLE" by ARTIST</a>
+							<a href="https://negotiations.kilokish.com">"Negotiations EP" by Kilo Kish</a>
 						</dt>
-						<dd>DESCRIPTION</dd>
+						<dd>"Kilo Kish's <cite>Negotiations</cite> offers an exploration of the human body and mind as interconnected machines navigating the complexities of modern life. Central to this project is the notion of error and glitch, reflecting our contemporary struggles with finding stability in a rapidly accelerating world."</dd>
+            <dd>More than a mere record, <cite>Negotiations</cite> is an audio/visual project, complete with artist statement and video for every song. I've been a fan of Kish for a while, and this new project is worth spending time with.</dd>
 					</dl>
 				</mj-text>        
 			</mj-column>
