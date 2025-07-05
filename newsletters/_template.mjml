@@ -291,13 +291,13 @@
 					<dl>
 						<dt>
 							📄 
-							<a href="">TITLE</a>
+							<a href="" referrer="no-referrer" target="_blank">TITLE</a>
 						</dt>
 						<dd>...</dd>
 
 						<dt>
 							📺 
-							<a href="">TITLE</a>
+							<a href="" referrer="no-referrer" target="_blank">TITLE</a>
 						</dt>
 						<dd>...</dd>
 					</dl>

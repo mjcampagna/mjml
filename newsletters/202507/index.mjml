@@ -239,8 +239,7 @@
 				<mj-image alt="Abandoned train car, Woodinville, WA" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202507/20250602-194252-mc-38011.jpg?raw=true" />
 				<mj-text css-class="article">
 					<p>Hi [Name,fallback=Friend],</p>
-					<p>...</p>
-          <p>And if you happen to have gotten your hands on a Switch 2, Fast Fusion is a fine way to spend $15.</p>
+					<p></p>
 				</mj-text>        
 			</mj-column>
 		</mj-section>
@@ -248,8 +247,11 @@
 		<mj-section>
 			<mj-column>
 				<mj-text css-class="article">
-					<h2>FEATURE_1</h2>
-					<p></p>
+					<h2>Backlight 6.3.2: Image downloads and watermarks</h2>
+          <p>We recently released Backlight 6.3.2, a very important update that finally brings image watermarking and downloads to Kookaburra albums.</p>
+          <p>Lightroom users have always been able to apply watermarks to images on export from their catalogs; Backlight's native watermarking offers similar functionality on image upload, no Lightroom required. We've had this in Pangolin for a while, and we are very, very happy to finally have watermarking in Kookaburra. For the how-to, see <a href="https://backlight.me/docs/image-watermarking/" target="_blank">Image Watermarking</a> in our docs.</p>
+          <p>Also returning, this update brings downloads to Kookaburra albums' Grid and Masonry layouts, with UI/UX that I think surpasses what's in Pangolin. I am really pleased with how this has turned out, and the staging this provides for Cart and Client Response interactions to come in the future.</p>
+					<p>I've written a lengthy blog post about the update, so for more on this release, see our blog post <a href="https://theturninggate.net/blog/backlight-6-3-2-brings-watermarks-downloads-and-more" target="_blank">Backlight 6.3.2 brings watermarks, downloads, and more</a>.</p>
 				</mj-text>        
 			</mj-column>
 		</mj-section>
@@ -266,10 +268,11 @@
 
 		<mj-section>
 			<mj-column>
-				<mj-image alt="" src="" />
+				<mj-image alt="Abandoned train car, Woodinville, WA" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202507/20250602-194252-mc-38017.jpg?raw=true" />
 				<mj-text css-class="article">
-					<h2>Seim Effects</h2>
-					<p>...</p>
+					<h2>Seim Effects: Velvia 100</h2>
+					<p>A few months back, I published <a href="https://theturninggate.net/blog/seim-s-filmist-2-4-and-natural-hdr-5" target="_blank">my impressions</a> on Seim Effects' Filmist 2.4 update. If you read that post, you might be interested in Gavin's blog post about the Velvia 100 preset, which is -- at least in part -- a reply to my impressions, <a href="https://seimeffects.com/2025/02/22/the-velvia-100-look-on-digital-lightroom-presets-styles/" target="_blank">I made the Velvia 100 look on digital and it teaches the contrast of photography</a>. It's a good read, and offers good insight into Gavin's approach to preset development.</p>
+          <p>The Velvia 100 preset is a good one, and I find myself using it more and more.</p>
           <hr />
 					<p>Use our affiliate links to buy, or download the free micro packs to try, and <strong>use our exclusive discount code TTG20 for an additional 20% off</strong>:</p>
 					<ul>
@@ -301,6 +304,13 @@
 							<a href="">TITLE</a>
 						</dt>
 						<dd>...</dd>
+
+						<dt>
+							📄 
+							<a href="https://www.businessoffashion.com/news/technology/hm-releases-first-images-with-ai-digital-twins/">H&amp;M Releases First Images With AI Digital Twins</a>
+						</dt>
+						<dd>H&amp;M has recently released first images of models' "digital twins" to Instagram, <a href="https://www.businessoffashion.com/articles/technology/hm-plans-to-use-ai-models/">fully aware that controversy would follow</a>. They claim that models (or their agencies?) will control their twins, but that still leaves photographers, stylists, hair and makeup artists, and others out of work. I have, on occasion, shopping H&amp;M in the past; I will not be doing so in the future. </dd>
+            <dd>For more perspective, this YouTuber makes good points: <a href="https://www.youtube.com/watch?v=xMYHZJUxU7Y">Is H&amp;M ending the Modeling Industry?</a></dd>
 
 						<dt>
 							📺 
