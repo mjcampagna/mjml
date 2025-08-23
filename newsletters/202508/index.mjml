@@ -236,7 +236,7 @@
 
 		<mj-section>
 			<mj-column>
-				<mj-image alt="HERO" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202304/20230129-092006-mc-Taipei-0317.jpg?raw=true" />
+				<mj-image alt="Garden colors" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202508/20250709-173630-mc-38748.jpg?raw=true" />
 				<mj-text css-class="article">
 					<p>Hi [Name,fallback=Friend],</p>
 					<p>...</p>
