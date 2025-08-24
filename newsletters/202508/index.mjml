@@ -273,7 +273,7 @@
 				<mj-image alt="North East, MD" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202508/20250522-134227-mc-37952.jpg?raw=true" />
 				<mj-text css-class="article">
 					<h2>Seim Time!</h2>
-          <p>Filmist 2.5 released this week, with improvements made to Portra 800, Kodachrome 64, Classic Neg, and more, and a new film type, Fuji Instant 800.</p>
+          <p>Filmist 2.5 released this week, with improvements made to Portra 800, Kodachrome 64, Classic Neg, and more, and a new film type, Fuji Instant 800 (used above).</p>
           <p>There's also sales happening. Filmist is currently marked down to celebrate the new release, and Seim's Summer sale is on: use the code <strong>SMR25</strong> to save 25% storewide. If you miss the sale, though ...
           <hr />
 					<p>Use our affiliate links to buy, or download the free micro packs to try, and <strong>use our exclusive discount code TTG20 for an additional 20% off</strong>:</p>
@@ -291,42 +291,9 @@
 		<mj-section>
 			<mj-column>
 				<mj-text css-class="article">
-					<h2>Stuff &amp; Things</h2>
-					<p>Our curated list of recent, suggested listening, reading and viewing.</p>
-
-					<dl>
-						<dt>
-							📄 
-							<a href="" referrer="no-referrer" target="_blank">TITLE</a>
-						</dt>
-						<dd>...</dd>
-
-						<dt>
-							📺 
-							<a href="" referrer="no-referrer" target="_blank">TITLE</a>
-						</dt>
-						<dd>...</dd>
-					</dl>
-				</mj-text>        
-			</mj-column>
-		</mj-section>
-
-		<mj-section>
-			<mj-column>
-				<mj-text css-class="article">
-					<h2>Music Pick</h2>
-				</mj-text>
-
-				<mj-image alt="ARTIST" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202402/akini-jing.webp?raw=true" />
-
-				<mj-text css-class="article">
-					<dl>
-						<dt>
-							📺 
-							<a href="">"TITLE" by ARTIST</a>
-						</dt>
-						<dd>DESCRIPTION</dd>
-					</dl>
+					<h2>Until next time ...</h2>
+          <p>That's a wrap for now. No other links to share, and no music pick this edition.</p>
+          <p>Now that the shop move is complete, we can hopefully get back to our usual cadence of product updates, and you'll hear from us again when the next version of Backlight is available.</p>
 				</mj-text>        
 			</mj-column>
 		</mj-section>
