@@ -239,7 +239,9 @@
 				<mj-image alt="Garden colors" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202508/20250709-173630-mc-38748.jpg?raw=true" />
 				<mj-text css-class="article">
 					<p>Hi [Name,fallback=Friend],</p>
-					<p>...</p>
+					<p>We find ourselves getting toward the end of another summer. This garden bed alongside my house is a beautiful tangle of color.</p>
+          <p><a href="https://petapixel.com/2025/08/22/backlight-is-a-powerful-subscription-free-web-app-built-for-photographers/" rel="nofollow noopener noreferrer" target="_blank">Backlight got a writeup in PetaPixel</a> this week. Swing by, leave a comment, let people know you appreciate the software. It helps!</p>
+          <p>And we've recently moved our shop from SendOwl to Gumroad. I'll tell you why.</p>
 				</mj-text>        
 			</mj-column>
 		</mj-section>
@@ -247,28 +249,32 @@
 		<mj-section>
 			<mj-column>
 				<mj-text css-class="article">
-					<h2>FEATURE_1</h2>
-					<p></p>
+					<h2>Moving shop</h2>
+          <p>We've moved shop, from SendOwl to Gumroad. As before, you can access everything we have to offer from <a href="https://backlight.me/get-backlight/" rel="nofollow noopener noreferrer" target="_blank">Backlight.me</a>.</p>
+          
+          <p>This change should not impact existing Backlight sites, and new purchases of add-ons, upgrades, etc. should play nicely, regardless the origin of purchase.</p>
+
+          <p>If you're holding onto download URLs for past purchases, these will stop working sometime in September. However, we have your purchase records in our system, and will always be able to provide your downloads upon request.</p>
+
+          <p>As always, reach out if you have any concerns or issues, either in <a href="https://discourse.theturninggate.net/" rel="nofollow noopener noreferrer" target="_blank">the support forum</a>, or you can reply to this email.</p>
+
+          <p>Why the move?</p>
+					<p>I liked SendOwl. They were a lot like us: scrappy, independent, beholden only to their customers. That's changed.</p>
+          <p>SendOwl got a new CEO in August 2020, known for his former roles as Head of Growth at Stripe and Director of Business Operations at LinkedIn. <a href="https://tracxn.com/d/companies/sendowl/__yMe_9ayZiuF0qooZWBtvl4A_HLDUB_WYoQjqfNhdjrI/funding-and-investors" rel="nofollow noopener noreferrer" target="_blank">In 2021, SendOwl raised a $4.5 million seed round</a>, and then <a href="https://www.businessinsider.com/memo-document-digital-commerce-startup-sendowl-9-million-seed-vc-2023-2" rel="nofollow noopener noreferrer" target="_blank">raised an additional $9 million seed round in 2023</a>. SendOwl is walking a new path, aiming to be the digital sales platform of choice for viral social media influencers. It is now beholden to its investors, and needs to show growth and revenue heading toward their eventual Seed A funding round. To that end, SendOwl sprung new pricing tiers on old customers a few months ago, and ... well, we're leaving.</p>
+          <p>Gumroad is also beholden to its investors, but has settled into a shape that better accommodates our current needs. And it offers some great features over SendOwl.</p>
+          <p>We've had to adjust our pricing upward -- regardless staying with SendOwl or moving to Gumroad, our overhead is changing -- but Gumroad allows us to offer "purchasing power parity" to readjust prices back downward for those using a weaker currency. Gumroad is also the Merchant of Record for all sales, handling all sales tax collection and remittance worldwide, providing invoices, etc., making our lives easier.</p>
+          <p>And if you have a Gumroad account, you will be able to track and access your Backlight purchases in your Gumroad library.</p>
 				</mj-text>        
 			</mj-column>
 		</mj-section>
 
 		<mj-section>
 			<mj-column>
-				<mj-image alt="" src="" />
+				<mj-image alt="North East, MD" src="https://github.com/mjcampagna/mjml/blob/main/newsletters/202508/20250522-134227-mc-37952.jpg?raw=true" />
 				<mj-text css-class="article">
-					<h2>FEATURE_2</h2>
-					<p>...</p>
-				</mj-text>        
-			</mj-column>
-		</mj-section>
-
-		<mj-section>
-			<mj-column>
-				<mj-image alt="" src="" />
-				<mj-text css-class="article">
-					<h2>Seim Effects</h2>
-					<p>...</p>
+					<h2>Seim Time!</h2>
+          <p>Filmist 2.5 released this week, with improvements made to Portra 800, Kodachrome 64, Classic Neg, and more, and a new film type, Fuji Instant 800.</p>
+          <p>There's also sales happening. Filmist is currently marked down to celebrate the new release, and Seim's Summer sale is on: use the code <strong>SMR25</strong> to save 25% storewide. If you miss the sale, though ...
           <hr />
 					<p>Use our affiliate links to buy, or download the free micro packs to try, and <strong>use our exclusive discount code TTG20 for an additional 20% off</strong>:</p>
 					<ul>
